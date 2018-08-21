@@ -8,4 +8,40 @@ ausgewirkt.
 
 ## Einleitung / Fragestellung
 
-s
+
+
+
+## Mythologie
+
+### Eddas
+
+### Enstehungsmythos
+
+### Yggdrasil und die neun Welten
+
+### Asen
+
+### Vanen
+
+### Jotenheimer
+
+### Andere Figuren
+
+
+## Sozialstrukur
+
+### Politik
+
+### Stamm/Siedlungen/Dörfer
+
+
+
+
+## Rechtssprechung
+
+### Gesetzte
+
+### Handel
+
+
+
