@@ -1,7 +1,29 @@
-# Arbeitsjournal Sascha Blank
+# Arbeitsjournal
 
 ## 21.08.2018
 
+Heute haben wir damit angefangen das schlussendliche Dokument anzulegen.
+Wir haben auch beschlossen fürs Erste kein Word Dokument zu verwenden, da es einfacher ist mit purem Text 
+zu arbeiten und wir uns am Schluss dann Sorgen um die Formatierung machen können.
+Wir haben zusammen auch schon ein kleines Grobkonzept abgemacht.
+Der Grundfrage ist wie die Religion die Kultur und Rechtsprechung der Nordmänner beeinflusst hat.
+Daher haben wir den ersten Teil der Arbeit in genau diese drei Bereiche aufgeteilt.
+Religion, Rechtsprechung und Kultur. Wir wollen alle drei geteilt anschauen, damit wir danach 
+besser auzeigen können, welche Zusammhänge existieren und welche fehlen.
+
+## 28.08.2018
+
+Heute haben wir uns mit den Fragen im Grobkonzept auseinandergesetzt und uns Gedanken dazu gemacht.
+Naja, diese Gedanken stehen nun im Grobkonzept, müssen also nicht mehr zwingend hier aufgelistet werden.
+Einer der interessanteren Teile war sicherlich die Frage, ob eine Fachperson hilfreich wäre.
+Wir sind zum Schluss gekommen, dass es sicherlich interessant wäre, aber uns ist bewusst, dass
+es nicht zwingend nötig und sogar nur beschränkt konstruktiv wäre, da das Thema sehr geschichtlich ist und 
+aus der Zeit niemand mehr lebt. 
+Der nächste grosse Schritt wird sein, eine Sammlung verschiedener Links anzuhäufen, die eher verlässlich und gut dokumentiert sind.
+
+
+
+/*
 ### Arbeiten
 * Dokument für die Dokumentation wurde angelegt. 0.5h
 * Github Versionsverwaltung für die IDPA angelegt 0.5h
@@ -22,3 +44,5 @@ Alle Arbeiten gingen leicht von der Hand und wurden effizent erledit
 ### Nächste Schritte
 Alles vorhandene Wissen über die Mythologie in das Kapitel schreiben
 und die Wissenlücken recherchieren und schliessen
+*/
+
