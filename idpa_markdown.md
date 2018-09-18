@@ -1,4 +1,9 @@
-# IDPA Nordmänner.
+# IDPA Nordmänner
+
+## Temporäre Linksammlung
+
+- [Wikipedia Wikinger](https://en.wikipedia.org/wiki/Vikings)
+
 
 ## Fragestellung
 
