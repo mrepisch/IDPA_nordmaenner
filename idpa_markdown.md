@@ -1,6 +1,6 @@
-#IDPA Nordmänner.
+# IDPA Nordmänner.
 
-##Fragestellung
+## Fragestellung
 
 Wie hat sich die Mythologie auf die Politik und Rechtsprechung der Nordmänner 
 ausgewirkt.
