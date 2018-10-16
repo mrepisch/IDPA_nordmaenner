@@ -23,7 +23,11 @@ ausgewirkt.
 ### Enstehungsmythos
 
 ### Yggdrasil und die neun Welten
-
+"Eine Esche kenn ich - überschütte-, sie heisst
+Yggdrasil,
+ein hoher heiliger Baum - mit weissem Sand;
+von dort kommt der Tau, der in den Tälern niederfällt;
+sie steht immer grün über dem Urdbrunnen"<sup>1</sup>
 ### Asen
 
 ### Vanen
