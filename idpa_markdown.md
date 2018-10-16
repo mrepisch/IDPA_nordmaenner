@@ -35,9 +35,22 @@ ausgewirkt.
 
 ## Sozialstrukur
 
-### Politik
+### Hierarchie
+
+#### König & Jarl
+#### Familienoberhaupt
+#### Seher/Heiler/shaman
+
+### Frauen und Männerbild
+
+#### Rollenverteilung
+#### Polygamie / Monogamie
+#### Homosexualität
+#### Schieldmaiden
 
 ### Stamm/Siedlungen/Dörfer
+
+### Raubzüge, Kriegerkultur
 
 
 
