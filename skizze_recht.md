@@ -1,6 +1,5 @@
 # Recht
-
-## Bagatelldelikte
+Die Nordmänner kannten keine Polizei. Wurde jemandem Unrecht getan, hatte er zwei Möglichkeiten um Gerechtigkeit einzufordern. Der schnelle Weg war, den Verursacher des Schadens persönlich zur Rechenschaft zu ziehen. Länger dauerte es, wenn er seine Sache an der nächsten Versammlung (Thing) vortrug.
 
 ## leichte Schuld
 
