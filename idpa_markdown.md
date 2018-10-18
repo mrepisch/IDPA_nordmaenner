@@ -39,14 +39,11 @@ Zu dieser Zeit fand die Chrisitanisierung von Europa statt.
 Der Christliche Einfluss ist zu Beginn des Buches sehr präsent und muss, soweit möglich, berücksichtigt werden.
 
 ### Enstehungsmythos
-Zu Beginn war nicht//TODO name des nichts //. Eine Kuh war an dort (besser formulieren)
-Der Rise Imir lebte von der Milk der Kuh und die Kuh leckte am Salzstein.
-Aus den Achseln? des Riesen wuchsen die die ersten Asen. Odin, Bruder 1!!!!, Bruder 2!!!!.
-Diese erschlugen Imir und formte Midgard. Midgard ist der Name der Welt der Menschen. 
-Aus dem Fleisch des Riesen formten sie die Erde, aus den Knochen die Berge, sein Schweiss befüllte die Seen und Flüsse,
-sein Blut füllte die Meere. Für die Himmelskupper, damals dachten die Menschen sie lebten auf einer flachen Erde, wurde 
-der Schädel des Riesen verwendet und für die grossen dunklen Wolken sein Gehirn.
-
+In der Urzeit existierte nur der Schlund der Urleere, welche in der Edda Ginnungagap gennant wird.
+In dieser Zeit ist auch Nifelheim enstanden. An diesem Ort TODO: unbekannt !!herscht ewige Kälte. In Nifelheim liegt die Quelle die mann Hwergelmir heisst. Aus dieser Quelle sind 10 Flüsse entsprungen. Der dritte ursprüngliche Ort ist Muspel. Die Erzählung spricht von einem sehr heissem Ort in welchem der Feuerriese Satur lebt. 
+Die giftige Schlacke, welche von den Flüssen von Nifelheim gefuḧrt wurde, erstarte, auf dem Boden enstand Eis und Fels.
+Die Sprizer aus der giftigen Schlacke bildeten einen Reif welchen Ginnungapap umfasste. Durch das Zusammenspiel der Kälte aus Nifelheim und der Hitze aus Muspel taute der Reif teilweise auf und Tropfte auf den Eisboden. Aus den Tropfen enstand der Riese Ymir. //TODOsatz umabuen  Ymir schwitze wen er schlief und aus seinen Achselhöhlen wuchsen eine weibliche und ein mändlicher Riese, die ersten beiden des Geschlechts der Reifrisen. Aus dem Reif enstand ebenfalls auch die Kuh Audhumla, sie lieferte Milch an den Riesen Ymir. Audhumla ernährte sich durch das Ablecken von salzigen Steinen. Als die Kuh die Steine ableckt kommen der Mann Buri und sein Sohn Borr hervor. Borr nahm sich die Riesin Bestla zur Frau und zeugte drei Kinder: Odin Wili und We. //TODO !!! Konkurrenzz unten !!!!
+Die drei Götter erschlugen Ymir und sie formten Midgard, die Welt der Menschen, indem sie den Leichnam Ymir in nach Ginnungagap schuffen. Aus Ymir Fleisch wurde die Erde geformt, sein Blut füllte die Meere. Die Berge wurden aus seinen Knochen geformt, Steine und Geröll aus seinen Zähnen. Für den Himmel wurde sein Schädel verwendet. Der Schädel wird von den vier Zwergen: Austri, Westri, Nordi und Sudri getragen. Sein Gehirn warfen die Götter in die Luft und schuffen so die Wolken. Die drei Götter: Odin, Wili und We wanderten eines Tages auf ihrer erschaffenen Welt und fanden einen Baustamm. Aus diesem erschuffen sie Ask und Embla, die beiden Urmenschen. Die Götter gaben den beiden: Seele und Leben, Verstand und Bewegungsfähigkeit. Zueltzt bauten die Götter eine Burg im Himmel und nannten sie Asgard. Diese Burg dient den Himmelsgötter, den Asen, seit je her als Wohnsitz.
 
 ### Yggdrasil und die neun Welten
 "Eine Esche kenn ich - überschütte-, sie heisst
