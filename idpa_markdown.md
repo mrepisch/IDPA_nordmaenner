@@ -89,6 +89,28 @@ Nach jeder Schlacht wählen die Valküren aus den Gefallenen Krieger die würdig
 Dort werden sie sich jeden Morgen gegenseitig bekämpfen. Nach dem Kampf werden sie von Odin wiederbelebt und verbringen den Rest des 
 Tages feiern und trinkend auf den Bänken in Walhall. Die gefallenen Krieger in Walhall werden Einherjer gennant.
 
+#### Thor
+
+Der Donnergott Thor oder auch Donnar gennant, ist der särkste der Asen. Der Archetyp eines perfekten Kriegers.
+Er kämpft gegen die ständige Bedrohung der Riesen.
+In den Kampf zieht er oft mit seinem Streiwagen der von seinen zwei Böcken gezogen wird.
+Drei Gegenstände besitzt Thor.
+Der Kraftgurt, welcher die Kraft von Thor auf das doppelte erhöht.
+Ein eisener Handschuh welcher er benötigt um seine Waffe besser führen und seinen 
+mächtigen Hammer Mjöllnir, auch als Thorshammer bekannt. Mjöllnir kehrt immer zu seinem Besitzer zurück und 
+es werden ihm auch heilende Kräfte zugeschrieben. Bis heute ist Mjöllnir ein Schutzsymbol für heidnische Menschen.
+
+" Als nächstes hast du mir drei Schläge mit dem Hammer versetzt. Der erste war der schwächste, und war er doch so stark das er mir den 
+Tod gebracht hätte, hätte er richtig getroffen. Aber bei meiner Halle hast du einen Berg gesehen, darin waren drei viereckige Täler,
+und eines war besonders tief; Das waren die Spuren deiner Hammerschlägen."[Gylfis Täuschung 47]
+
+Thor war wahrscheindlich eher ein Gott dem das einfache Volk folgte. Dies ist in verschiedenen Versen in der Liederedda vermerkt.
+
+"Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe,
+ich hetzte Fürsten auf, aber versöhnte sie nie;
+Odin hat die Jarle, ide in der Schlacht fallen,
+aber Thor hat das Geschlecht der Knechte"
+
 
 ### Vanen
 
