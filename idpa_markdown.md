@@ -109,7 +109,9 @@ Thor war wahrscheindlich eher ein Gott dem das einfache Volk folgte. Dies ist in
 "Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe,
 ich hetzte Fürsten auf, aber versöhnte sie nie;
 Odin hat die Jarle, ide in der Schlacht fallen,
-aber Thor hat das Geschlecht der Knechte"
+aber Thor hat das Geschlecht der Knechte" [Das Harbardlied V.24]
+
+
 
 
 ### Vanen
