@@ -4,13 +4,23 @@
 ## Temporäre Linksammlung
 
 - [Wikipedia Wikinger](https://en.wikipedia.org/wiki/Vikings)
+- [Ancient.eu Vikings] (https://www.ancient.eu/Vikings/)
+- [History on the Net Vikings History Overview] (https://www.historyonthenet.com/vikings-history-overview-culture-history-viking-age)
 
 
 ## Sozialstrukur
 
 ### Hierarchie
 
-#### König & Jarl
+#### Gesellschaftliche Hierarchie
+
+Die Hierarchie der Nordmänner ist in drei Hauptstufen unterteilt. 
+Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.
+Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die 
+Überfälle in andere Länder. 
+
+
+
 #### Familienoberhaupt
 #### Seher/Heiler/shaman
 
@@ -25,6 +35,7 @@ neuer Kleider.
 
 Über Männer:
 
+-
 
 Ehen wurden von den Eltern arrangiert. Kinder wurden zwischen dem 12ten und 20ten 
 Lebensjahr verheiratet. Dies kam sicherlich auch davon, dass die Lebenserwartung 
@@ -40,11 +51,12 @@ kocht und sich um Tiere kümmert. Im Erwachsenenalter wussten schlussendlich all
 man eine Farm in Stande hält.
 
 
-
-
-
-13h40 Gespräch
-
+#### Sonstige Rechte
+Männer hatten das Recht zu fast allem, wobei die einzige Ausnahme der Dienst für weibliche
+Götter ist.
+Frauen hingegen konnten nicht alles machen, jedoch hatten sie bedeutend mehr Rechte als
+in anderen Kulturen zu dieser Zeit. Sie durften alleine wohnen, sie hatten Besitz, 
+konnten sich selber in Gerichtsfällen vertreten und konnten Geschäfte führen.
 
 
 
