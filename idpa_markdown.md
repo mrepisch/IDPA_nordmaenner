@@ -110,9 +110,9 @@ waffentote Männer"<sup>4</sup> (Das Grimmnirlied Strophe 8)
 
 #### Thor
 
-Der Donnergott Thor oder auch Donnar gennant, ist der stärkste der Asen. !!!GIA !!! Der Archetyp eines perfekten Kriegers.
-
-In den Kampf zieht er oft mit seinem Streiwagen der von seinen zwei Böcken gezogen wird.
+Der Sohn von Odin und Gia ist Thor. Er ist der stärkste der Asen. Ebenfalls ist er sehr kampferprobt,
+da er ständing Gegen die Riesen kämpft welche Asgard und Midgard bedrohen. 
+In den Kampf zieht er oft mit seinem Streiwagen der von seinen zwei Böcken, Tanngnjost und Tanngrisnir, gezogen wird.
 Drei Gegenstände besitzt Thor.
 Der Kraftgurt, welcher die Kraft von Thor auf das doppelte erhöht.
 Ein eisener Handschuh welcher er benötigt um seine Waffe besser führen und seinen 
@@ -125,8 +125,7 @@ Er kämpft gegen die ständige Bedrohung der Riesen.
 Tod gebracht hätte, hätte er richtig getroffen. Aber bei meiner Halle hast du einen Berg gesehen, darin waren drei viereckige Täler,
 und eines war besonders tief; Das waren die Spuren deiner Hammerschlägen."[Gylfis Täuschung 47]
 
-!!! Begründung!!!
-Thor war wahrscheindlich eher ein Gott dem das einfache Volk folgte. Dies ist in verschiedenen Versen in der Liederedda vermerkt.
+In der Liederedda wird immer wieder vermerkt das Thor eher ein Gott für das einfache Volk wahr. Wobei diese These umstritten ist.
 
 "Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe,
 ich hetzte Fürsten auf, aber versöhnte sie nie;
@@ -134,7 +133,25 @@ Odin hat die Jarle, ide in der Schlacht fallen,
 aber Thor hat das Geschlecht der Knechte" [Das Harbardlied V.24]
 
 
+#### Tyr
 
+Der Gott Tyr der zu Deutsch Ziu gennant wird( Daher stammt auch das schweizerdeutsche Wort "Zsischtig" ), ist der kühnste aller Asen. 
+Er bestimmt sehr stark über den Ausgang einer Schlacht. Daher wurde Tyr oft vor einer Schlacht angerufen. Bei der Gefangennahme des 
+Wolfs Fenrir (siehe im Kapitel Loki und seine Abkömmlinge) spielt er eine Schlüsselrolle dar. Die Asen wollten Fenrir überlisten und mit
+einem magischen Band festbinden. Der Wolf traute den Asen aber nicht also forderte Fenrir die Götter auf, das einer seine Hand in das 
+Maul des Wolfes legt. Tyr stellte sich als einziger zu Verfügung und so gelang es den Asen Fenrir gefangen zu nehmen jedoch  verlor 
+Tyr seine Hand. 
+Tyr ist ebenfalls der Souverän des Rechts und deshalb get man davon aus das er bei Things oder Gerichten angerufen wurde.
+Viel mehr ist über diesen Asen leider nicht überliefert. Gewisse Forscher gehen davon aus das Tyr vor 2000 Jahren während der Zeit der 
+Römer einen viel grösseren Stellenwert hatte und von der Gottheit Odin im Lauf der Zeit verdrängt wurde. Auch ist aus den Eddas nicht
+genau zu entnehmen wer das der Vater von Tyr ist. In der Edda von Snorri Sturluson wird Odin als Tyrs Vater gennant in der Liederedda 
+jedoch der Riese Hymir. 
+
+### Balder
+
+Der Sonnengott Balder ist der schönste und strahlenste der Asen. 
+Über ihn gäne es nichts schlechtes zu erzählen.Er ist der Redegewahnteste und huldvollste Gott.
+Jedoch, so schneibt Snorri, haben seinen Entscheidungen keinen Bestand. 
 
 ### Vanen
 
@@ -171,5 +188,9 @@ aber Thor hat das Geschlecht der Knechte" [Das Harbardlied V.24]
 
 ### Handel
 
+
+
+## Quellen
+https://de.wikipedia.org/wiki/Tyr
 
 
