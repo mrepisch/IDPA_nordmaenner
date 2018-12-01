@@ -32,7 +32,7 @@ Die beiden grössten und relevantesten Lieder sind das Voluspa und das Lied "Die
 Das Voluspa beschreibt vor allem den Enstehungsmythos und den Untergangsmythos. 
 Der Untergangsmythos wird auch Ragnarök genannt.
 
-Das zweite Buch die Edda des Snorri (Sturlingson??????), auch Snorris Edda gennant, ist ein Zusammenfassung der vieler 
+Das zweite Buch die Edda des Snorri Surluson, auch Snorris Edda gennant, ist ein Zusammenfassung der vieler 
 einzelner Geschichten aus der Sagenwelt der Nordmänner und ist ein Lehrbuch für die Skaldische Poesie. 
 Der Verfasser Snorri war ein christlicher Mönch der in Island um das 13te Jahrhundert gelebt hat. 
 Zu dieser Zeit fand die Chrisitanisierung von Europa statt.
@@ -48,21 +48,39 @@ Odin gab ihnen Seele und Leben. Wili gab ihnen den Verstad und We die Fähigkeit
 Zueltzt bauten die Götter eine Burg im Himmel und nannten sie Asgard. Diese Burg dient den Himmelsgötter, den Asen, seit je her als Wohnsitz.
 
 ### Yggdrasil und die neun Welten
+
 "Eine Esche kenn ich - überschütte-, sie heisst
 Yggdrasil,
 ein hoher heiliger Baum - mit weissem Sand;
 von dort kommt der Tau, der in den Tälern niederfällt;
 sie steht immer grün über dem Urdbrunnen"<sup>1</sup>
 
+Die Esche Yggdrasill stellt in der nordischen Mythologie das Leben und das groose allumfassende Ganze dar. 
+Alle neun Welten sind druch den Yggdrasil miteinander verbunden.
+Es bestehen verschiedene Interpretationen wo genau sich die Welten im Weltenbaum befinden. Einig sind sie sich jedoch das sich Midgard im Zentrum und Assgard in
+der Krone des Baumes befinden. Yggdrasil ist schierig als einzelnes Bild an dem die neun Welten verbunden sind darzustellen. In den Eddas werden immer wieder
+Orte an der Weltenesche beschrieben die aber nicht genau bezüglich der Örtlichkeit zuordbar sind. So ist zum Beispiel der Fuss von Yggdrasil als Ratsplatz der
+Götter beschrieben. Hirsche fressen die Blätter des Baumes. Unterhalb schädigt der Dracher Nidhögg den Weltenbaum. Ebenfalls leben unzählige Schlangen unter Yggdrasil.
+
+"Die Esche Yggdrasill erdulted Mühsl,
+mehr als man weiss; der Hirsch weidet oben, 
+und and der Seite fault es, Nidhögg beschädigt von unten"<sup>1<sup>[Gylfis Täuschung 22]
+
+
 ### Asen
-Die Asen, auch bekannt als Himmelsgötter, ist die Götterfamilie über die am meisten überliefert ist.
-Die Asen leben in der Welt von Asgard. Jeder der Götter und Göttinen besitzten einen eigenen Ort oder eine Halle, wobei nicht bei jeder
+Die Asen, auch bekannt als Himmelsgötter, ist die Götterfamilie über die am meisten überliefert ist. !!!!!TO DO!!!!wiso und was!!!
+Die Asen leben in der Welt von Asgard. Jeder der  Gottheiten besitzten in Asgard einen eigenen Ort oder eine Halle, wobei nicht bei jeder
 Gottheit überliefert ist wie der Ort gennant wird oder wie dieser aussieht.
 Im folgenden werden die einzelnen Götter und Göttinen und deren Aspekte aufgeführt.
 
 #### Odin / Wotan 
-Odin der Göttervater oder auch Allfather gennant, ist einer der komplexesten Götter der Mythologie. Viele Aspekte werden unter ihm verreint. Unter anderem: Krieg, der Tod, Weissheit und das Wissen.
-So hat Odin von der Quelle Mimirs getrunken, nachdem er sein linkes Auge geopfert hatte. Die Quelle Mimirs enthält das Wissen und die Weissheit nachder Odin strebt. Auch die Runen sollen von Odin stammen. Neun Tage hing er an der Weltenesche Yggdrasil um so das Wissen der Runen zu erhalten.
+
+Odin der Göttervater oder auch Allfather gennant, ist einer der komplexesten Götter der Mythologie. 
+Viele Aspekte werden unter ihm verreint. Unter anderem: Krieg, der Tod, Weissheit und das Wissen.
+Die Quelle Mimirs enthält das Wissen und die Weissheit nachder Odin strebt. 
+So hat Odin von der Quelle Mimirs getrunken, nachdem er sein linkes Auge geopfert hatte. 
+Ebenfalls hing er neun Tage an der Weltenesche Yggdrasil um so das Wissen der Runen zu erhalten.
+Deshalb sagt man das Odin den Menschen die Runen gebracht hat.
 
 So ist in den Sprüchen des Hohen(Havermal) geschrieben:
 "Ich(Odin) weiss, das ich hing am windigen Baum(Yggdrasil) 
@@ -72,38 +90,42 @@ selber mir selbst,
 an dem Baum, von dem niemand weiss,
 aus welcher Wurzel er wächst"<sup>2</sup>
 
-"Runen wirst du finen und deutbare Stäbe,
+"Runen wirst du finden und deutbare Stäbe,
 sehr deutbare Stäbe,
 sehr starke Stäbe,
 die Fimbuthul(ein Odinsname) färbte,
 und die hohen Ratenden(Die Götter) schuffen
 und der Hropt(Odin) der Ratende ritzte"<sup>3</sup>
  
+Nach jeder Schlacht wählen die Valküren aus den Gefallenen Krieger die würdigen aus und die eine Hälfte wird nach Walhall zu Odin geschickt. 
+Dort werden sie sich jeden Morgen gegenseitig bekämpfen. Nach dem Kampf werden sie von Odin wiederbelebt und verbringen den Rest des 
+Tages feiern und trinkend auf den Bänken in Walhall. Die gefallenen Krieger in Walhall werden Einherjer gennant.
+
 Der Wohnsitz von Odin nennt sich Gladsheim. An diesem Ort soll sich die berühmte Halle Walhall befinden. 
 "Gladsheim hest der fünfte, wo goldglänzend
 Walhall weit sich erstreckt; 
 dort wählt Hropt(Odin) jeden Tag,
 waffentote Männer"<sup>4</sup> (Das Grimmnirlied Strophe 8)
 
-Nach jeder Schlacht wählen die Valküren aus den Gefallenen Krieger die würdigen aus und die eine Hälfte wird nach Walhall zu Odin geschickt. 
-Dort werden sie sich jeden Morgen gegenseitig bekämpfen. Nach dem Kampf werden sie von Odin wiederbelebt und verbringen den Rest des 
-Tages feiern und trinkend auf den Bänken in Walhall. Die gefallenen Krieger in Walhall werden Einherjer gennant.
 
 #### Thor
 
-Der Donnergott Thor oder auch Donnar gennant, ist der särkste der Asen. Der Archetyp eines perfekten Kriegers.
-Er kämpft gegen die ständige Bedrohung der Riesen.
+Der Donnergott Thor oder auch Donnar gennant, ist der stärkste der Asen. !!!GIA !!! Der Archetyp eines perfekten Kriegers.
+
 In den Kampf zieht er oft mit seinem Streiwagen der von seinen zwei Böcken gezogen wird.
 Drei Gegenstände besitzt Thor.
 Der Kraftgurt, welcher die Kraft von Thor auf das doppelte erhöht.
 Ein eisener Handschuh welcher er benötigt um seine Waffe besser führen und seinen 
-mächtigen Hammer Mjöllnir, auch als Thorshammer bekannt. Mjöllnir kehrt immer zu seinem Besitzer zurück und 
+mächtigen Hammer Mjöllnir, auch als Thorshammer bekannt. Mjöllnir kehrt immer zu seinem Besitzer zurück und !!!Hammer Mythos!!!
 es werden ihm auch heilende Kräfte zugeschrieben. Bis heute ist Mjöllnir ein Schutzsymbol für heidnische Menschen.
+
+Er kämpft gegen die ständige Bedrohung der Riesen.
 
 " Als nächstes hast du mir drei Schläge mit dem Hammer versetzt. Der erste war der schwächste, und war er doch so stark das er mir den 
 Tod gebracht hätte, hätte er richtig getroffen. Aber bei meiner Halle hast du einen Berg gesehen, darin waren drei viereckige Täler,
 und eines war besonders tief; Das waren die Spuren deiner Hammerschlägen."[Gylfis Täuschung 47]
 
+!!! Begründung!!!
 Thor war wahrscheindlich eher ein Gott dem das einfache Volk folgte. Dies ist in verschiedenen Versen in der Liederedda vermerkt.
 
 "Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe,
