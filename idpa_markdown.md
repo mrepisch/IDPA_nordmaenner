@@ -108,6 +108,22 @@ dort wählt Hropt(Odin) jeden Tag,
 waffentote Männer"<sup>4</sup> (Das Grimmnirlied Strophe 8)
 
 
+#### Frigga
+Frigga oder auch Frigg ist die Frau von Odin. Sie ist die Götting des Haushaltes der Kinder und ist ebenfalls eine Heilering.
+Als eine der wenigen Götterfiguren, ist sie in der Lage zu Zukunft zu sehen. Jedoch spricht sie nicht über das was sie sieht. 
+
+Es wird darüber debattiert ob Freya, die Göttin der Liebe und Fruchbarkeit(Siehe im Kapitel Vanen) und Frigga den gleichen Ursprung haben.
+Sich also eine Götterfigur in zwei abgespalten haben.
+
+"Nach einer verbreiteten Hypothese entwickelte sich aus Frigg, 
+für die auch der Beiname Hulla („Huldvolle“) bezeugt ist, die Märchengestalt der Frau Holle."<sup>1</sup>[https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018]
+
+
+ 
+
+ 
+
+
 #### Thor
 
 Der Sohn von Odin und Gia ist Thor. Er ist der stärkste der Asen. Ebenfalls ist er sehr kampferprobt,
@@ -150,8 +166,36 @@ jedoch der Riese Hymir.
 ### Balder
 
 Der Sonnengott Balder ist der schönste und strahlenste der Asen. 
-Über ihn gäne es nichts schlechtes zu erzählen.Er ist der Redegewahnteste und huldvollste Gott.
-Jedoch, so schneibt Snorri, haben seinen Entscheidungen keinen Bestand. 
+Über ihn gäbe es nichts schlechtes zu erzählen. Er ist der Redegewahnteste und huldvollste Gott.
+Jedoch, so schneibt Snorri, haben seinen Entscheidungen keinen Bestand. Der Mythos von Balders Tod spielt eine
+grosse Rolle in der Mythologie und wird ebenfalls mit den Sonnenwenden in Verbindung gebracht. 
+
+#### Der Tod Balders
+
+Nachdem Balder über Alpträume geklagt. Nachdem sich die Götter beim Thing versammelten beschlossen sie das Odin nach Hel, die nordische
+Unterwelt, reisen solle.
+Nach einer langen Reise kommt er in Hel an und stellt fest das für ein grosses Fest aufgetischt ist. Odin findet heraus das dieser Tisch für
+Balder gedecht ist. Also erwartet wird das der Sonnengott bald sterben wird. Odin reist mit diesem Wissen zurück nach Asgard und erzählt Frigga, seiner Frau davon.
+Sie fasst einen Plan. Von allen Dingen und Wesen will sie Eide einfordern, so das niemand Balder schaden wird. Nachdem Frigga von allen Wesen
+diese Eide einforderte, hielten die Götter ein grosses Fest in welcher sie zur Belustigung Gegenstände auf Balder warfen.  
+Loki ganz neidisch verwandelte sich in eine von Friggas Zofen und frage Frigga ob den auch wirklich alle Wesen einen Eid geschworen haben.
+Frigga erwiderte, das alle bis auf die kleine Mistel, welche hinter den Mauern von Asgard wächst, den Eid geschworen haben. Frigga fand es 
+unmoralisch einem so jungem Wesen wie die Mistel einen Eid abzuringen. Loki fand diese Mistel und er fertigte einen Pfeil an. Danach ging
+er zu Balders blinden Bruder und überredete ihn, den Mistelpfeil auf Balder zu werfen, da ja nichts Balder schaden kann. Balder starb. 
+Alle Götter trauerten um ihn und Odin lies nach Hel schicken um mit der Götting der Unterwelt, Hella, zu verhandeln ob sie den Balder
+wieder freigeben würde. Hella stellte die Bedinung das alle Wesen um Balder trauern müsse bevor sie Balder weider freigebn würde. Falls
+dies nicht der Fall wäre würde Balder erst wieder nach dem Ragnarök frei sein.
+Also trauerten alle Wesen um Balder bis auf Loki der sich in eine alte Riesin verwandelt hatte. Er stellte so sicher das der Handel nicht
+zustande kommt und deshalb wird Balder bis zum Ragnarök in der Unterwelt verweilen.
+
+Der Tod von Balder stellt die Sommersonnenwende dar. Im grössten Glanz der Sonne stirbt sie. Die Tage werden kürzer und Balder
+nach Hel reisen. Dan im Winter wen die ganze Natur stribt und so der Kreislauf zuende geht. Erstrallt die Sonne
+zu neuem Glanz. Den nach der Wintersonnenwende werden die Tage wieder länger und die Natur erwacht langsam wieder. 
+
+Über Balder als Charackter ist aus der Mythologie nicht sehr viel bekannt. Aber die Geschichte über Balders Tod wiederspiegelt 
+die Zyklische Weltanschauung der damaligen Menschen. 
+
+
 
 ### Vanen
 
