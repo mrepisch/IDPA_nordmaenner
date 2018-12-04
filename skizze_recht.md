@@ -1,9 +1,14 @@
 # Recht
 Die Nordmänner kannten keine Polizei. Wurde jemandem Unrecht getan, hatte er zwei Möglichkeiten um Gerechtigkeit einzufordern. Der schnelle Weg war, den Verursacher des Schadens persönlich zur Rechenschaft zu ziehen. Länger dauerte es, wenn er seine Sache an der nächsten Versammlung (Thing) vortrug.
 
-## leichte Schuld
+Bei einer direkten Konfrontation konnte der Geschädigte den Verursacher des Schadens bei seiner Ehre auffordern, den Schaden wieder gut zu machen. Der Verursacher hatte so die Option den Schaden mit Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszugleichen.
 
-## schwere Schuld
+Wiedersetzte sich der Verursacher, handelte es sich um ein Verbrechen, das in eine Blutfehde ausarten könnte (z. B. Mord) oder sollte eine grosse Gemeinschaft erreicht werden (Rechtfertigung bei Ehrverletzung) konnte der Geschädigte seine Situation dem Thing (Dorfversammlung) vortragen. Das Thing konnte nun den Verursacher zur Wiedergutmachung verpflichten. Weigerte der sich war das Thing in der Lage den Verursacher entweder für die Familie des Geschädigten oder für den ganzen Stamm Vogelfrei zu erklären. Der Verursacher war nun durch keine Rechte mehr geschützt, bis seine Schuld bezahlt oder die Dauer des Bannes vorüber war.
+
+Bei einem Streit konnte man den Disput auch mit einem Duell, dem sogenannten holmgang, beigelegt werden. Der holmgang dauerte bis zum ersten Blut oder bis zum Tod.
+
+
+Schwerpunkt : persönliche Konfrontation vs Konfrontation via Thing
 
 
 ## Quellen
