@@ -1,4 +1,6 @@
 # Recht
+
+!!!TODO vll unterkapitel und definitif beschreiben was ein THING ist !!!
 Die Nordmänner kannten keine Polizei. Wurde jemandem Unrecht getan, hatte er zwei Möglichkeiten um Gerechtigkeit einzufordern. Der schnelle Weg war, den Verursacher des Schadens persönlich zur Rechenschaft zu ziehen. Länger dauerte es, wenn er seine Sache an der nächsten Versammlung (Thing) vortrug.
 
 Bei einer direkten Konfrontation konnte der Geschädigte den Verursacher des Schadens bei seiner Ehre auffordern, den Schaden wieder gut zu machen. Der Verursacher hatte so die Option den Schaden mit Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszugleichen.
