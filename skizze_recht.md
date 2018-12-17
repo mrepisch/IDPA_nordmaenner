@@ -1,6 +1,6 @@
 # Recht
 
-!!!TODO vll unterkapitel und definitif beschreiben was ein THING ist !!!
+!!!TODO vll unterkapitel
 Die Nordmänner kannten keine Polizei. Wurde jemandem Unrecht getan, hatte er zwei Möglichkeiten um Gerechtigkeit einzufordern. Der schnelle Weg war, den Verursacher des Schadens persönlich zur Rechenschaft zu ziehen. Länger dauerte es, wenn er seine Sache an der nächsten Versammlung (Thing) vortrug.
 
 Ein Thing ist eine regelmässig stattfindende mehrtägige Versammlung. Im Normalfall umfing das Thing nur die Bewohner eines einzelnen Dorfes. War jedoch ein Stamm auf verschiedene Dörfer verteilt oder rief ein König zum Thing wurde von der Sippe oder dem Dorf ein Abgesandter bestimmt, der die seinen vertrat. Angeblich dauerte das Thing drei Tage. Am ersten Tag betrank man sich und diskutierte über die wichtigsten Dinge. An den folgenden Tagen wurden, nachdem alle wieder nüchtern waren wurden Gesetze erlassen und gerichtet.
