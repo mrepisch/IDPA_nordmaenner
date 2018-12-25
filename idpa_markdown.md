@@ -23,23 +23,30 @@ jedes Detail eigegangen wird. In den Quellenangaben und dem Anhang wird auf Text
 weitere Informationen verwiesen, welche für das Thema relevant sind.
 
 ### Eddas
+
 Die beiden Eddas stellen die zeitnahste Quelle für die Mythologie der Nordmänner dar. 
-Sie unterscheiden sich aber gravierend voneinander.
-<!-- Wann wurden die Eddas erstellt? -->
+Sie unterscheiden sich aber gravierend voneinander, wobei beide Werke um das 13 Jahrhundert enstanden sind.
 Die Liederedda oder auch ältere Edda ist eine Sammlung von Lieder und Versen welche die 
 Mythen beschreiben. Alle Texte in der Liederedda sind in der Skaldischen Dichtkunst verfasst. 
-<!-- Was ist die skaldische Dichtkunst?-->
+
+"Skaldische Dichtungen sind subjektiv gestaltete Kompositionen, die ihre Stoffe dem Leben und dem sozialen 
+Umfeld ihres Dichters, des Skalden, entnehmen: sie sind situationsgebundene Gesellschaftsdichtung"
+[https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018]
+
 Die beiden grössten und relevantesten Lieder sind das Voluspa und das Lied "Die Worte des Hohen"
 Das Voluspa beschreibt vor allem den Enstehungsmythos und den Untergangsmythos. 
 Der Untergangsmythos wird auch Ragnarök genannt.
 
 Das zweite Buch die Edda des Snorri Surluson, auch Snorris Edda gennant, ist ein Zusammenfassung der vieler 
-einzelner Geschichten aus der Sagenwelt der Nordmänner und ist ein Lehrbuch für die Skaldische Poesie. <!-- Satzbau -->
+einzelner Geschichten aus der Sagenwelt der Nordmänner. 
+Auch die Skaldische Dichtkunst wird erklährt und mit vielen Beispielen illustriert.
 Der Verfasser Snorri war ein christlicher Mönch der in Island um das 13te Jahrhundert gelebt hat. 
 Zu dieser Zeit fand die Christianisierung von Europa statt.
 Der Christliche Einfluss ist zu Beginn des Buches sehr präsent und muss, soweit möglich, berücksichtigt werden.
 
+
 ### Entstehungsmythos
+
 In der Urzeit existierte nur der Schlund der Urleere, welche in der Edda Ginnungagap genannt wird.
 Im Norden enstand als erstes Nifelheim, mit seiner ewigwährenden Kälte. Dort liegt die Quelle die man Hwergelmir nennt und aus welcher 10 Flüsse entspringen. Der dritte ursprüngliche Ort ist Muspel im Süden. Ein Ort mit einem immerwährenden Feuer.
 Die giftige Schlacke, welche von den Flüssen von Nifelheim geführt wurde, erstarrte auf dem Boden, dort enstand Eis und Fels.
@@ -57,9 +64,9 @@ von dort kommt der Tau, der in den Tälern niederfällt;
 sie steht immer grün über dem Urdbrunnen"<sup>1</sup>
 
 Die Esche Yggdrasill stellt in der nordischen Mythologie das Leben und das grosse allumfassende Ganze dar. 
-Alle neun Welten sind durch den Yggdrasil miteinander verbunden.
+Alle neun Welten sind durch Yggdrasil miteinander verbunden.
 Es bestehen verschiedene Interpretationen wo genau sich die Welten im Weltenbaum befinden. 
-<!-- Komische Formulierung -->Einig sind sie sich jedoch, dass sich Midgard im Zentrum und Assgard in
+Einig sind sie sich jedoch, dass sich Midgard im Zentrum und Assgard in
 der Krone des Baumes befinden. Yggdrasil ist schwierig als einzelnes Bild, an dem die neun Welten verbunden sind, darzustellen. In den Eddas werden immer wieder
 Orte an der Weltenesche beschrieben, die aber nicht genau bezüglich der Örtlichkeit zuordbar sind. So ist zum Beispiel der Fuss von Yggdrasil als Ratsplatz der
 Götter beschrieben. Hirsche fressen die Blätter des Baumes. Unterhalb schädigt der Dracher Nidhögg den Weltenbaum. Ebenfalls leben unzählige Schlangen unter Yggdrasil.
@@ -70,8 +77,11 @@ und and der Seite fault es, Nidhögg beschädigt von unten"<sup>1<sup>[Gylfis T�
 
 
 ### Asen
-Die Asen, auch bekannt als Himmelsgötter, ist die Götterfamilie über die am meisten überliefert ist. !!!!!TO DO!!!!wiso und was!!!
-Die Asen leben in der Welt von Asgard. Jede der Gottheiten besitzt in Asgard einen eigenen Ort oder eine Halle, wobei nicht bei jeder Gottheit überliefert ist, wie der Ort gennant wird, oder wie dieser aussieht.
+
+Die Asen, auch bekannt als Himmelsgötter, ist die Götterfamilie über die am meisten überliefert ist. Fast alle Geschichten
+in beiden Eddas handeln von den Himmelsgötter. 
+Die Asen leben in der Welt von Asgard. Jede der Gottheiten besitzt in Asgard einen eigenen Ort oder eine Halle, wobei nicht bei jeder 
+Gottheit überliefert ist, wie der Ort gennant wird, oder wie dieser aussieht.
 Im folgenden werden die einzelnen Götter und Göttinen und deren Aspekte aufgeführt.
 
 #### Odin / Wotan 
@@ -90,7 +100,7 @@ vom Speer verwundet und Odin geopfert,
 selber mir selbst,
 an dem Baum, von dem niemand weiss,
 aus welcher Wurzel er wächst"<sup>2</sup>
-<!-- Sind die Klammern im Zitat Kommentäre? Von wem kommen sie? -->
+
 "Runen wirst du finden und deutbare Stäbe,
 sehr deutbare Stäbe,
 sehr starke Stäbe,
@@ -107,6 +117,8 @@ Walhall weit sich erstreckt;
 dort wählt Hropt(Odin) jeden Tag,
 waffentote Männer"<sup>4</sup> (Das Grimmnirlied Strophe 8)
 
+Der Mittwoch wurde Odin gewidmet. Dies ist in der deutschen Sprache verlorengegangen, ist aber noch im
+englischen Wochentag Wednesday ersichtlich.
 
 #### Frigga
 Frigga oder auch Frigg ist die Frau von Odin. Sie ist die Götting des Haushaltes der Kinder und ist ebenfalls eine Heilering.
@@ -119,12 +131,8 @@ Sich also eine Götterfigur in zwei abgespalten haben.
 für die auch der Beiname Hulla („Huldvolle“) bezeugt ist, die Märchengestalt der Frau Holle."<sup>1</sup>[https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018]
 
 
- 
 
- 
-
-
-#### Thor
+#### Thor / Donnar
 
 Der Sohn von Odin und Gia ist Thor. Er ist der stärkste der Asen. Ebenfalls ist er sehr kampferprobt,
 da er stets gegen die Riesen kämpft, welche Asgard und Midgard bedrohen. 
@@ -148,10 +156,13 @@ ich hetzte Fürsten auf, aber versöhnte sie nie;
 Odin hat die Jarle, ide in der Schlacht fallen,
 aber Thor hat das Geschlecht der Knechte" [Das Harbardlied V.24]
 
+Ebenfalls ist Thor auch der Namensgeber des Donnerstags oder Thursday.
+
 
 #### Tyr
 
-Der Gott Tyr der zu Deutsch Ziu gennant wird( Daher stammt auch das schweizerdeutsche Wort "Zsischtig" ),<!-- People will wonder, and the will want a Source for that --> ist der kühnste aller Asen. 
+Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird ist der kühnste aller Asen.
+Ebenfalls ist der der Namensgeber des Diestags[https://de.wikipedia.org/wiki/Tyr Stand 25.12.2018]
 Er bestimmt sehr stark über den Ausgang einer Schlacht. Daher wurde Tyr oft vor einer Schlacht angerufen. Bei der Gefangennahme des 
 Wolfs Fenrir (siehe im Kapitel Loki und seine Abkömmlinge) spielt er eine Schlüsselrolle dar. Die Asen wollten Fenrir überlisten und mit einem magischen Band festbinden. 
 Der Wolf traute den Asen aber nicht also forderte Fenrir die Götter auf, das einer seine Hand in das Maul des Wolfes legt. 
@@ -169,8 +180,8 @@ Jedoch, so schreibt Snorri, haben seinen Entscheidungen keinen Bestand. Der Myth
 grosse Rolle in der Mythologie und wird ebenfalls mit den Sonnenwenden in Verbindung gebracht. 
 
 #### Der Tod Balders
-<!-- ????? Der erste Satz-->
-Nachdem Balder über Alpträume geklagt. Nachdem sich die Götter beim Thing versammelten beschlossen sie das Odin nach Hel, die nordische Unterwelt, reisen sollte.
+
+Nachdem Balder über Alpträume geklagt wurde ein Thing einberufen. Nachdem sich die Götter versammelten hatten. beschlossen sie das Odin nach Hel, die nordische Unterwelt, reisen sollte.
 Nach einer langen Reise kommt er in Hel an und stellt fest, dass für ein grosses Fest aufgetischt ist. Odin findet heraus, dass dieser Tisch für
 Balder gedeckt ist. Also erwartet wird, dass der Sonnengott bald sterben wird. Odin reist mit diesem Wissen zurück nach Asgard und erzählt Frigga, seiner Frau davon.
 Sie fasst einen Plan. Von allen Dingen und Wesen will sie Eide einfordern, so dass niemand Balder schaden wird. Nachdem Frigga von allen Wesen
@@ -191,7 +202,6 @@ zu neuem Glanz. Dann nach der Wintersonnenwende werden die Tage wieder länger u
 
 Über Balder als Charakter ist aus der Mythologie nicht sehr viel bekannt. Aber die Geschichte über Balders Tod wiederspiegelt 
 die zyklische Weltanschauung der damaligen Menschen. 
-
 
 
 ### Vanen
