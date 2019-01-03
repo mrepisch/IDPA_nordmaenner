@@ -13,11 +13,18 @@ ausgewirkt.
 
 ## Einleitung / Fragestellung
  
-
+Diese Arbeit bschäftig sich mit der Mythologie der Nordmänner und in welchem Kontext diese zu der 
+Lebensart, Politik, der Rechtsprechung, den Handel und den Krieg steht. Da sich die Ära der Germanen und 
+Nordmänner über mehr als 2000 Jahre erstreckt, wird in dieser Arbeit vor allem der Zeitraum der Wikinger, 
+also das 8. bis 13. Jahrhundert betrachtet.
+Die Menschen zu dieser Zeit mussten in der Lage sein mit der Natur zu überleben. 
+Genau diese Natur welche sich so wunderschön aber brutal und gnadenlos zeigt. So wird auch die Mythologie der Nordmänner
+beschrieben. Wir möchten mit dieser Arbeit erarbeiten und welchen Bereichen des Lebens diese Mythologie Einzug gehalten hat um 
+so die Lebensweise unserer Vorfahren besser zu verstehen.
 
 
 ## Mythologie
-Im folgenden Kapitel wird die Mythologie und die Religion der Nordmänner behandelt.
+Im folgenden Kapitel wird die Mythologie der Nordmänner behandelt.
 Das Kapitel soll eine Übersicht bieten. Dieses Thema ist aber so komplex das nicht auf 
 jedes Detail eigegangen wird. In den Quellenangaben und dem Anhang wird auf Texte und 
 weitere Informationen verwiesen, welche für das Thema relevant sind.
@@ -48,12 +55,27 @@ Der Christliche Einfluss ist zu Beginn des Buches sehr präsent und muss, soweit
 ### Entstehungsmythos
 
 In der Urzeit existierte nur der Schlund der Urleere, welche in der Edda Ginnungagap genannt wird.
-Im Norden enstand als erstes Nifelheim, mit seiner ewigwährenden Kälte. Dort liegt die Quelle die man Hwergelmir nennt und aus welcher 10 Flüsse entspringen. Der dritte ursprüngliche Ort ist Muspel im Süden. Ein Ort mit einem immerwährenden Feuer.
-Die giftige Schlacke, welche von den Flüssen von Nifelheim geführt wurde, erstarrte auf dem Boden, dort enstand Eis und Fels.
-Die Spritzer aus der giftigen Schlacke bildeten einen Reif welcher Ginnungapap umfasste. Die Hitze aus Muspel und die Kälte aus Nifelheim führte dazu dass der Reif schmelzte und wieder erstarrte. Aus den Tropfen enstand der Riese Ymir. Aus Ymir's schwitzigen Achselhöhlen wuchsen ein männlicher und ein weiblicher Riese, sie bildeten die Grundlage für das Geschlecht der Reifriesen. Aus dem Reif enstand ebenfalls auch die Kuh Audhumla, sie lieferte Milch an den Riesen Ymir. Audhumla ernährte sich durch das Ablecken von salzigen Steinen. Als die Kuh die Steine ableckt, kamen langsam, der Mann Buri und sein Sohn Borr zum Vorschein. Borr nahm sich die Riesin Bestla zur Frau und zeugte mit ihr drei Kinder: Odin Wili und We.
-Die drei Götter Odin, Wili und We konkurierten mit den Reifrisen um die Vorherrschaft und erschlugen den Riesen Ymir. Das Blut von Ymir ertränkte alle Reifriesen. Alle bis auf Bergelmir. Die Götter brachten das Fleisch von Ymir in die Leere von Ginnungapap und formten Midgard, die Welt der Menschen. Aus Ymirs Fleisch wurde die Erde geformt, sein Blut füllte die Meere. Die Berge wurden aus seinen Knochen geformt, Steine und Geröll aus seinen Zähnen. Für den Himmel wurde seine Schädeldecke verwendet welcher von den vier<!-- Deutsch Formulierung/Satzbau--> Zwergen: Austri, Westri, Nordi und Sudri getragen wird. Sein Gehirn warfen die Götter in die Luft und schufen so die Wolken. Eines Tages wanderten Odin, Wili und We auf ihrer erschaffenen Welt und fanden einen Baustamm. Aus diesem erschuffen sie Ask und Embla, die beiden ersten Menschen.
+Im Norden enstand als erstes Nifelheim, mit seiner ewigwährenden Kälte. Dort liegt die Quelle 
+die man Hwergelmir nennt und aus welcher 10 Flüsse entspringen. 
+Der dritte ursprüngliche Ort ist Muspel im Süden. Ein Ort mit einem immerwährenden Feuer.
+Die giftige Schlacke, welche von den Flüssen von Nifelheim geführt wurde, erstarrte auf dem Boden, 
+dort enstand Eis und Fels.
+Die Spritzer aus der giftigen Schlacke bildeten einen Reif welcher Ginnungapap umfasste. 
+Die Hitze aus Muspel und die Kälte aus Nifelheim führte dazu dass der Reif schmelzte und wieder erstarrte. 
+Aus den Tropfen enstand der Riese Ymir. Aus Ymir's schwitzigen Achselhöhlen wuchsen ein männlicher und ein weiblicher Riese, 
+sie bildeten die Grundlage für das Geschlecht der Reifriesen. Aus dem Reif enstand ebenfalls auch die Kuh Audhumla, 
+sie lieferte Milch an den Riesen Ymir. Audhumla ernährte sich durch das Ablecken von salzigen Steinen. Als die Kuh die Steine ableckt, 
+kamen langsam, der Mann Buri und sein Sohn Borr zum Vorschein. Borr nahm sich die Riesin Bestla zur 
+Frau und zeugte mit ihr drei Kinder: Odin Wili und We.
+Die drei Götter Odin, Wili und We konkurierten mit den Reifrisen um die Vorherrschaft und erschlugen den Riesen Ymir. 
+Das Blut von Ymir ertränkte alle Reifriesen. Alle bis auf Bergelmir. Die Götter brachten das Fleisch von Ymir in die Leere 
+von Ginnungapap und formten Midgard, die Welt der Menschen. Aus Ymirs Fleisch wurde die Erde geformt, sein Blut füllte die Meere. 
+Die Berge wurden aus seinen Knochen geformt, Steine und Geröll aus seinen Zähnen. Für den Himmel wurde seine 
+Schädeldecke verwendet welcher von den vier<!-- Deutsch Formulierung/Satzbau--> Zwergen: Austri, Westri, Nordi und Sudri getragen wird. 
+Sein Gehirn warfen die Götter in die Luft und schufen so die Wolken. Eines Tages wanderten Odin, Wili und We auf ihrer erschaffenen Welt und fanden einen Baustamm. Aus diesem erschuffen sie Ask und Embla, die beiden ersten Menschen.
 Odin gab ihnen Seele und Leben. Wili gab ihnen den Verstand und We die Fähigkeit zur Fortbewegung.
-Zuletzt bauten die Götter eine Burg im Himmel und nannten sie Asgard. Diese Burg dient den Himmelsgötter, den Asen, seit je her als Wohnsitz.
+Zuletzt bauten die Götter eine Burg im Himmel und nannten sie Asgard. Diese Burg dient den Himmelsgötter, 
+den Asen, seit je her als Wohnsitz.
 
 ### Yggdrasil und die neun Welten
 
@@ -121,6 +143,7 @@ Der Mittwoch wurde Odin gewidmet. Dies ist in der deutschen Sprache verlorengega
 englischen Wochentag Wednesday ersichtlich.
 
 #### Frigga
+
 Frigga oder auch Frigg ist die Frau von Odin. Sie ist die Götting des Haushaltes der Kinder und ist ebenfalls eine Heilering.
 Als eine der wenigen Götterfiguren, ist sie in der Lage in die Zukunft zu sehen. Jedoch spricht sie nicht über das was sie sieht. 
 
@@ -172,14 +195,14 @@ Viel mehr ist über diesen Asen leider nicht überliefert. Gewisse Forscher gehe
 Römer einen viel grösseren Stellenwert hatte und von der Gottheit Odin im Lauf der Zeit verdrängt wurde. Auch ist aus den Eddas nicht
 genau zu entnehmen wer das der Vater von Tyr ist. In der Edda von Snorri Sturluson wird Odin als Tyrs Vater genannt, in der Liederedda jedoch der Riese Hymir. 
 
-### Balder
+#### Balder
 
 Der Sonnengott Balder ist der schönste und strahlenste der Asen. 
 Über ihn gäbe es nichts Schlechtes zu erzählen. Er ist der redegewanteste und huldvollste Gott.
 Jedoch, so schreibt Snorri, haben seinen Entscheidungen keinen Bestand. Der Mythos von Balders Tod spielt eine
 grosse Rolle in der Mythologie und wird ebenfalls mit den Sonnenwenden in Verbindung gebracht. 
 
-#### Der Tod Balders
+##### Der Tod Balders
 
 Nachdem Balder über Alpträume geklagt wurde ein Thing einberufen. Nachdem sich die Götter versammelten hatten. beschlossen sie das Odin nach Hel, die nordische Unterwelt, reisen sollte.
 Nach einer langen Reise kommt er in Hel an und stellt fest, dass für ein grosses Fest aufgetischt ist. Odin findet heraus, dass dieser Tisch für
@@ -202,6 +225,22 @@ zu neuem Glanz. Dann nach der Wintersonnenwende werden die Tage wieder länger u
 
 Über Balder als Charakter ist aus der Mythologie nicht sehr viel bekannt. Aber die Geschichte über Balders Tod wiederspiegelt 
 die zyklische Weltanschauung der damaligen Menschen. 
+
+
+#### Heimdall
+
+Der Gott der den Bifröst, die Regenbogenbrücke welche Midgard und Asgard miteinander verbindet bewacht, heisst Heimdall.
+Er ist der weisseste der Asen und wird auch als Wächter der Götter bezeichnet.
+Neun Schwestern gebaren ihn, seine Zähne seien aus Gold und er benötigt keinen Schlaf. Es sitzt am Himmelsrand nahe dem Bifröst und sieht
+auch in der Nacht hunderte Meilen weit. Ebenfalls besitzt Heimdall nicht das Grosse Kriegshorn Gjallarhorn desen Laut man über alle der neun
+Welten höhren kann.-
+
+"Himibjörd heisst es, wo Heimdall, so sagt man, 
+die heiligen Höfe beherscht; dort trinkt der Wächter
+										  der Götter
+im friedlichen Haus  fröhlich den guten Met." [Die Edda des Schnorri Sturluson, Gylfis Täuschung 35]
+
+Das Lied *Merkgedicht von Rig* beschreibt Heimdall auch als Schöpfer der Mittelalterlichen Ständen: Knecht, Bauer, Jarl bzw. König.
 
 
 ### Vanen
