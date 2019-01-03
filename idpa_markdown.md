@@ -219,8 +219,8 @@ dies nicht der Fall wäre, würde Balder erst wieder nach dem Ragnarök frei sei
 Also trauerten alle Wesen um Balder bis auf Loki, der sich in eine alte Riesin verwandelt hatte. Er stellte so sicher, dass der Handel nicht
 zustande kommt und deshalb wird Balder bis zum Ragnarök in der Unterwelt verweilen.
 
-Der Tod von Balder stellt die Sommersonnenwende dar. Im grössten Glanz der Sonne stirbt sie. Die Tage werden kürzer und Balder<!-- Deutsch Satz unklar-->
-nach Hel reisen. Dann im Winter wenn die ganze Natur stirbt und so der Kreislauf zuende geht, erstrahlt die Sonne
+Der Tod von Balder stellt die Sommersonnenwende dar. Im grössten Glanz der Sonne stirbt sie. Die Tage werden kürzer während Balder
+nach Hel reist. Dann im Winter wenn die ganze Natur stirbt und so der Kreislauf zuende geht, erstrahlt die Sonne
 zu neuem Glanz. Dann nach der Wintersonnenwende werden die Tage wieder länger und die Natur erwacht langsam wieder. 
 
 Über Balder als Charakter ist aus der Mythologie nicht sehr viel bekannt. Aber die Geschichte über Balders Tod wiederspiegelt 
@@ -244,6 +244,28 @@ Das Lied *Merkgedicht von Rig* beschreibt Heimdall auch als Schöpfer der Mittel
 
 
 ### Vanen
+
+Die Vanen werden oft als Erdgötter oder als Naturgeister beschrieben. Sie stellen ein weiteres Göttergeschlecht dar. 
+Ihre Welt wird Vanheim gennant. Leider ist über die Vanen bei weiten nicht so viel überliefert als es bei den Asengöttern der Fall ist.
+
+#### Der Krieg mit den Asen
+
+Die Asen und Vanen lagen im Krieg. Der Krieg enstand aus dem ersten Kampf in der Welt. Als Gullweig, eine Hexe der Vanen, von den
+Asen drei Mal in in der Halle von Odin verbrannt wurde. Nach einer Schlacht in Asgard überwanden die Vanen die Mauern der Asen
+und entschieden den Kampf für sich. Es wurde beraten und eine Vereinbarung wurde getroffen uns es wurden Geiseln ausgetauscht um die
+Einhaltung der Vereinbarung zu garantieren. Die Asen tauschten Hönir, die Vanen Njörd.
+
+#### Njörd
+
+Die Geisel der Vanen an die Asen regelt den Verlauf des Windes und regelt das Meer und das Feuer. Seine Halle steht in Noatun. Njörd
+hatte nahm eine Riesin zur Frau names Skadi. Skadi hasste es am Meer und Njörd hasste es in den Bergen zu leben. Also kammen sie zur 
+Übereinkunft je neun Tage an einem Ort zu leben und dan zur Halle des anderen zu wechseln. Die Kinder aus dieser Ehe sind Freyja und Freyr.
+
+#### Freyr
+ 
+#### Freyja
+
+
 
 ### Jotenheimer
 
