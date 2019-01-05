@@ -10,10 +10,14 @@ CSS:      .
 
 ## Temporäre Linksammlung
 
-- [Wikipedia Wikinger](https://en.wikipedia.org/wiki/Vikings)
-- [Ancient.eu Vikings](https://www.ancient.eu/Vikings/)
-- [History on the Net Vikings History Overview](https://www.historyonthenet.com/vikings-history-overview-culture-history-viking-age)
+- [Wikipedia - Wikinger](https://en.wikipedia.org/wiki/Vikings)
+- [Ancient.eu - Vikings](https://www.ancient.eu/Vikings/)
+- [History on the Net - Vikings History Overview](https://www.historyonthenet.com/vikings-history-overview-culture-history-viking-age)
+- [History on the Net - Viking society Nobles Freemen Slaves](https://www.historyonthenet.com/viking-society-nobles-medieval-freemen-slaves)
+- [Norse-mythology - THE VIKING SOCIAL STRUCTURE ](https://norse-mythology.org/viking-social-structure/)
 - [Ingebretsens Nordic Marketplace](https://www.ingebretsens.com/culture/history/the-vikings-and-the-viking-era)
+- [History.com - What Was Life Like for Women in the Viking Age?](https://www.history.com/news/what-was-life-like-for-women-in-the-viking-age)
+- [The Viking Answer Lady - Homosexuality in Viking Scandinavia](http://www.vikinganswerlady.com/gayvik.shtml)
 
 
 
@@ -30,7 +34,7 @@ Eventuell ans Ende des Dokuments verschieben
 | Vikinger   | lalala     |
 | Jarl       | lalala     |
 
-Definitonsvorschlag: Vikinger: Skandinavisches Volk, welches sich für Erkundschaft, Handel und Raubzüge interessiert.
+Definitonsvorschlag Vikinger: Skandinavisches Volk, welches sich für Erkundschaft, Handel und Raubzüge interessiert.
 
 Definitionsvorschlag Normannen/Nordmänner: Überbegriff für alle skandinavischen Völker zur damaligen Zeit.
 
@@ -54,10 +58,12 @@ Sie bereisten sogar die arabische Welt und reisten in den Osten nach Russland. D
 ### Hierarchie
 
 #### Gesellschaftliche Hierarchie
-Die Hierarchie der Nordmänner ist in drei Hauptstufen unterteilt. 
-Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.
+Im frühen Zeitalter der Wikinger hatten noch keine Könige existiert.
+Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines Königs zentralisierte die Macht über das ganze Volk bei ihm.  
+Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
+Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven. 
 Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. 
-
+Auf den ersten Blick scheint dies eine sehr klare und abgegrenzte Struktur zu sein, jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten. Sklaven hatten sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren und zu verkaufen und sich mit diesem Geld selber frei zu kaufen. Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
 
 
 #### Familienoberhaupt
@@ -70,10 +76,6 @@ Die Kultur wurde generell von Männern dominiert, jedoch besassen die Frauen je 
 Stand auch viel Macht. Die Rolle der Frauen war, dass sie den Haushalt führten. 
 Sie kümmerten sich um die Tiere, lagerten das Essen für den Winter ein, arbeiteten im Garten und kümmerten sich um die Familie. 
 Die wichtigste ihrer Aufgaben war das Fabrizieren neuer Kleider.
-
-Über Männer:
-
--
 
 Ehen wurden von den Eltern arrangiert und Kinder wurden zwischen dem 12ten und 20ten Lebensjahr verheiratet. 
 Das für uns junge Alter kam sicherlich auch davon, dass die Lebenserwartung zu dieser zeit in etwa 50 Jahre betrug. Bei der Verlobung bezahlte die Familie des Bräutigams der 
@@ -92,10 +94,20 @@ Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsf�
 <!-- Fehlen ihnen sonstige Rechte -->
 
 #### Polygamie / Monogamie
+Zum Punkte der Polygamie gibt es vieles zu sagen. Das Problem ist allerdings, dass nur wenige Beweise dazu existieren. Das meiste was in diesem Absatz kommt ist also hauptsächlich Theorie aus verschiedenen Quellen.
+
+Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygamie war. Man vermutet, dass die Oberschicht bedeutend attraktiver für Frauen waren und somit die Männer häufig mehrere Frauen haben konnten. Dies habe auch zu einem Frauendefizit geführt und habe entweder die Sklavenkultur bewirkt oder bedeutend verstärkt. In einzelnen Sagen wird jedoch auch von Frauen berichtet, die mehrere Männer überlebten. 
+
 #### Homosexualität
+Es existieren keine Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Man findet keine Dokumente, die eine Feindlichkeit ausdrücken würden, jedoch war es üblich, dass man heiratete und Kinder hatte, die wiederum Wert in die Gesellschaft bringen konnten und die Eltern im hohen Alter unterstützen konnten.
+
+
 #### Schieldmaiden
+Es existieren nur wenige Aufzeichnungen von Frauen die wie die Männer in den Krieg gezogen sind. Es gab jedoch Gemeinschaften von Schieldmaiden, also Frauen, die sich wie Männer kleideten, für den Krieg trainierten und dann auch in den Krieg zogen. Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. 
 
 ### Gräber
+Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben. 
+
 
 # Kontextualisierung
 
@@ -103,3 +115,12 @@ Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsf�
 
 ### Familie, Struktur
 Das Merkgedicht von Rig, Familienstruktur, Edda Seite 183-192
+
+
+
+### Hierarchie
+
+#### Gesellschaftliche Hierarchie
+These three basic social ranks were ancient, created by the god Rigr or Heimdall, establishing the proper ordering of Norse society.
+
+![History on the Net Viking society Nobles Freemen Slaves]
