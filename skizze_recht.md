@@ -16,7 +16,7 @@ Wurde nun der Schadensverursacher während eines Things angeklagt, meist handelt
 Bei einem Streit konnte man den Disput auch mit einem Duell, dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem eingegrenzten Bereich statt und dauerte je nach Situation bis einer der Konkurenten den Bereich verliess, bis zum ersten Blut oder bis zum Tod.
 
 #Gesetze
-
+Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. Die geltenden Gesetze wurden von einem sogenannten Rechtsprecher auswendig gelernt und jeweils bei den Things vorgetragen.
 
 #Bestrafung ?
 
