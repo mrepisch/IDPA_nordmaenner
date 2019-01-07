@@ -26,6 +26,7 @@ Schwerpunkt : persönliche Konfrontation vs Konfrontation via Thing
 
 
 ## Quellen
+https://en.wikipedia.org/wiki/Medieval_Scandinavian_law
 https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false
 https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html
 http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html
