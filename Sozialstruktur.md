@@ -47,6 +47,10 @@ Am meisten Quellen wurden von Personen erstellt, die negativ von den Vikingern b
 Skandinavische Werke tauchten erst im 11ten und 12ten Jahrhundert vermehrt mit der Christianisierung zusammen auf. Zu dieser Zeit gewann lateinisch auch an Bedeutung in dieser Region. 
 Daher findet man erst aus dieser Zeit viele Schriftstücke. 
 
+Bild zu den Schriftzeichen der Nordmänner.
+Nur zwischen 9. und 11ten Jahrhundert verwendet.
+Quelle: https://en.wikipedia.org/wiki/Younger_Futhark
+
 ### Kriegszüge
 Die Wikinger waren dafür bekannt, dass sie Abenteurer waren. Sie erkundeten weite Teile Europas, trieben Handel mit den Völkern die sie fanden und raubten auch einige aus. Diese Raubzüge machten sie zu einem gefürchteten Volk.
 
@@ -99,15 +103,20 @@ Zum Punkte der Polygamie gibt es vieles zu sagen. Das Problem ist allerdings, da
 Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygamie war. Man vermutet, dass die Oberschicht bedeutend attraktiver für Frauen waren und somit die Männer häufig mehrere Frauen haben konnten. Dies habe auch zu einem Frauendefizit geführt und habe entweder die Sklavenkultur bewirkt oder bedeutend verstärkt. In einzelnen Sagen wird jedoch auch von Frauen berichtet, die mehrere Männer überlebten. 
 
 #### Homosexualität
-Es existieren keine Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Man findet keine Dokumente, die eine Feindlichkeit ausdrücken würden, jedoch war es üblich, dass man heiratete und Kinder hatte, die wiederum Wert in die Gesellschaft bringen konnten und die Eltern im hohen Alter unterstützen konnten.
+Es existieren keine direkten Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Die Idee einer ausschliesslich gleichgeschlechtigen Beziehung konnte man sich damals nicht vorstellen. Es war jedoch nicht wichtig wie das sexuelle Leben eines Menschen aussah, solange man sich an die Normen hielt und eine Familie und Kinder hatte. Von Menschen, die sich aus Beziehungen fern hielten, wurde gesagt sie haben Angst vor dem anderen Geschlecht. Dies ist insbesondere in der Kriegerkultur der Wikinger eine tiefe Beleidigung. Somit haben die Wikinger nicht aus Prinzip eine Abscheu gegenüber homosexuellen Aktivitäten gehabt.
 
 
 #### Schieldmaiden
 Es existieren nur wenige Aufzeichnungen von Frauen die wie die Männer in den Krieg gezogen sind. Es gab jedoch Gemeinschaften von Schieldmaiden, also Frauen, die sich wie Männer kleideten, für den Krieg trainierten und dann auch in den Krieg zogen. Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. 
 
 ### Gräber
-Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben. 
+Es war üblich den Toten Geschenke mit in den Tod zu geben. Das bedeutet Güter zu ihnen ins Grab zu legen oder mit ihnen zu verbrennen. Teilweise wurden die Toten nämlich auch kremiert. Diese Kremation fand üblicherweise in der Mitte eines Steinkreises statt. Die Anzahl der Gegenstände und ihr Wert entsprach dem was sie in ihrem Leben hatten. Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und Werkzeugen mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
+Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken. 
 
+Bild eines Grabkreises
+https://www.history.com/news/how-did-the-vikings-honor-their-dead
+
+Eine alternative Art der Beisetzung ist auch die Verwendung eines Bootes als Grab. Der Leichnam wurde mit seinen Geschenken und Schätzen ins Boot gelegt und auf seine Reise geschickt. Da Boote extrem aufwendig in der Produktion sind ist dies die kostspieligste Art und wurde nur selten verwendet.
 
 # Kontextualisierung
 
