@@ -9,6 +9,7 @@ Der Verursacher hatte so die Option den Schaden mit
 Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszugleichen. 
 Ansonsten blieb dem Geschädigten noch die Option seinen Konkurrenten beim nächsten Thing anzuklagen
 
+https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln
 ## Gesetze
 
 Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. 
