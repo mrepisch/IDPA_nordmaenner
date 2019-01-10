@@ -1,4 +1,16 @@
-# Recht und Sitte 
+# Sitte 
+
+## Sitte - Sittenrecht
+
+## Thrall - Knecht
+
+## Karl - freie
+
+## Jarl - Adliger
+
+## Konungur - König ????
+
+# Recht
 
 Die Nordmänner kannten keine Polizei. Wurde jemandem Unrecht getan, 
 musste er sich selbst zu seinem Recht verhelfen.
