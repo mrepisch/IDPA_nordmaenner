@@ -3,12 +3,21 @@
 ## Sitte - Sittenrecht
 
 ## Thrall - Knecht
+Die Sklaven, die als Knechte auf den Höfen dienten, bildeten die unterste Schicht des damals geläufigen Kastensystems.
+Was sie durften wurde von ihrem Herrn bestimmt, der volkommene Gewalt über sie hatte. Als Beispiel: Ein Thrall konnte von seinem Meister als Grabbeigabe bestimmt und mit dem Verstorbenen begraben werden.
+Die Thrall setzten sich aus drei Gruppen zusammen. Gefangene aus Raubzügen, Kinder von weiblichen Thrall und ehemals freie Normänner, die sich aufgrund von Schulden oder Armut in Knechtschaft begaben.
 
 ## Karl - freie
+Die Karl waren die freien Normänner. Sie konnten einen Bauernhof besitzen, auf Raubzüge gehen und durften am Thing teilnehmen wo sie über die Zukunft mitbestimmen konnten. 
+Für die Karl galten neben den festgelegten Gesetzen auch viele ungeschriebene Regeln die den sozialen Umgang bestimmten. 
 
-## Jarl - Adliger
+## Jarl & Herse - Adliger
+Ein Jarl, vergleichbar mit einem Grafen und ein Herse, vergleichbar mit einem Herzog, standen auf der gleichen, der höchsten Kastenebene. Vom Rang her waren sie einem König ebenbürtig, auch wenn sie sich ihm unterstellten.
+Während sich der Titel des Jarls im gesamten Skandinavischen Raum finden lässt, taucht der Herse nur an der Norwegischen Küste auf.
 
-## Konungur - König ????
+Jarl - Verwalter/Herrscher  Herse - wahrscheinlich eher Befehlshaber einer Armee
+
+## Frauen
 
 # Recht
 
