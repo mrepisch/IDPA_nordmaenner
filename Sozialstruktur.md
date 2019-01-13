@@ -18,6 +18,7 @@ CSS:      .
 - [Ingebretsens Nordic Marketplace](https://www.ingebretsens.com/culture/history/the-vikings-and-the-viking-era)
 - [History.com - What Was Life Like for Women in the Viking Age?](https://www.history.com/news/what-was-life-like-for-women-in-the-viking-age)
 - [The Viking Answer Lady - Homosexuality in Viking Scandinavia](http://www.vikinganswerlady.com/gayvik.shtml)
+- [Hurstwic.org - Families and Demographics in the Viking Age](http://www.hurstwic.org/history/articles/daily_living/text/Demographics.htm)
 
 
 
@@ -52,43 +53,38 @@ Nur zwischen 9. und 11ten Jahrhundert verwendet.
 Quelle: https://en.wikipedia.org/wiki/Younger_Futhark
 
 ### Kriegszüge
+<!-- Extract this part to recht maybe? -->
 Die Wikinger waren dafür bekannt, dass sie Abenteurer waren. Sie erkundeten weite Teile Europas, trieben Handel mit den Völkern die sie fanden und raubten auch einige aus. Diese Raubzüge machten sie zu einem gefürchteten Volk.
 
 Den wenigsten Leuten ist heutzutage bewusst, wie weit die Wikinger auf ihren Reisen kamen. Sie siedelten sich in England, Irland, Frankreich und Spanien an. Ihre Signifikanz kann man an der Namensgebung von Orten sehen, die Normandie wurde nach den Normannen benannt. 
 
 Sie bereisten sogar die arabische Welt und reisten in den Osten nach Russland. Der Name Russland kommt aus dem Schwedischen. Rus steht für Wikinger. Der Name kommt davon, dass sie auch im Osten Europas, also insbesondere Russland siedelten. 
 
-
-### Hierarchie
-
-#### Gesellschaftliche Hierarchie
+### Gesellschaftliche Hierarchie
 Im frühen Zeitalter der Wikinger hatten noch keine Könige existiert.
 Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines Königs zentralisierte die Macht über das ganze Volk bei ihm.  
 Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
 Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven. 
 Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. 
-Auf den ersten Blick scheint dies eine sehr klare und abgegrenzte Struktur zu sein, jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten. Sklaven hatten sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren und zu verkaufen und sich mit diesem Geld selber frei zu kaufen. Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
+Auf den ersten Blick scheint dies eine sehr klare und abgegrenzte Struktur zu sein, jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
 
+### Familienleben
+Im Zeitalter der Wikinger lebten die meisten Menschen auf Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. 
 
-#### Familienoberhaupt
-#### Seher/Heiler/shaman
+Kinder mussten bereits sehr früh im Haushalt mitarbeiten. Es wurde von ihnen erwartet, dass sie ihren Teil zum Wohl der Gemeinschaft beitragen. Genau so lernten sie allerdings auch wie sie die Arbeiten zu verrichten hatten, die sie später am Leben erhielten. Kinder mussten jedoch nicht nur arbeiten, sondern hatten auch Zeit zum spielen. Es wurden mehrere Spielzeuge in der Form von Puppen, kleinen Holzpferden und Schiffchen gefunden.  
+Regelmässig wurden Kinder auch in respektable Leihfamilien weitergegeben. Das Ziel war das Kind von der Leihfamilie erziehen zu lassen. Ein Grund für solche Arrangements war ebenfalls, dass die Kindersterblichkeit extrem hoch war und somit einzelne Familien kaum Kinder hatten, während andere Paare kinderlos waren. Das Erziehen der Kinder wurde in der Regel auch monetarisch kompensiert.
+
+Kinder wurden bereits zwischen dem 12ten und 16ten Lebensjahr erwachsen. Mit dem erreichen dieses Alters mussten sie wissen, wie man einen Haushalt hielt und es wurde erwartet, dass sie eine eigene Familie aufbauen. Was man allerdings nicht lernte ist das Lesen und Schreiben, was die heutige Arbeit für Historiker deutlich erschwert.
 
 ### Frauen und Männerbild
 
 #### Rollenverteilung
 Die Kultur wurde generell von Männern dominiert, jedoch besassen die Frauen je nach 
-Stand auch viel Macht. Die Rolle der Frauen war, dass sie den Haushalt führten. 
-Sie kümmerten sich um die Tiere, lagerten das Essen für den Winter ein, arbeiteten im Garten und kümmerten sich um die Familie. 
-Die wichtigste ihrer Aufgaben war das Fabrizieren neuer Kleider.
+Stand auch viel Macht. Die Rolle der Frauen war, dass sie den Haushalt führten. Sie kümmerten sich um die Tiere, lagerten das Essen für den Winter ein, arbeiteten im Garten und kümmerten sich um die Familie. Die wichtigste ihrer Aufgaben war das Fabrizieren neuer Kleider. Männer halfen ebenfalls im Haushalt mit, übernahmen jedoch die körperlich strengeren Arbeiten. Sie vertraten ebenfalls die Familie in der Gemeinschaft und bildeten das Haupt einer Familie. Bekannterweise zogen Männer auch häufig in den Krieg, in diesen Zeiten mussten ihre Frauen den Haushalt übernehmen.
 
 Ehen wurden von den Eltern arrangiert und Kinder wurden zwischen dem 12ten und 20ten Lebensjahr verheiratet. 
-Das für uns junge Alter kam sicherlich auch davon, dass die Lebenserwartung zu dieser zeit in etwa 50 Jahre betrug. Bei der Verlobung bezahlte die Familie des Bräutigams der 
-Familie der Braut einen Brautpreis. 
+Das für uns junge Alter kam sicherlich auch davon, dass die Lebenserwartung zu dieser zeit höchstens 50 Jahre betrug. Bei der Verlobung bezahlte die Familie des Bräutigams der Familie der Braut einen Brautpreis. 
 Bei der Hochzeit hingegen wurde die Mitgift vom Vater der Braut bereitgestellt. Somit haben beide Familien ein finanzielles Interesse an der Ehe der Kinder.
-
-Schulen kannte man damals nicht so wie heute. Jungen lernten direkt von ihren Vätern wie man Männerarbeit erledigt und Frauen lernten von ihren Müttern, wie man strickt, kocht und sich um Tiere kümmert. 
-Im Erwachsenenalter wussten schlussendlich jedoch alle, wie man eine Farm in Stande hält.
-Da es keine Schule gab wurde auch das Lesen und Schreiben nicht unterrichtet, da dies die Eltern nicht konnten und nicht verwendeten.
 
 #### Sonstige Rechte
 Männer hatten das Recht zu fast allem, wobei die einzige Ausnahme der Dienst für weibliche Götter ist. 
@@ -105,9 +101,8 @@ Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygamie wa
 #### Homosexualität
 Es existieren keine direkten Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Die Idee einer ausschliesslich gleichgeschlechtigen Beziehung konnte man sich damals nicht vorstellen. Es war jedoch nicht wichtig wie das sexuelle Leben eines Menschen aussah, solange man sich an die Normen hielt und eine Familie und Kinder hatte. Von Menschen, die sich aus Beziehungen fern hielten, wurde gesagt sie haben Angst vor dem anderen Geschlecht. Dies ist insbesondere in der Kriegerkultur der Wikinger eine tiefe Beleidigung. Somit haben die Wikinger nicht aus Prinzip eine Abscheu gegenüber homosexuellen Aktivitäten gehabt.
 
-
 #### Schieldmaiden
-Es existieren nur wenige Aufzeichnungen von Frauen die wie die Männer in den Krieg gezogen sind. Es gab jedoch Gemeinschaften von Schieldmaiden, also Frauen, die sich wie Männer kleideten, für den Krieg trainierten und dann auch in den Krieg zogen. Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. 
+Es existieren nur wenige Aufzeichnungen von Frauen, die wie die Männer in den Krieg gezogen sind. Es gab jedoch Gemeinschaften von Schieldmaiden, also Frauen, die sich wie Männer kleideten, für den Krieg trainierten und dann auch in den Krieg zogen. Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. 
 
 ### Gräber
 Es war üblich den Toten Geschenke mit in den Tod zu geben. Das bedeutet Güter zu ihnen ins Grab zu legen oder mit ihnen zu verbrennen. Teilweise wurden die Toten nämlich auch kremiert. Diese Kremation fand üblicherweise in der Mitte eines Steinkreises statt. Die Anzahl der Gegenstände und ihr Wert entsprach dem was sie in ihrem Leben hatten. Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und Werkzeugen mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
