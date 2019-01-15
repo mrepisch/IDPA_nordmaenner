@@ -6,6 +6,11 @@ gelernt und jeweils bei den Things vorgetragen. Sie regelten den Handel, den Tri
 
 ## Sitte - Sittenrecht
 
+Viele Sitten hatten Hierarchische Züge. Ältere Männer wurden mit mehr Respekt behandelt als Junge und es gab eine Sitzordnung im Haus. Der Hausherr sass in der Mitte des Tisches, sein ranghöchster Gast, ihm gegenüber. Lud ein Nordmann einen anderen in sein Haus ein, galt für beide das Gastrecht, dass es den beiden untersagte, sich anzugreifen selbst wenn sie sich feindlich gesinnt waren.
+Hatte ein Mann zu viel Kontakt mit einer Frau, wurde das als Verlobungsversuch angesehen. Dies 
+
+# Kastensystem
+
 ## Thrall - Knecht
 Die Sklaven, die als Knechte auf den Höfen dienten, bildeten die unterste Schicht des damals geläufigen Kastensystems.
 Was sie durften wurde von ihrem Herrn bestimmt, der volkommene Gewalt über sie hatte. Als Beispiel: Ein Thrall konnte von seinem Meister als Grabbeigabe bestimmt und mit dem Verstorbenen begraben werden.
@@ -13,7 +18,7 @@ Die Thrall setzten sich aus drei Gruppen zusammen. Gefangene aus Raubzügen, Kin
 
 ## Karl - freie
 Die Karl waren die freien Normänner. Sie konnten einen Bauernhof besitzen, auf Raubzüge gehen und durften am Thing teilnehmen wo sie über die Zukunft mitbestimmen konnten. 
-Für die Karl galten neben den festgelegten Gesetzen auch viele ungeschriebene Regeln die den sozialen Umgang bestimmten. Viele hatten Hierarchische Züge. ältere Männer wurden mit mehr Respekt behandelt und es gab eine Sitzordnung im Haus. Der Hausherr sass in der Mitte des Tisches, sein ranghöchster Gast, ihm gegenüber. Lud ein Nordmann einen anderen in sein Haus ein, galt für beide das Gastrecht, dass es den beiden untersagte, sich anzugreifen selbst wenn sie sich feindlich gesinnt sind.
+Für die Karl galten neben den festgelegten Gesetzen auch Sitten die den sozialen Umgang bestimmten. 
 
 ## Jarl & Herse - Adliger
 Ein Jarl, vergleichbar mit einem Grafen und ein Herse, vergleichbar mit einem Herzog, standen auf der gleichen, der höchsten Kastenebene. Vom Rang her waren sie einem König ebenbürtig, auch wenn sie sich ihm unterstellten.
@@ -21,6 +26,7 @@ Während sich der Titel des Jarls im gesamten Skandinavischen Raum finden lässt
 Es wird vermutet, dass der Titel des Herse an Befehlshaber von Armeen vergeben wurde. Das würde die Geographischen Einschränkungen erklären, da die meisten grossen Eroberungen von dort gestartet wurden.
 Ein Jarl hingegen war ein Verwalter eines Gebietes, das je nach nach Macht des Jarls, ein Dorf oder eine Insel umfassen konnte.
 Er sorgte für die Sicherheit in seinem Gebiet wofür er einen Tribut von den Bauern und Händlern erhielt. So weiss man, dass der Jarl von östergötland einen Drittel des gesamten Tributes der Insel Gotland erhielt. Das entsprach der selben Menge, die auch der König erhielt.
+Der Titel des Jarls wurde vererbt oder vom König vergeben.
 
 ## Frauen
 Frauen hatten weit weniger Freiheiten als die Männer. Sie mussten sich um das Haus und den Hof kümmern. Jedoch wurde ihnen auch gewisse Privilegien zugesprochen. So durften sie bei der Wahl ihres Gatten mitbestimmen, das Familienoberhaupt hatte aber immer das letzte Wort.
