@@ -1,4 +1,8 @@
-# Sitte 
+# Gesetz und Sitte 
+
+Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. 
+Die geltenden Gesetze wurden von einem sogenannten Rechtsprecher auswendig 
+gelernt und jeweils bei den Things vorgetragen. Sie regelten den Handel, den Tribut und das Strafmass für Vergehen. Oftmal wichtiger in der Dorf- und Stammesgemeinschaft waren die Sitten. Sitten waren (und sind immer noch) ungeschriebene Regeln die den sozialen Umgang vorgeben. Während Gesetzte an jedem Thing wieder geändert werden konnten, galten Sitten über Generationen und wurden nur spärlich angepasst.
 
 ## Sitte - Sittenrecht
 
@@ -34,11 +38,6 @@ Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszu
 Ansonsten blieb dem Geschädigten noch die Option seinen Konkurrenten beim nächsten Thing anzuklagen
 
 https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln
-## Gesetze
-
-Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. 
-Die geltenden Gesetze wurden von einem sogenannten Rechtsprecher auswendig 
-gelernt und jeweils bei den Things vorgetragen.
 
 ## Das Thing
 
@@ -63,9 +62,8 @@ und konnte ungestraft beraubt oder umgebracht werden, bis seine Schuld bezahlt o
 
 Bei einem Streit konnte man den Disput auch mit einem Duell, 
 dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem 
-eingegrenzten Bereich statt und dauerte je nach Situation bis einer der Konkurenten 
-den Bereich verliess, bis zum ersten Blut oder bis zum Tod.
-
+eingegrenzten Bereich statt. Oft wurden dafür kleine Inseln oder Landzungen gewählt, oder Gebiete die weit abgelegen waren.
+Vor degbedingungen abgemacht. Manchmal reichte es, das ein Gegner entwaffnet oder aus dem Bereich manövriert wurde. Bei Fehden oder schlimmen Beleidigungen gingen die Kämpfe aber meistens bis einer blutete oder getötet wurde.
 
 # Handel
 
