@@ -8,8 +8,8 @@ pandoc inputfile.md  --reference-doc=VorlageIDPA.ott -o outpuutfilename.odt
 
 Vorlage ist auch auf dem Repo
 
-TODOS:
-Goals for next meeting 2019-01-17
+# TODOS:
+## Goals for next meeting 2019-01-17
 ### Alle
 - Alles Geschriebene nochmals durchlesen
 - Sagen, Lieder aus der Edda zu Sozialstruktur & Sitten zusammentragen
