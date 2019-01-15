@@ -71,6 +71,8 @@ dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem
 eingegrenzten Bereich statt. Oft wurden dafür kleine Inseln oder Landzungen gewählt, oder Gebiete die weit abgelegen waren.
 Vor degbedingungen abgemacht. Manchmal reichte es, das ein Gegner entwaffnet oder aus dem Bereich manövriert wurde. Bei Fehden oder schlimmen Beleidigungen gingen die Kämpfe aber meistens bis einer blutete oder getötet wurde.
 
+!!!!!Ich habe noch auf Wikipedia oder so gesehen das Holmgänge auch von den Berserkern gegen Bauern erfolgt sind da sie rechtlich gültig waren, um ihnen so ihre Sachen zu "klauen" ???!!!!!!!
+
 # Handel
 
 Handel spielte bei den Nordmännern eine grosse Rolle. Ihr Handelsnetzwerk streckte sich von Skandinavien ostwärts über Europa bis nach Konstantinopel. Westwärts gelangten sie nach Grossbritannien, Irland, Island, Grönland und zeitweise sogar bis nach Nordamerika. Rund 400 Jahre vor Christoph Kolumbus. Aber wie kam es dazu? Die Wikinger waren wie immer pragmatisch bei ihrer Vorgehensweise. Fand sich eine Siedlung oder ein Kloster das zu stark befestigt war um es zu plündern, wurde auf friedliche Weise Waren ausgetauscht. Die Wikinger handelten mit allem was einen Abnehmer fand. Wahlrosszähne, Trinkgläser, Lederwaren, Teppiche und Schmuck wurden durch die Normännischen Händler in Europa verteilt. Auch vom Sklavenhandel liessen sie nicht die Finger von. Gefangene von Raubzügen in Irland, Schottland, dem heutigen Frankreich etc. wurden in das Byzanthinische Reich verkauft. Das Silber, das sie im Gegenzug erhielten wurde eingeschmolzen und neu gemünzt. So bildeten die Nordmänner, nach dem Fall des Römischen Reiches langsam wieder eine Münzbasierte ökonomie.
