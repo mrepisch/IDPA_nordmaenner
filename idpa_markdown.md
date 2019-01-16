@@ -26,7 +26,7 @@ nicht auf jedes Detail eingegangen wird. In den Quellenangaben und dem
 Anhang wird auf Texte und weitere Informationen verwiesen, welche für
 das Thema relevant sind.
 
-# []{#anchor}Die Eddas
+## []{#anchor}Die Eddas
 
 
 Die beiden Eddas stellen die aktuellste Quelle für die Mythologie der
@@ -52,7 +52,19 @@ um das 13te Jahrhundert gelebt hat. Zu dieser Zeit fand die
 Christianisierung von Europa statt. Snorris Anliegen mit seiner Edda war
 es die skaldische Dichtkunst mit ihren Geschichten zu erhalten.
 
-### []{#anchor}Yggdrasil und die neun Welten
+## Sagas
+
+Eine weitere jedoch viel kleinere Quelle sind die nordischen Legenden, auch Sagas gennant.
+Die Sagen sind in acht Kategorien unterteilt. Die König Sagas(Konungasögur), die Sagen der Icelander(Íslendinga sögur),
+die Kurzgeschichten der Isländer(Íslendingaþættir), die zeitgenösischen Sagas(Samtíðarsögur), die lengendären Sagas(Fornaldarsögur),
+die Rittersagen(Riddarasögur), die heiligen Sagen(Heilagra manna sögur) und zuletzt die Sagen der Bischöfe(Biskupa sögur).
+Auf all diese Sagen können natürlich nicht im Detail eingegangen werden. Aber die Sakdinavische und die Isländische Kultur haben eine
+reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen, dass das Wissen der Nordmänner mündlich überliefert worden ist.
+Sie haben es jedoch verstanden, dieses Wissen über Ereignisse grosse Könige oder auch das Wissen ihrer Götter, in spannende Geschichten
+zu verpacken welche dann über Generationen weitererzählt werden. 
+
+
+## []{#anchor}Yggdrasil und die neun Welten
 
 > "Eine Esche kenn ich - überschütte-, sie heisst Yggdrasil, ein hoher
 > heiliger Baum - mit weissem Sand; von dort kommt der Tau, der in den
@@ -66,7 +78,7 @@ Interpretationen wo genau sich die Welten im Weltenbaum befinden. Einig
 sind sie sich jedoch, dass sich Midgard im Zentrum und Asgard in der
 Krone des Baumes befinden.
 
-### []{#anchor}Asen
+## []{#anchor}Asen
 
 Die Asen, auch bekannt als Himmelsgötter, ist die Götterfamilie über die
 am meisten überliefert ist. Fast alle Geschichten in beiden Eddas
@@ -78,7 +90,7 @@ wie dieser aussieht.
 Im folgenden werden die wichtigsten Götter und Göttinnen und deren
 Aspekte aufgeführt.
 
-#### []{#anchor}Odin / Wotan
+### []{#anchor}Odin / Wotan
 
 Odin der Göttervater oder auch Allfather gennant, ist einer der
 komplexesten Götter der Mythologie. Viele Aspekte werden unter ihm
@@ -107,7 +119,7 @@ Der Mittwoch wurde Odin gewidmet. Dies ist in der deutschen Sprache
 verlorengegangen, ist aber noch im englischen Wochentag
 Wendesday(Wodendag) ersichtlich.
 
-#### []{#anchor}Frigga
+### []{#anchor}Frigga
 
 > [...] "Frigg ist die vornehmste. Sie besitzt den Hof,
 > der Fensalir heisst und besonders prächtig ist[...]" 
@@ -128,7 +140,7 @@ haben. Sich also eine Götterfigur in zwei abgespalten haben.
 > Frau Holle. [https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018\]
 
 
-#### []{#anchor}Thor / Donnar
+### []{#anchor}Thor / Donnar
 
 > "Nennen werde ich meinen Namen, auch wenn ich geächtet wär,
 > und mein ganzes Geschlecht: Ich bin Odins Sohn, Melis Bruder und Magnis Vater,
@@ -167,7 +179,7 @@ in den Geschichten mit Thor aneinandergerät.
 
 Ebenfalls ist Thor auch der Namensgeber des Donnerstags oder Thursday.
 
-#### []{#anchor}Loki
+### []{#anchor}Loki
 
 > "Zu den Asen wird auch derjenige gezählt, den manche 
 > Verleumder der Asen, Urheber der Hinterlist und 
@@ -195,7 +207,7 @@ Original *Lokasenna* genannt. In diesem Lied rechnet Loki mit den Asen,
 welche ein Fest feiern, ab indem er alle beleidigt und den Götter ihre
 Schwächen und Fehler aufzeigt.
 
-##### []{#anchor}Die Kinder Lokis
+### []{#anchor}Die Kinder Lokis
 
 Lokis Kinder sind wichtig zu erwähnen da sie das Gegengewicht zu des Asen darstellen.
 Drei Kinder gebar die Risin Angrboda Loki. Die Midgardschlange
@@ -217,7 +229,7 @@ achtbeinige Pferd Odins ist einer von Lokis Kindern. Dieses Pferd ist
 durch eine List entstanden. Die Geschichte dieser List kann in der Edda
 des Snorri Sturluson Gylfis Täuschung Vers 42 nachgelesen werden.
 
-#### []{#anchor}Tyr
+### []{#anchor}Tyr
 
 > Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird
 > ist der kühnste aller Asen. Ebenfalls ist der der Namensgeber des
@@ -233,7 +245,7 @@ nicht überliefert. Gewisse Forscher gehen davon aus das Tyr vor 2000
 Jahren während der Zeit der Römer einen viel grösseren Stellenwert hatte
 und von der Gottheit Odin im Lauf der Zeit verdrängt wurde.
 
-#### []{#anchor}Balder
+### []{#anchor}Balder
 
 > Ich sah Balder, den blutenden Gitt,
 > Odins Kind, das Schicksal bestimmt;
@@ -248,7 +260,7 @@ Entscheidungen keinen Bestand. Der Mythos von Balders Tod spielt eine
 grosse Rolle in der Mythologie und wird ebenfalls mit den Sonnenwenden
 in Verbindung gebracht.
 
-##### []{#anchor}Der Tod Balders
+### []{#anchor}Der Tod Balders
 
 Die Geschichte über den Tod Balders ist nicht im Detail in der
 Liederedda beschrieben, jedoch in der Edda des Snorri
@@ -263,7 +275,7 @@ langsam wieder. Über Balder als Charakter ist aus der Mythologie nicht
 sehr viel bekannt. Aber die Geschichte über Balders Tod widerspiegelt
 die zyklische Weltanschauung der damaligen Menschen.
 
-#### []{#anchor}Heimdall
+### []{#anchor}Heimdall
 
 Der Gott der den Bifröst, die Regenbogenbrücke welche Midgard und Asgard
 miteinander verbindet bewacht, heisst Heimdall. Er ist der weisseste der
@@ -275,33 +287,33 @@ Das Lied *Merkgedicht von Rig* in der Liederedda, beschreibt Heimdall
 auch als Schöpfer der Mittelalterlichen Ständen: Knecht, Bauer, Jarl
 bzw. König.
 
-### []{#anchor}Vanen
+## []{#anchor}Vanen
 
 Die Vanen werden oft als Erdgötter oder als Naturgeister beschrieben.
 Sie stellen ein weiteres Göttergeschlecht dar. Ihre Welt wird Vanheim
 gennant. Leider ist über die Vanen bei weiten nicht so viel überliefert
 als es bei den Asen der Fall ist.
 
-#### []{#anchor}Der Krieg mit den Asen
+### []{#anchor}Der Krieg mit den Asen
 
 Dieser Krieg stellt laut Snorri den ersten Krieg zwischen den
 Göttergeschlechter. Nachdem er zu Ende ging wurden Geiseln zwischen den
 Familien ausgetauscht. Die Vanen stellten Njörd die Asen tauschten Hönir
 ein.
 
-#### []{#anchor}Njörd
+### []{#anchor}Njörd
 
 Die Geisel der Vanen an die Asen regelt den Verlauf des Windes, des
 Meeres und des Feuers. Njörd war mit der Riesin Skadi verheiratet. Die
 Kinder aus dieser Ehe sind Freyja und Freyr.
 
-#### []{#anchor}Freyr
+### []{#anchor}Freyr
 
 Freyr wurde als Fruchtbarkeitsgott verehrt. Er wacht über den Regen, den
 Sonnenschein und das Wachstum der Pflanzen. Ebenfalls regelt er den
 Reichtum der Menschen.
 
-#### []{#anchor}Freyja
+### []{#anchor}Freyja
 
 Freyja nimmt den Platz als Göttin der Liebe und der Ehe ein. Sie ist als
 einige der wenigen Götter der Zauberkunde mächtig. Ihr werden aber auch
@@ -310,7 +322,7 @@ reiten auf ihrem Streitwagen, welcher von Wildkatzen gezogen wird, in
 die Schlacht. Ihr steht die zweite Hälfte der Gefallenen Kriegern zu(
 Odin erhält die erste Hälfte).
 
-### []{#anchor}Jotun
+## []{#anchor}Jotun
 
 Die Riesen leben in Jotenheim und werden daher Jotun genant. Die Risen
 werden niemals als Götter dargestellt obwohl sie sich kräftemässig
@@ -321,7 +333,7 @@ Riesen kämpft. Um so das Gleichgewichts. In den Eddas werden immer
 wieder Namen von verschiedenen Riesen genannt es ist aber mal abgesehen
 vom Namen in der Regel nicht viel mehr überliefert.
 
-### []{#anchor} Ragnarök
+## []{#anchor} Ragnarök
 
 Das Ragnarök stellt das eine eines Zyklus dar. In der Mythologie wird das Ragnarök 
 als apokalytischer Kampf dargestellt in dem Midgard verzehrt und viele Götter sterben werden.
@@ -331,7 +343,7 @@ Erkenntnis das jedes Jahr das Ragnarök stattfindet. Wen der Sonnengot stirbt si
 Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt wieder das Leben zurück.
 
 
-## Sozialstruktur
+# Sozialstruktur
 
 ### Literarische Quellen
 Die Nordmänner besassen eine eigene Sprache und Schrift, diese bestand allerdings aus Runen. Es wurde nicht viel geschrieben und die wenigen Dokumente, die man finden konnte sind eher kurz. 
