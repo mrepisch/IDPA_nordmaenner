@@ -15,6 +15,8 @@ Wir möchten mit dieser Arbeit erarbeiten und welchen Bereichen des
 Lebens diese Mythologie Einzug gehalten hat um so die Lebensweise
 unserer Vorfahren besser zu verstehen.
 
+# Methodik
+
 # []{#anchor}Mythologie
 
 
@@ -35,9 +37,10 @@ Die Liederedda oder auch ältere Edda ist eine Sammlung von Lieder und
 Versen welche die Mythen beschreiben. Alle Texte in der Liederedda sind
 in der Skaldischen Dichtkunst verfasst.
 
-> Skaldische Dichtungen sind subjektiv gestaltete Kompositionen, die ihre
+> "Skaldische Dichtungen sind subjektiv gestaltete Kompositionen, die ihre
 > Stoffe dem Leben und dem sozialen Umfeld ihres Dichters, des Skalden,
-> entnehmen: sie sind situationsgebundene Gesellschaftsdichtung \[https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018]
+> entnehmen: sie sind situationsgebundene Gesellschaftsdichtung" 
+> [https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018]
 
 Das zweite Buch die Edda des Snorri Sturluson, auch Snorris Edda
 genannt, ist ein Zusammenfassung der vieler einzelner Geschichten aus
@@ -51,10 +54,10 @@ es die skaldische Dichtkunst mit ihren Geschichten zu erhalten.
 
 ### []{#anchor}Yggdrasil und die neun Welten
 
-> Eine Esche kenn ich - überschütte-, sie heisst Yggdrasil, ein hoher
+> "Eine Esche kenn ich - überschütte-, sie heisst Yggdrasil, ein hoher
 > heiliger Baum - mit weissem Sand; von dort kommt der Tau, der in den
-> Tälern niederfällt; sie steht immer grün über dem Urdbrunnen \[Die
-> Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.19\]
+> Tälern niederfällt; sie steht immer grün über dem Urdbrunnen"
+> [Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.19]
 
 Die Esche Yggdrasill stellt in der nordischen Mythologie das Leben und
 das grosse allumfassende Ganze dar. Alle neun Welten sind durch
@@ -87,10 +90,11 @@ strebt. Odin hat sein linkes Auge geopfert um von dieser Quelle trinken
 zu können. Auch wird erzählt das er neun Tage an der Esche Yggdrasill
 hing um so das Wissen der Runen zu erlangen.
 
+
 > Ich(Odin) weiss, das ich hing am windigen Baum(Yggdrasil) neun ganze
 > Nächte, vom Speer verwundet und Odin geopfert, selber mir selbst, an dem
-> Baum, von dem niemand weiss, aus welcher Wurzel er wächst \[ Die
-> Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138 \]
+> Baum, von dem niemand weiss, aus welcher Wurzel er wächst 
+> [Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138]
 
 Ein weiterer Aspekt von Odin ist der des Kriegs-und Totengottes. Nach
 jeder Schlacht wählen die Valküren aus den gefallenen Kriegern die
@@ -105,6 +109,10 @@ Wendesday(Wodendag) ersichtlich.
 
 #### []{#anchor}Frigga
 
+> [...] "Frigg ist die vornehmste. Sie besitzt den Hof,
+> der Fensalir heisst und besonders prächtig ist[...]" 
+> [Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.35 ]
+
 Frigga oder auch Frigg ist die Frau von Odin und eine Heilerin. Sie ist
 die Göttin des Haushaltes, der Kinder. Als eine der wenigen
 Götterfiguren, ist sie in der Lage in die Zukunft zu sehen. Jedoch
@@ -114,12 +122,19 @@ Es wird darüber debattiert ob Freya, die Göttin der Liebe und
 Fruchtbarkeit(Siehe im Kapitel Vanen) und Frigga den gleichen Ursprung
 haben. Sich also eine Götterfigur in zwei abgespalten haben.
 
+
 > Nach einer verbreiteten Hypothese entwickelte sich aus Frigg, für die
 > auch der Beiname Hulla („Huldvolle") bezeugt ist, die Märchengestalt der
-> Frau Holle. \[https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018\]
+> Frau Holle. [https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018\]
 
 
 #### []{#anchor}Thor / Donnar
+
+> "Nennen werde ich meinen Namen, auch wenn ich geächtet wär,
+> und mein ganzes Geschlecht: Ich bin Odins Sohn, Melis Bruder und Magnis Vater,
+> Der Kraftherr der Götter; mit Thor kannst du hier sprechen.
+> Das will ich jetzt fragen, wie du heisst"
+> [ Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9]
 
 Der Sohn von Odin und Gia(die Göttin der Erde über die wenig bekannt
 ist) ist Thor. Er ist der stärkste der Asen und sehr kampferprobt. Er
@@ -143,16 +158,24 @@ In der Liederedda wird immer wieder vermerkt, dass Thor eher ein Gott
 für das einfache Volk war. Wobei diese These umstritten ist da Odin oft
 in den Geschichten mit Thor aneinandergerät.
 
-> Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe, ich
+
+> "Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe, ich
 > hetzte Fürsten auf, aber versöhnte sie nie; Odin hat die Jarle, in der
-> in der Schlacht fallen, aber Thor hat das Geschlecht der Knechte [Die
-> Götterlieder der Älteren Edda, Das Harbardlied V.24]
+> in der Schlacht fallen, aber Thor hat das Geschlecht der Knechte"
+> [Die Götterlieder der Älteren Edda, Das Harbardlied V.24]
+
 
 Ebenfalls ist Thor auch der Namensgeber des Donnerstags oder Thursday.
 
 #### []{#anchor}Loki
 
-Loki ist neben Odin einer der komplexesten Charaktere der Mythologie. Er
+> "Zu den Asen wird auch derjenige gezählt, den manche 
+> Verleumder der Asen, Urheber der Hinterlist und 
+> Schande der Götter und Menschen nennen"
+> [Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.33]
+
+Loki ist neben Odin einer der komplexesten Charaktere der Mythologie. Es ist nicht klar wer seine Eltern sind,
+jedoch kann davon ausgegangen werden das Odin sein Vater ist. Er
 wird oft als böser Scharlatan und Missetäter beschrieben. Er arbeitet
 oft gegen die Götter, aber genau so oft auch für sie. Da Loki hat die Macht seine Form zu wandeln.
 Loki wird derjenige sein welcher das Ragnarök einleutet und kämpft am Ende gegen
@@ -212,6 +235,12 @@ und von der Gottheit Odin im Lauf der Zeit verdrängt wurde.
 
 #### []{#anchor}Balder
 
+> Ich sah Balder, den blutenden Gitt,
+> Odins Kind, das Schicksal bestimmt;
+> gewachsen war, über den Feld hoch,
+> schmall und sehr schön, der Mistelzeig
+> [Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.31]
+
 Der Sonnengott Balder ist der schönste und strahlenste der Asen. Über
 ihn gäbe es nichts Schlechtes zu erzählen. Er ist der redegewandteste
 und huldvollste Gott. Jedoch, so schreibt Snorri, haben seinen
@@ -222,7 +251,7 @@ in Verbindung gebracht.
 ##### []{#anchor}Der Tod Balders
 
 Die Geschichte über den Tod Balders ist nicht im Detail in der
-Liederedda beschrieben, jedoch im Detail in der Edda des Snorri
+Liederedda beschrieben, jedoch in der Edda des Snorri
 Sturluson Gylfis Täuschung Vr. 49 nachzulesen.
 
 Der Tod von Balder stellt die Sonnenwenden dar. Im grössten Glanz der
@@ -315,6 +344,7 @@ Nur zwischen 9. und 11ten Jahrhundert verwendet.
 [Quelle: https://en.wikipedia.org/wiki/Younger_Futhark]
 
 ### Gesellschaftliche Hierarchie
+
 Im frühen Zeitalter der Wikinger hatten noch keine Könige existiert.
 Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines Königs zentralisierte die Macht über das ganze Volk bei ihm.  
 Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
@@ -323,6 +353,7 @@ Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für d
 Auf den ersten Blick scheint dies eine sehr klare und abgegrenzte Struktur zu sein, jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
 
 ### Familienleben
+
 Im Zeitalter der Wikinger lebten die meisten Menschen auf Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. Auf einer Farm wurde alles gemacht was man sich so vorstellen kann. Es wurde Felder bewirtschaftet und man züchtete Hühner und Vieh. Die Bewohner eines Bauernhofes hielten sogar Haustiere. 
 
 Kinder mussten bereits sehr früh im Haushalt mitarbeiten. Es wurde von ihnen erwartet, dass sie ihren Teil zum Wohl der Gemeinschaft 
@@ -385,9 +416,9 @@ das Thema der Schieldmaiden hat die Kultur damals bewegt.
 Es war üblich den Toten Geschenke mit in den Tod zu geben. Das bedeutet Güter zu ihnen ins Grab zu legen 
 oder mit ihnen zu verbrennen. Teilweise wurden die Toten nämlich auch kremiert. Diese Kremation fand üblicherweise in 
 der Mitte eines Steinkreises statt. Die Anzahl der Gegenstände und ihr Wert entsprach dem was sie in ihrem Leben hatten.
- Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und Werkzeugen 
- mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle gut darstellt. 
- Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
+Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und Werkzeugen 
+mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle gut darstellt. 
+Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
 Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken. 
 
 Bild eines Grabkreises
@@ -473,12 +504,57 @@ dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem
 eingegrenzten Bereich statt und dauerte je nach Situation bis einer der Konkurenten 
 den Bereich verliess, bis zum ersten Blut oder bis zum Tod.
 
+#### Sonstige Rechte
+
+Männer hatten das Recht zu fast allem, wobei die einzige Ausnahme der Dienst für weibliche Götter ist. 
+Frauen hingegen hatten bedeutend mehr Rechte als in den anderen Kulturen, sie waren so gut wie gleich gestellt zu den Männern.
+Die Männer hatten das Sagen im Haus, Frauen konnten es allerdings verwalten während ihr Mann fort war und man konnte ihnen dieses Recht auch nicht entziehen.
+Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsfällen vertreten und konnten Geschäfte führen.
+
+## Handel
+
+Handel spielte bei den Nordmännern eine grosse Rolle. Ihr Handelsnetzwerk streckte sich von Skandinavien ostwärts 
+über Europa bis nach Konstantinopel. Westwärts gelangten sie nach Grossbritannien, Irland, Island, Grönland und 
+zeitweise sogar bis nach Nordamerika. Rund 400 Jahre vor Christoph Kolumbus. 
+Aber wie kam es dazu? Die Wikinger waren wie immer pragmatisch bei ihrer Vorgehensweise. Fand sich eine Siedlung oder ein 
+Kloster das zu stark befestigt war um es zu plündern, wurde auf friedliche Weise Waren ausgetauscht. 
+Die Wikinger handelten mit allem was einen Abnehmer fand. Wahlrosszähne, Trinkgläser, Lederwaren, Teppiche und Schmuck wurden 
+durch die Normännischen Händler in Europa verteilt. Auch vom Sklavenhandel liessen sie nicht die Finger von. Gefangene von 
+Raubzügen in Irland, Schottland, dem heutigen Frankreich etc. wurden in das Byzanthinische Reich verkauft. Das Silber, 
+das sie im Gegenzug erhielten wurde eingeschmolzen und neu gemünzt. So bildeten die Nordmänner, nach dem Fall des 
+Römischen Reiches langsam wieder eine Münzbasierte Ökonomie. 
+
+![](TradeRoutes.png)
+
+
+
+
+[]{#anchor} Glossar
+
+| *Begriff*    | *Definition* |
+|------------|------------|
+| Nordmänner | Bewohner der skandinavischen Ländereien    |
+| Vikinger   | Nordmänner welche auf Raubzug sind     |
+| Jarl       | Könige der Nordmänner      |
 
 
 []{#anchor-1}Quellen
 --------------------
+Die Götterlieder der Älteren Edda, Reclam
 
 [](https://de.wikipedia.org/wiki/Tyr)
 
 [](https://www.reclam.de/data/media/978-3-15-000782-2.pdf "Stand 08.01.2019" )
 [Wikipedia Wikinger](https://en.wikipedia.org/wiki/Vikings "Stand 08.10.2018" )
+[](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
+[](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
+
+[](https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html)
+[](http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html)
+[](http://www.viking.no/e/life/elaws.htm)
+[](http://www.bbc.co.uk/schools/primaryhistory/vikings/viking_settlements)
+[](https://en.wikipedia.org/wiki/Trade_during_the_Viking_Age)
+[](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/trade-in-the-viking-period/)
+[](https://www.thoughtco.com/viking-trading-and-exchange-networks-173147)
+[](https://www.historyonthenet.com/vikings-as-traders)
+[](https://www.historyonthenet.com/viking-law-and-government-the-thing/)

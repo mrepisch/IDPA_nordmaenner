@@ -1,4 +1,4 @@
-# Sitte 
+# Sitte  und Recht
 
 ## Sitte - Sittenrecht
 
@@ -73,10 +73,20 @@ Schwerpunkt : persönliche Konfrontation vs Konfrontation via Thing
 
 
 ## Quellen
-https://en.wikipedia.org/wiki/Medieval_Scandinavian_law
+
 https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false
+https://en.wikipedia.org/wiki/Medieval_Scandinavian_law
+
 https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html
 http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html
-https://www.historyonthenet.com/viking-law-and-government-the-thing/
+
 http://www.viking.no/e/life/elaws.htm  
 http://www.bbc.co.uk/schools/primaryhistory/vikings/viking_settlements/
+https://en.wikipedia.org/wiki/Trade_during_the_Viking_Age
+
+https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/trade-in-the-viking-period/
+https://www.thoughtco.com/viking-trading-and-exchange-networks-173147
+
+
+https://www.historyonthenet.com/vikings-as-traders
+https://www.historyonthenet.com/viking-law-and-government-the-thing/
