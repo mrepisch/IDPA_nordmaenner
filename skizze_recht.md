@@ -7,7 +7,7 @@ gelernt und jeweils bei den Things vorgetragen. Sie regelten den Handel, den Tri
 ## Sitte - Sittenrecht
 
 Viele Sitten hatten Hierarchische Züge. Ältere Männer wurden mit mehr Respekt behandelt als Junge und es gab eine Sitzordnung im Haus. Der Hausherr sass in der Mitte des Tisches, sein ranghöchster Gast, ihm gegenüber. Lud ein Nordmann einen anderen in sein Haus ein, galt für beide das Gastrecht, dass es den beiden untersagte, sich anzugreifen selbst wenn sie sich feindlich gesinnt waren.
-Hatte ein Mann zu viel Kontakt mit einer Frau, wurde das als Verlobungsversuch angesehen. Dies 
+Hatte ein Mann zu viel Kontakt mit einer Frau, wurde das als Verlobungsversuch angesehen. Diese Sitten schufen jedoch oftmals zusätzliche Probleme und Scherereien. Als Beispiel ein Zwischenfall aus dem Hafen von Möre: Erich, der Sohn des Jarls, ankerte sein Langboot neben dem seines Vaters. Dieser Platz wurde aber auch von Skopti, dem Schwager des Jarls, beansprucht. Der Streit wurde schnell vom Jarl selbst aufgelöst, der seinem Sohn befahl Platz zu machen. Erich, der das als Ehrverlust erachtete, erschlug deshalb Skopti wenig später.
 
 # Kastensystem
 
@@ -69,9 +69,9 @@ und konnte ungestraft beraubt oder umgebracht werden, bis seine Schuld bezahlt o
 Bei einem Streit konnte man den Disput auch mit einem Duell, 
 dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem 
 eingegrenzten Bereich statt. Oft wurden dafür kleine Inseln oder Landzungen gewählt, oder Gebiete die weit abgelegen waren.
-Vor degbedingungen abgemacht. Manchmal reichte es, das ein Gegner entwaffnet oder aus dem Bereich manövriert wurde. Bei Fehden oder schlimmen Beleidigungen gingen die Kämpfe aber meistens bis einer blutete oder getötet wurde.
+Vor degbedingungen abgemacht. Manchmal reichte es, das ein Gegner entwaffnet oder aus dem Bereich manövriert wurde. Bei Fehden oder schlimmen Beleidigungen gingen die Kämpfe aber meistens bis einer blutete oder getötet wurde. Der Sieger erhielt im Normalfall das Objekt des Streites.
+Der Fakt, das man eine Aufforderung zum Holmgang nicht ablehenen konnte ohne Schande auf seine Familie zu laden, wurde teilweise auf unlautere Weise ausgenutzt. Die Nordmänner kannten mehrere Sagas, in denen Berserker Bauernhöfe überfielen und die Herausgabe von Wertgegenständen und Frauen forderten. Nachdem der Hofbesitzer diese Forderungen abgelehnt hatte, wurde er zum Holmgang aufgefordert, damit die Berserker das gewünschte "gewinnen" konnten.
 
-!!!!!Ich habe noch auf Wikipedia oder so gesehen das Holmgänge auch von den Berserkern gegen Bauern erfolgt sind da sie rechtlich gültig waren, um ihnen so ihre Sachen zu "klauen" ???!!!!!!!
 
 # Handel
 
@@ -87,6 +87,7 @@ https://www.thoughtco.com/viking-trading-and-exchange-networks-173147
 
 
 ## Quellen Recht und Sitte
+https://de.wikipedia.org/wiki/Holmgang
 https://en.wikipedia.org/wiki/Medieval_Scandinavian_law
 https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false
 https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html
