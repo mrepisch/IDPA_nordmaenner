@@ -1,6 +1,15 @@
-# Sitte  und Recht
+# Gesetz und Sitte 
+
+Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. 
+Die geltenden Gesetze wurden von einem sogenannten Rechtsprecher auswendig 
+gelernt und jeweils bei den Things vorgetragen. Sie regelten den Handel, den Tribut und das Strafmass für Vergehen. Oftmal wichtiger in der Dorf- und Stammesgemeinschaft waren die Sitten. Sitten waren (und sind immer noch) ungeschriebene Regeln die den sozialen Umgang vorgeben. Während Gesetzte an jedem Thing wieder geändert werden konnten, galten Sitten über Generationen und wurden nur spärlich angepasst.
 
 ## Sitte - Sittenrecht
+
+Viele Sitten hatten Hierarchische Züge. Ältere Männer wurden mit mehr Respekt behandelt als Junge und es gab eine Sitzordnung im Haus. Der Hausherr sass in der Mitte des Tisches, sein ranghöchster Gast, ihm gegenüber. Lud ein Nordmann einen anderen in sein Haus ein, galt für beide das Gastrecht, dass es den beiden untersagte, sich anzugreifen selbst wenn sie sich feindlich gesinnt waren.
+Hatte ein Mann zu viel Kontakt mit einer Frau, wurde das als Verlobungsversuch angesehen. Dies 
+
+# Kastensystem
 
 ## Thrall - Knecht
 Die Sklaven, die als Knechte auf den Höfen dienten, bildeten die unterste Schicht des damals geläufigen Kastensystems.
@@ -9,15 +18,19 @@ Die Thrall setzten sich aus drei Gruppen zusammen. Gefangene aus Raubzügen, Kin
 
 ## Karl - freie
 Die Karl waren die freien Normänner. Sie konnten einen Bauernhof besitzen, auf Raubzüge gehen und durften am Thing teilnehmen wo sie über die Zukunft mitbestimmen konnten. 
-Für die Karl galten neben den festgelegten Gesetzen auch viele ungeschriebene Regeln die den sozialen Umgang bestimmten. 
+Für die Karl galten neben den festgelegten Gesetzen auch Sitten die den sozialen Umgang bestimmten. 
 
 ## Jarl & Herse - Adliger
 Ein Jarl, vergleichbar mit einem Grafen und ein Herse, vergleichbar mit einem Herzog, standen auf der gleichen, der höchsten Kastenebene. Vom Rang her waren sie einem König ebenbürtig, auch wenn sie sich ihm unterstellten.
-Während sich der Titel des Jarls im gesamten Skandinavischen Raum finden lässt, taucht der Herse nur an der Norwegischen Küste auf.
-
-Jarl - Verwalter/Herrscher  Herse - wahrscheinlich eher Befehlshaber einer Armee
+Während sich der Titel des Jarls im gesamten Skandinavischen Raum finden lässt, taucht der Herse nur an der Norwegischen Westküste auf.
+Es wird vermutet, dass der Titel des Herse an Befehlshaber von Armeen vergeben wurde. Das würde die Geographischen Einschränkungen erklären, da die meisten grossen Eroberungen von dort gestartet wurden.
+Ein Jarl hingegen war ein Verwalter eines Gebietes, das je nach nach Macht des Jarls, ein Dorf oder eine Insel umfassen konnte.
+Er sorgte für die Sicherheit in seinem Gebiet wofür er einen Tribut von den Bauern und Händlern erhielt. So weiss man, dass der Jarl von östergötland einen Drittel des gesamten Tributes der Insel Gotland erhielt. Das entsprach der selben Menge, die auch der König erhielt.
+Der Titel des Jarls wurde vererbt oder vom König vergeben.
 
 ## Frauen
+Frauen hatten weit weniger Freiheiten als die Männer. Sie mussten sich um das Haus und den Hof kümmern. Jedoch wurde ihnen auch gewisse Privilegien zugesprochen. So durften sie bei der Wahl ihres Gatten mitbestimmen, das Familienoberhaupt hatte aber immer das letzte Wort.
+Auch durften sie sich, wenn sie von ihrem Ehemann schlecht behandelt wurde, von ihm scheiden lassen ohne dass ihr Gesellschaftlicher Ruf zu Schaden kam.
 
 # Recht
 
@@ -31,11 +44,6 @@ Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszu
 Ansonsten blieb dem Geschädigten noch die Option seinen Konkurrenten beim nächsten Thing anzuklagen
 
 https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln
-## Gesetze
-
-Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. 
-Die geltenden Gesetze wurden von einem sogenannten Rechtsprecher auswendig 
-gelernt und jeweils bei den Things vorgetragen.
 
 ## Das Thing
 
@@ -60,33 +68,29 @@ und konnte ungestraft beraubt oder umgebracht werden, bis seine Schuld bezahlt o
 
 Bei einem Streit konnte man den Disput auch mit einem Duell, 
 dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem 
-eingegrenzten Bereich statt und dauerte je nach Situation bis einer der Konkurenten 
-den Bereich verliess, bis zum ersten Blut oder bis zum Tod.
+eingegrenzten Bereich statt. Oft wurden dafür kleine Inseln oder Landzungen gewählt, oder Gebiete die weit abgelegen waren.
+Vor degbedingungen abgemacht. Manchmal reichte es, das ein Gegner entwaffnet oder aus dem Bereich manövriert wurde. Bei Fehden oder schlimmen Beleidigungen gingen die Kämpfe aber meistens bis einer blutete oder getötet wurde.
+
+!!!!!Ich habe noch auf Wikipedia oder so gesehen das Holmgänge auch von den Berserkern gegen Bauern erfolgt sind da sie rechtlich gültig waren, um ihnen so ihre Sachen zu "klauen" ???!!!!!!!
+
+# Handel
+
+Handel spielte bei den Nordmännern eine grosse Rolle. Ihr Handelsnetzwerk streckte sich von Skandinavien ostwärts über Europa bis nach Konstantinopel. Westwärts gelangten sie nach Grossbritannien, Irland, Island, Grönland und zeitweise sogar bis nach Nordamerika. Rund 400 Jahre vor Christoph Kolumbus. Aber wie kam es dazu? Die Wikinger waren wie immer pragmatisch bei ihrer Vorgehensweise. Fand sich eine Siedlung oder ein Kloster das zu stark befestigt war um es zu plündern, wurde auf friedliche Weise Waren ausgetauscht. Die Wikinger handelten mit allem was einen Abnehmer fand. Wahlrosszähne, Trinkgläser, Lederwaren, Teppiche und Schmuck wurden durch die Normännischen Händler in Europa verteilt. Auch vom Sklavenhandel liessen sie nicht die Finger von. Gefangene von Raubzügen in Irland, Schottland, dem heutigen Frankreich etc. wurden in das Byzanthinische Reich verkauft. Das Silber, das sie im Gegenzug erhielten wurde eingeschmolzen und neu gemünzt. So bildeten die Nordmänner, nach dem Fall des Römischen Reiches langsam wieder eine Münzbasierte ökonomie.
 
 
-
-#Bestrafung ?
-
-
-
-Schwerpunkt : persönliche Konfrontation vs Konfrontation via Thing
-
-
-## Quellen
-
-https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false
-https://en.wikipedia.org/wiki/Medieval_Scandinavian_law
-
-https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html
-http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html
-
-http://www.viking.no/e/life/elaws.htm  
-http://www.bbc.co.uk/schools/primaryhistory/vikings/viking_settlements/
+## Quellen Handel
 https://en.wikipedia.org/wiki/Trade_during_the_Viking_Age
-
+https://www.historyonthenet.com/vikings-as-traders
 https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/trade-in-the-viking-period/
 https://www.thoughtco.com/viking-trading-and-exchange-networks-173147
 
 
-https://www.historyonthenet.com/vikings-as-traders
+
+## Quellen Recht und Sitte
+https://en.wikipedia.org/wiki/Medieval_Scandinavian_law
+https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false
+https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html
+http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html
 https://www.historyonthenet.com/viking-law-and-government-the-thing/
+http://www.viking.no/e/life/elaws.htm  
+http://www.bbc.co.uk/schools/primaryhistory/vikings/viking_settlements/

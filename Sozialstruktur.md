@@ -19,6 +19,10 @@ CSS:      .
 - [History.com - What Was Life Like for Women in the Viking Age?](https://www.history.com/news/what-was-life-like-for-women-in-the-viking-age)
 - [The Viking Answer Lady - Homosexuality in Viking Scandinavia](http://www.vikinganswerlady.com/gayvik.shtml)
 - [Hurstwic.org - Families and Demographics in the Viking Age](http://www.hurstwic.org/history/articles/daily_living/text/Demographics.htm)
+- [Wikipedia.org - Wikingerzeit](https://de.wikipedia.org/wiki/Wikingerzeit#Literatur)
+- [History 6 Viking Leaders You Should Know](https://www.history.com/news/6-viking-leaders-you-should-know)
+- [Wikipedia.org - Rollo(Normadie)](https://de.wikipedia.org/wiki/Rollo_(Normandie))
+- [Wikipedia.org - Leif Eriksson](https://de.wikipedia.org/wiki/Leif_Eriksson)
 
 
 
@@ -64,17 +68,35 @@ Sie bereisten sogar die arabische Welt und reisten in den Osten nach Russland. D
 Im frühen Zeitalter der Wikinger hatten noch keine Könige existiert.
 Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines Königs zentralisierte die Macht über das ganze Volk bei ihm.  
 Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
-Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven. 
+Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.
 Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. 
-Auf den ersten Blick scheint dies eine sehr klare und abgegrenzte Struktur zu sein, jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
+
+#### Bekannteste Persönlichkeiten der Wikinger
+<!-- Mainly from https://www.history.com/news/6-viking-leaders-you-should-know -->
+##### Rollo Erster Herrscher der Normandie
+Rollo hat von 846 bis 931 gelebt und er war der Kommandt über den letzten grossen Überfall auf Frankreich. Danach schloss er mit dem König Karl einen Vertrag ab und gründete somit die Normandie. Mit dem Vertrag trat Karl das Gebiet an Rollo ab, welcher sich ihm dafür unterordnete. Unter den Wikingern war Rollo für seine Stärke und Grösse bekannt. Er musste defintiv ein grosser Kriegesführer gewesen sein, denn er war weder Stammesfürst noch betrug sonst eine sehr hohe Position. 
+
+##### Leif Eriksson entdeckte Nordamerika vor Columbus
+Leif Eriksson wurde um 970 in Island geboren. Er ist der Sohn von Erik dem Roten, welcher als Gründer der Ersten skandinavischen Siedlungen in Grönland bekannt ist. Leif Eriksson lag viel daran am Königshof in Norwegen aufgenommen zu werden, was ihm um das Jahr 1000 auch gelang. Danach machte er sich auf Seefahrten. Auf einer ersten entdeckte er den Kontinent von Amerika und rettete Schiffsbrüchige. Ihn wunderte was dieses neue Land alles zu bieten hatte, also veranstaltete er noch eine weitere Erforschungsreise, daher gilt er auch als Entdecker von Amerika.
+
+##### Cnut der Grosse König von England
+
+##### Harald Hardrada der Letzte Grosse Wikinger König
+
+
+#### Gesellschaftlicher Klassen
+Auf den ersten Blick scheint die ganze Klassenstruktur sehr klar und abgegrenzt zu sein, jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
 
 ### Familienleben
-Im Zeitalter der Wikinger lebten die meisten Menschen auf Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. Auf einer Farm wurde alles gemacht was man sich so vorstellen kann. Es wurde Felder bewirtschaftet und man züchtete Hühner und Vieh. Die Bewohner eines Bauernhofes hielten sogar Haustiere. 
+Im Zeitalter der Wikinger lebten die meisten Menschen auf Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. Die Bewohner eines Bauernhofes hielten sogar Haustiere.
+
+Die Produkte die man hergestellt hat waren sehr divers. Die Nordmänner züchteten verschiedenste Arten von Tieren und konnten fast alles mögliche Gemüse anpflanzen. Die üblichsten Gemüse waren jedoch Kohl, Zwiebeln, Kresse und Erbsen. Honig war ein gutes Süssungsmittel und Salz gewann man entweder selber aus Salzwasser oder es wurde durch den Handel importiert. Sie verarbeiteten sogar Milch zu Käsu und brauten Bier aus Gerste. Die Nordmänner hatten definitiv keine Mühe damit diverses Essen auf den Tisch zu bringen.
 
 Kinder mussten bereits sehr früh im Haushalt mitarbeiten. Es wurde von ihnen erwartet, dass sie ihren Teil zum Wohl der Gemeinschaft beitragen. Genau so lernten sie allerdings auch, wie sie die Arbeiten zu verrichten hatten, die sie später am Leben erhielten. Kinder mussten jedoch nicht nur arbeiten, sondern hatten auch Zeit zum spielen. Es wurden mehrere Spielzeuge in der Form von Puppen, kleinen Holzpferden und Schiffchen gefunden.  
 Regelmässig wurden Kinder auch in respektable Leihfamilien weitergegeben. Das Ziel war das Kind von der Leihfamilie erziehen zu lassen. Ein Grund für solche Arrangements war ebenfalls, dass die Kindersterblichkeit extrem hoch war und somit einzelne Familien kaum Kinder hatten, während andere Paare kinderlos waren. Das Erziehen der Kinder wurde in der Regel auch monetarisch kompensiert.
 
 Kinder wurden bereits zwischen dem 12ten und 16ten Lebensjahr erwachsen. Mit dem Erreichen dieses Alters mussten sie wissen, wie man einen Haushalt hielt und es wurde erwartet, dass sie eine eigene Familie aufbauen. Was sie allerdings nicht lernten ist das Lesen und Schreiben, was die heutige Arbeit für Historiker deutlich erschwert.
+
 
 ### Frauen und Männerbild
 
