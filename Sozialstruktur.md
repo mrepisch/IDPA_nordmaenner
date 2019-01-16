@@ -23,7 +23,9 @@ CSS:      .
 - [History 6 Viking Leaders You Should Know](https://www.history.com/news/6-viking-leaders-you-should-know)
 - [Wikipedia.org - Rollo(Normadie)](https://de.wikipedia.org/wiki/Rollo_(Normandie))
 - [Wikipedia.org - Leif Eriksson](https://de.wikipedia.org/wiki/Leif_Eriksson)
-
+- [Wikipedia.org - Knut der Grosse](https://de.wikipedia.org/wiki/Knut_der_Große)
+- [Wikipedia.org - Harald III. (Norwegen)](https://de.wikipedia.org/wiki/Harald_III._(Norwegen))
+- [Wikipedia.org - Ragnar Lodbrok](https://de.wikipedia.org/wiki/Ragnar_Lodbrok)
 
 
 ## Glossar
@@ -74,14 +76,20 @@ Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für d
 #### Bekannteste Persönlichkeiten der Wikinger
 <!-- Mainly from https://www.history.com/news/6-viking-leaders-you-should-know -->
 ##### Rollo Erster Herrscher der Normandie
-Rollo hat von 846 bis 931 gelebt und er war der Kommandt über den letzten grossen Überfall auf Frankreich. Danach schloss er mit dem König Karl einen Vertrag ab und gründete somit die Normandie. Mit dem Vertrag trat Karl das Gebiet an Rollo ab, welcher sich ihm dafür unterordnete. Unter den Wikingern war Rollo für seine Stärke und Grösse bekannt. Er musste defintiv ein grosser Kriegesführer gewesen sein, denn er war weder Stammesfürst noch betrug sonst eine sehr hohe Position. 
+Rollo hat von 846 bis 931 gelebt und er war der Kommandant über den letzten grossen Überfall auf Frankreich. Danach schloss er mit dem König Karl einen Vertrag ab und gründete somit die Normandie. Mit dem Vertrag trat Karl das Gebiet an Rollo ab, welcher sich ihm dafür unterordnete. Unter den Wikingern war Rollo für seine Stärke und Grösse bekannt. Er musste defintiv ein grosser Kriegesführer gewesen sein, denn er war weder Stammesfürst noch betrug sonst eine sehr hohe Position. 
 
 ##### Leif Eriksson entdeckte Nordamerika vor Columbus
-Leif Eriksson wurde um 970 in Island geboren. Er ist der Sohn von Erik dem Roten, welcher als Gründer der Ersten skandinavischen Siedlungen in Grönland bekannt ist. Leif Eriksson lag viel daran am Königshof in Norwegen aufgenommen zu werden, was ihm um das Jahr 1000 auch gelang. Danach machte er sich auf Seefahrten. Auf einer ersten entdeckte er den Kontinent von Amerika und rettete Schiffsbrüchige. Ihn wunderte was dieses neue Land alles zu bieten hatte, also veranstaltete er noch eine weitere Erforschungsreise, daher gilt er auch als Entdecker von Amerika.
+Leif Eriksson wurde um 970 in Island geboren. Er ist der Sohn von Erik dem Roten, welcher als Gründer der Ersten skandinavischen Siedlungen in Grönland bekannt ist. Leif Eriksson lag viel daran am Königshof in Norwegen aufgenommen zu werden, was ihm um das Jahr 1000 auch gelang. Danach machte er sich auf Seefahrten. Auf einer Ersten entdeckte er den Kontinent von Amerika und rettete Schiffsbrüchige. Ihn wunderte was dieses neue Land alles zu bieten hatte, also veranstaltete er noch eine weitere Erforschungsreise, daher gilt er auch als Entdecker von Amerika.
 
-##### Cnut der Grosse König von England
+##### Knut der Grosse, Eroberer von England
+Knut der Grosse wurde im Jahr 995 als zweiter Sohn des dänischen Königs geboren. Im Jahr 1013 half er seinem Vater England zu invadieren und wurde zum Befehlshaber der Flotte befördert. Die Invasion gelang und sein Vater wurde König von England. Im darauffolgenden Jahr starb er allerdings und Knut erbte den Königstitel. Dies gefiel dem englischen Rat nicht und Knut zog sich nach Dänemark zurück. Im Verlauf der folgenden Jahre nahm er England wieder ein und musste seine Herrschaft in Dänemark verteidigen, dabei liess er sogar seinen Bruder umbringen, da er seinen Verrat vermutete. Knut kündigte an, dass er mit der katholischen Kirche zusammen herschen will und als Zeichen half er beim Kirchenbau mit. Er nahm ebenfalls noch Norwegen ein und starb im Alter von 40 Jahren. 
 
-##### Harald Hardrada der Letzte Grosse Wikinger König
+##### Harald Hardrade der Letzte Grosse Wikinger König
+Haral Hadrade wurde um 1015 in Norwegen geboren. Er musste im Alter von 15 Jahren fliehen, da er eine Schlacht verlor. Bis zum Jahre 1042 arbeitete er als Leibwächter verschiedener Kaiser und gewann Ehrentitel dafür. Danach wollte er seinen Herrschaftstitel in Norwegen gültig machen. Dies gelang ihm auch, allerdings war er dazu gezwungen regelmässige Plünderkriege mit Dänemark zu führen, um sein Heer unterhalten zu können. Harald geriet auch in einen Konflikte mit der Kirche, da er nicht geweihte Bischöfe eingesetzt hat. Er musste ebenfalls mehrere Rebellionen im Landesinnern lahmlegen.  
+Im Verlauf des Jahres 1066 wollte Harald England einnehmen, da es durch einen kürzlich verstorbenen König und fehlende Nachkommen instabil war. Er wurde von einer gegnerischen Armee überrascht und verlor die Schlacht. Es wurde fast das ganze norwegische Heer vernichtet. 
+
+##### Ragnar Lodbrok
+Ragnar Lodbrok ist eine dänischer Wikingerkönig, der im 9ten Jahrhundert gelebt haben soll. Es ist nicht viel über ihn bekannt und er wird hauptsächlich in Sagen refernziert. In Frage würde ein Wikingerführer kommen, der 945 Paris überfiel. Dieser wird als Reginheri erwähnt. Es ist ebenfalls möglich, dass Ragnar und Lodbrok zwei unterschiedliche Herrscher waren, die in einer späten Überlieferung miteinander vermischt wurden.
 
 
 #### Gesellschaftlicher Klassen
@@ -96,7 +104,6 @@ Kinder mussten bereits sehr früh im Haushalt mitarbeiten. Es wurde von ihnen er
 Regelmässig wurden Kinder auch in respektable Leihfamilien weitergegeben. Das Ziel war das Kind von der Leihfamilie erziehen zu lassen. Ein Grund für solche Arrangements war ebenfalls, dass die Kindersterblichkeit extrem hoch war und somit einzelne Familien kaum Kinder hatten, während andere Paare kinderlos waren. Das Erziehen der Kinder wurde in der Regel auch monetarisch kompensiert.
 
 Kinder wurden bereits zwischen dem 12ten und 16ten Lebensjahr erwachsen. Mit dem Erreichen dieses Alters mussten sie wissen, wie man einen Haushalt hielt und es wurde erwartet, dass sie eine eigene Familie aufbauen. Was sie allerdings nicht lernten ist das Lesen und Schreiben, was die heutige Arbeit für Historiker deutlich erschwert.
-
 
 ### Frauen und Männerbild
 
