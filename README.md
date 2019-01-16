@@ -30,6 +30,7 @@ Vorlage ist auch auf dem Repo
 - Quellenangaben korrekt formulieren und zusammentragen
 - Quellenangaben direkt referenzieren
 - GLossar?
+- Eigenständigkeitserklärung
 - Arbeitsjournal
 - Präsentation
 
