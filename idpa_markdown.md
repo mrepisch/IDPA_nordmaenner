@@ -105,10 +105,11 @@ zu können. Auch wird erzählt das er neun Tage an der Esche Yggdrasill
 hing um so das Wissen der Runen zu erlangen.
 
 
-> Ich(Odin) weiss, das ich hing am windigen Baum(Yggdrasil) neun ganze
+> "Ich(Odin) weiss, das ich hing am windigen Baum(Yggdrasil) neun ganze
 > Nächte, vom Speer verwundet und Odin geopfert, selber mir selbst, an dem
-> Baum, von dem niemand weiss, aus welcher Wurzel er wächst 
-> [Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138]
+> Baum, von dem niemand weiss, aus welcher Wurzel er wächst"
+> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138)
+
 
 Ein weiterer Aspekt von Odin ist der des Kriegs-und Totengottes. Nach
 jeder Schlacht wählen die Valküren aus den gefallenen Kriegern die
@@ -123,9 +124,9 @@ Wendesday(Wodendag) ersichtlich.
 
 ### []{#anchor}Frigga
 
-> [...] "Frigg ist die vornehmste. Sie besitzt den Hof,
-> der Fensalir heisst und besonders prächtig ist[...]" 
-> [Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.35 ]
+> "Frigg ist die vornehmste. Sie besitzt den Hof,
+> der Fensalir heisst und besonders prächtig ist" 
+> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.35)
 
 Frigga oder auch Frigg ist die Frau von Odin und eine Heilerin. Sie ist
 die Göttin des Haushaltes, der Kinder. Als eine der wenigen
@@ -137,9 +138,10 @@ Fruchtbarkeit(Siehe im Kapitel Vanen) und Frigga den gleichen Ursprung
 haben. Sich also eine Götterfigur in zwei abgespalten haben.
 
 
-> Nach einer verbreiteten Hypothese entwickelte sich aus Frigg, für die
+> "Nach einer verbreiteten Hypothese entwickelte sich aus Frigg, für die
 > auch der Beiname Hulla („Huldvolle") bezeugt ist, die Märchengestalt der
-> Frau Holle. [https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018\]
+> Frau Holle."
+> (https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018)
 
 
 ### []{#anchor}Thor / Donnar
@@ -148,7 +150,7 @@ haben. Sich also eine Götterfigur in zwei abgespalten haben.
 > und mein ganzes Geschlecht: Ich bin Odins Sohn, Melis Bruder und Magnis Vater,
 > Der Kraftherr der Götter; mit Thor kannst du hier sprechen.
 > Das will ich jetzt fragen, wie du heisst"
-> [ Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9]
+> (Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9)
 
 Der Sohn von Odin und Gia(die Göttin der Erde über die wenig bekannt
 ist) ist Thor. Er ist der stärkste der Asen und sehr kampferprobt. Er
@@ -165,8 +167,8 @@ heidnische Menschen.
 
 > Aber bei meiner Halle hast du einen Berg gesehen, darin waren drei
 > viereckige Täler, und eines war besonders tief; Das waren die Spuren
-> deiner Hammerschläge. [ Die Edda des Snorri Sturluson, Gylfis Täuschung
-> Vr. 47]
+> deiner Hammerschläge.(Die Edda des Snorri Sturluson, Gylfis Täuschung
+> Vr. 47)
 
 In der Liederedda wird immer wieder vermerkt, dass Thor eher ein Gott
 für das einfache Volk war. Wobei diese These umstritten ist da Odin oft
@@ -176,7 +178,7 @@ in den Geschichten mit Thor aneinandergerät.
 > "Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe, ich
 > hetzte Fürsten auf, aber versöhnte sie nie; Odin hat die Jarle, in der
 > in der Schlacht fallen, aber Thor hat das Geschlecht der Knechte"
-> [Die Götterlieder der Älteren Edda, Das Harbardlied V.24]
+> (Die Götterlieder der Älteren Edda, Das Harbardlied V.24)
 
 
 Ebenfalls ist Thor auch der Namensgeber des Donnerstags oder Thursday.
@@ -186,7 +188,7 @@ Ebenfalls ist Thor auch der Namensgeber des Donnerstags oder Thursday.
 > "Zu den Asen wird auch derjenige gezählt, den manche 
 > Verleumder der Asen, Urheber der Hinterlist und 
 > Schande der Götter und Menschen nennen"
-> [Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.33]
+> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.33)
 
 Loki ist neben Odin einer der komplexesten Charaktere der Mythologie. Es ist nicht klar wer seine Eltern sind,
 jedoch kann davon ausgegangen werden das Odin sein Vater ist. Er
@@ -235,7 +237,7 @@ des Snorri Sturluson Gylfis Täuschung Vers 42 nachgelesen werden.
 
 > Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird
 > ist der kühnste aller Asen. Ebenfalls ist der der Namensgeber des
-> Diestags [https://de.wikipedia.org/wiki/Tyr Stand 25.12.2018]
+> Diestags (https://de.wikipedia.org/wiki/Tyr Stand 25.12.2018)
 
 Er über den Ausgang einer Schlacht. Daher wurde Tyr oft vor dem Kampf
 angerufen. Bei der Gefangennahme des Wolfs Fenrir (siehe im Kapitel Loki
@@ -253,7 +255,7 @@ und von der Gottheit Odin im Lauf der Zeit verdrängt wurde.
 > Odins Kind, das Schicksal bestimmt;
 > gewachsen war, über den Feld hoch,
 > schmall und sehr schön, der Mistelzeig
-> [Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.31]
+> (Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.31)
 
 Der Sonnengott Balder ist der schönste und strahlenste der Asen. Über
 ihn gäbe es nichts Schlechtes zu erzählen. Er ist der redegewandteste
@@ -282,7 +284,7 @@ die zyklische Weltanschauung der damaligen Menschen.
 > "Heimdall heisst einer, er wird der weisse Ase gennant.
 > Er ist mächtig und heilig. Ihn gebaren neun Mädchen und
 > alle waren Schwestern" 
-> [Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.27]
+> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.27)
 
 Der Gott der den Bifröst, die Regenbogenbrücke welche Midgard und Asgard
 miteinander verbindet bewacht, heisst Heimdall. Er ist der weisseste der
@@ -314,7 +316,7 @@ ein.
 > und gaben ihn als Geisel den Göttern;
 > am Ende der Welt wird er wieder heimkehren zu
 > den weissen Wanen"
-> [Die Götterlieder der Älteren Edda, Das Wafthrudnirlied Vr.39]
+> (Die Götterlieder der Älteren Edda, Das Wafthrudnirlied Vr.39)
 
 Die Geisel der Vanen an die Asen regelt den Verlauf des Windes, des
 Meeres und des Feuers. Njörd war mit der Riesin Skadi verheiratet. Die
@@ -325,7 +327,7 @@ Kinder aus dieser Ehe sind Freyja und Freyr.
 > "Folkwang heisst es, wo Freyja entscheidet
 > über Sitze im Saal; die Hälfte der Gefallenen
 > wählt sie jeden Tag, die andere Hälfte gehört Odin"
-> [Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24]
+> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24)
 
 Freyja nimmt den Platz als Göttin der Liebe und der Ehe ein. Sie ist als
 einige der wenigen Götter der Zauberkunde mächtig. Ihr werden aber auch
@@ -340,7 +342,7 @@ Odin erhält die erste Hälfte).
 > "Freyr ist der vornehmste under den Asen.
 > Er bestimmt über Regen und Sonnenschein und damit über
 > die Fruchtbarkeit der Erde"
-> [Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24]
+> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24)
 
 Freyr wurde als Fruchtbarkeitsgott verehrt. Er wacht über den Regen, den
 Sonnenschein und das Wachstum der Pflanzen. Ebenfalls regelt er den
@@ -364,7 +366,7 @@ vom Namen in der Regel nicht viel mehr überliefert.
 > übers Meer kommen, und Loki seuert;
 > alle wilden Burschen kommen mit dem Wolf;
 > Byleists Burder(Loki) bringen sie mit
-> [Die Götterlieder der Älteren Edda, Die Weissagung der Sehering Vr. 51]
+> (Die Götterlieder der Älteren Edda, Die Weissagung der Sehering Vr. 51)
 
 Das Ragnarök stellt das eine eines Zyklus dar. In der Mythologie wird das Ragnarök 
 als apokalytischer Kampf dargestellt in dem Midgard verzehrt und viele Götter sterben werden.
@@ -382,6 +384,7 @@ Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt w
 | Nordmänner | Bewohner der skandinavischen Ländereien    |
 | Vikinger   | Nordmänner welche auf Raubzug sind     |
 | Jarl       | Könige der Nordmänner      |
+| Liederedda | Die Götterlieder der Älteren Edda |
 
 
 []{#anchor-1}Quellen
