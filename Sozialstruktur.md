@@ -17,6 +17,7 @@ CSS:      .
 - [Norse-mythology - THE VIKING SOCIAL STRUCTURE ](https://norse-mythology.org/viking-social-structure/)
 - [Ingebretsens Nordic Marketplace](https://www.ingebretsens.com/culture/history/the-vikings-and-the-viking-era)
 - [History.com - What Was Life Like for Women in the Viking Age?](https://www.history.com/news/what-was-life-like-for-women-in-the-viking-age)
+- [History.com - How Did The Vikings Honor Their Dead?](https://www.history.com/news/how-did-the-vikings-honor-their-dead)
 - [The Viking Answer Lady - Homosexuality in Viking Scandinavia](http://www.vikinganswerlady.com/gayvik.shtml)
 - [Hurstwic.org - Families and Demographics in the Viking Age](http://www.hurstwic.org/history/articles/daily_living/text/Demographics.htm)
 - [Wikipedia.org - Wikingerzeit](https://de.wikipedia.org/wiki/Wikingerzeit#Literatur)
@@ -26,6 +27,7 @@ CSS:      .
 - [Wikipedia.org - Knut der Grosse](https://de.wikipedia.org/wiki/Knut_der_Große)
 - [Wikipedia.org - Harald III. (Norwegen)](https://de.wikipedia.org/wiki/Harald_III._(Norwegen))
 - [Wikipedia.org - Ragnar Lodbrok](https://de.wikipedia.org/wiki/Ragnar_Lodbrok)
+- [News.Nationalgeographic.com Kinder, Gentler Vikings? Not According to Their Slaves](https://news.nationalgeographic.com/2015/12/151228-vikings-slaves-thralls-norse-scandinavia-archaeology/)
 
 
 ## Glossar
@@ -127,6 +129,10 @@ Zum Punkte der Polygamie gibt es vieles zu sagen. Das Problem ist allerdings, da
 
 Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygamie war. Man vermutet, dass die Oberschicht bedeutend attraktiver für Frauen waren und somit die Männer häufig mehrere Frauen haben konnten. Dies habe auch zu einem Frauendefizit geführt und habe entweder die Sklavenkultur bewirkt oder bedeutend verstärkt. In einzelnen Sagen wird jedoch auch von Frauen berichtet, die mehrere Männer überlebten. 
 
+<!-- (https://news.nationalgeographic.com/2015/12/151228-vikings-slaves-thralls-norse-scandinavia-archaeology/) 
+https://www.reddit.com/r/AskHistorians/comments/6ro53z/did_norse_polygamist_traditions_cause_a_gender/
+-->
+
 #### Homosexualität
 Es existieren keine direkten Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Die Idee einer ausschliesslich gleichgeschlechtigen Beziehung konnte man sich damals nicht vorstellen. Es war jedoch nicht wichtig wie das sexuelle Leben eines Menschen aussah, solange man sich an die Normen hielt und eine Familie und Kinder hatte. Von Menschen, die sich aus Beziehungen fern hielten, wurde gesagt sie haben Angst vor dem anderen Geschlecht. Dies ist insbesondere in der Kriegerkultur der Wikinger eine tiefe Beleidigung. Somit haben die Wikinger nicht aus Prinzip eine Abscheu gegenüber homosexuellen Aktivitäten gehabt.
 
@@ -146,8 +152,38 @@ Eine alternative Art der Beisetzung ist auch die Verwendung eines Bootes als Gra
 
 ## Sozialstrukur
 
+### Bekannte Persönlichkeiten
+Saga zu Ragnar Lodbrok
+
+
 ### Familie, Struktur
 Das Merkgedicht von Rig, Familienstruktur, Edda Seite 183-192
+
+
+### Schieldmaiden
+https://en.wikipedia.org/wiki/Hervarar_saga_ok_Hei%C3%B0reks
+https://en.wikipedia.org/wiki/Gesta_Danorum
+
+
+### Homosexualität
+there was nothing at all strange or shameful about a man having intercourse with another man if he was in the active or "manly" role, however the passive partner in homosexual intercourse was regarded with derision.
+
+The myths and legends show that honored gods and heroes were believed to have taken part in homosexual acts, 
+
+### Frauenrechte
+
+http://www.hurstwic.org/history/articles/society/text/women.htm
+
+Viele Sagen zu den Rechten von Frauen referenziert, von Verletzung bis Belästigung. Eigenständigkeit wird referenziert. 
+
+### Begräbnisse
+https://en.wikipedia.org/wiki/Norse_funeral#Rituals
+
+
+### Polygamie
+https://en.wikipedia.org/wiki/Hoskuld_Dala-Kollsson
+Mann aus Saga, der Konkubinen hatte
+https://www.reddit.com/r/AskHistorians/comments/6ro53z/did_norse_polygamist_traditions_cause_a_gender/
 
 
 
