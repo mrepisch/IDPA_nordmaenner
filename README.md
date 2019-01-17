@@ -8,6 +8,11 @@ pandoc inputfile.md  --reference-doc=VorlageIDPA.ott -o outpuutfilename.odt
 
 Vorlage ist auch auf dem Repo
 
+https://drive.google.com/drive/folders/0B_VANrAxLlcULVA3a044XzVFSlk
+https://drive.google.com/drive/folders/0B_VANrAxLlcUQzAtY3p6elNOX3c
+https://drive.google.com/drive/folders/0B_VANrAxLlcUcUZ4OElnMlZFVXc
+
+
 # TODOS:
 ## Goals for next meeting 2019-01-17
 ### Alle
