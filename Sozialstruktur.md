@@ -51,7 +51,7 @@ Definitionsvorschlag Normannen/Nordmänner: Überbegriff für alle skandinavisch
 ## Sozialstrukur
 
 ### Literarische Quellen
-Die Nordmänner besassen eine eigene Sprache und Schrift, diese bestand allerdings aus Runen. Es wurde nicht viel geschrieben und die wenigen Dokumente, die man finden konnte sind eher kurz. 
+Die Nordmänner besassen eine eigene Sprache und Schrift, diese bestand allerdings aus Runen. Es wurde nicht viel geschrieben und die wenigen Dokumente, die man finden konnte sind eher kurz. Oftmals wurden sie in Form von Steinen in welchen Runen eingeritzt sind gefunden. [https://de.wikipedia.org/wiki/Runenstein#/media/File:Bj%C3%B6rketorpsstenen_runor.jpg]
 Am meisten Quellen wurden von Personen erstellt, die negativ von den Vikingern betroffen waren, diese sind meistens in Latein geschrieben. 
 Skandinavische Werke tauchten erst im 11ten und 12ten Jahrhundert vermehrt mit der Christianisierung zusammen auf. Zu dieser Zeit gewann lateinisch auch an Bedeutung in dieser Region. 
 Daher findet man erst aus dieser Zeit viele Schriftstücke. 
