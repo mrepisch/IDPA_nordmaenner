@@ -13,9 +13,15 @@ Menschen zu dieser Zeit mussten in der Lage sein mit der Natur zu
 gnadenlos zeigt. So wird auch die Mythologie der Nordmänner beschrieben.
 Wir möchten mit dieser Arbeit erarbeiten und welchen Bereichen des
 Lebens diese Mythologie Einzug gehalten hat um so die Lebensweise
-unserer Vorfahren besser zu verstehen.
+unserer Vorfahren besser zu verstehen. Eine andere Frage welche wir erarbeiten möchten
+ist die Frage in welcher Form diese Lebensweise in die Mythologie eingeflossen ist.
 
 # Methodik
+
+Für unsere Recherchen wird für den Mythologie Teil vor allem die Bücher: Die Götterlieder der Älteren Edda und 
+Die Edda des Snorri Sturluson verwendet. Um die Geselschaftlichen Aspekte der Nordmänner zu erarbeiten, wird vor allem das Internet,
+und andere Sachbücher verwendet. Interviews wurden keine Durchgeführt. Da es schwierig ist akurate historische Quellen im Internet zu finden,
+wurde versucht nur mit Beiträgen welche eine verlässliche Quellenangabe aufführen zu arbeiten.
 
 # []{#anchor}Mythologie
 
@@ -64,6 +70,23 @@ reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen,
 Sie haben es jedoch verstanden, dieses Wissen über Ereignisse, über grosse Könige und Helder oder auch das Wissen ihrer Götter, 
 in spannende Geschichten
 zu verpacken welche dann über Generationen weitererzählt werden. 
+
+
+## Die Sprüche des Hohen
+
+Dieses Lied aus der Liederedda unterscheidet sich grundlegend von allen anderen Texten oder Sagen. Normalerweise wird eine Art Geschichte 
+erzählt, in diesem Fall sind es aber die direkten Worte von Odin an die Menschen. Sie beinhalten Lebensweisheiten und Grundsätze welche 
+vorteilhaft für den Menschen wären. Die Schrift dieses Liedes ist in der zweiten Hälfte des 13. Jahrhunderts entstanden und ist eine 
+scheinbar willkürliche Zusammenfassung von Strophen welche erwisenermassen einen
+viel älteren Ursprung haben. Bei genauerer Betrachtung zeigt sich aber dass, die Sprüche des Hohen aus fünf verschiedenen Teilen beseht:
+
+* Das alte Sittengedicht
+* Die Odinsbeispiele
+* Das Loddfafnirlied
+* Runengedicht Odins
+* Zaubersprüche
+
+Vor allem der Teil der Spruchweisheiten stellt ein einfaches Stammbasiertes leben welche ohne übergeordnete Strukturen existieren musste.
 
 
 ## []{#anchor}Yggdrasil und die neun Welten

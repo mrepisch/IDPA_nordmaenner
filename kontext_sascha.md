@@ -102,3 +102,34 @@ Auch dieser Vers unterschtreicht unsere These das Polygamie verbreitet war. Auch
 die Frau selber entscheiden konnte wie sie ihre Sexualität auslebt. Dies würde auch dem selbestimmenden Frauenbild entsprechen,
 welches wir erarbeitet haben.
 
+# Gräber und Beisetzungen
+
+Da nicht sehr viel über die religiöse Praxis der Nordmänner bekannt ist kann nur wage darüber spekuliert werden
+warum Grabbeigaben getätigt wurden. Jedoch das kremieren wird immer wieder mal erwähnt. Ebefalls das vebrennen eines Leichnames auf 
+einen Schiff wird in den Eddas erwähnt. Auch das Errichten von Runensteinen war eine gängige Praxis welche auch beschrieben wird.
+
+> "Ein Sohn ist besser, auch wen er spät geborn ist
+> nach dem verstorbenn Mann;
+> selten stehen Batasteine nah am Weg,
+> wen sie nicht der Verwandte dem Verwandten aufstellt"
+> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.72)
+
+Auch der Ruf eines Mannes und seine Ehre waren sehr wichtig für die Nordmänner. So wurden opulente Gräber, für diejenigen welche 
+es sich leisten konnten, errichtet. 
+
+> "Vieh stirbt, Verwante sterben,
+> man selbst stribt ebenso;
+> aber der ruf stirbt niemals dem,
+> der sich guten erwirbt"
+> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.76)
+ 
+> "Vieh stirbt, Verwante sterben,
+> man selbst stribt ebenso;
+> ich weis eines, das niemals stirbt;
+> das Urteil über jeden Toten" 
+> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.77)
+
+
+# Kastensystem
+
+
