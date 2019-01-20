@@ -132,4 +132,38 @@ es sich leisten konnten, errichtet.
 
 # Kastensystem
 
+*silvans text hier einfügen** 
+
+Evt hier nochmal auf Thor hinweisen 
+
+
+
+# Holmgang
+
+Eine Refenrez auf den Holmgang ist in der Edda von Sorri Sturluson( Seite 109 ) zu finden. In der Geschichte wird Thor von
+einem Risen auf einen Zweikampf herausgefordert. Abgesprochene Zweikämpfe werden sehr selten in der Mythologie erwähnt, aber 
+sie wurden nie abgelehnt. Auch der Missbrauch dieser Sitte seitens der Berserker zeigt aber auch eine sehr gewaltätige Seite, im 
+Brauchttum der Nordmänner.
+
+> "Da ging Gyda zu Egill und sprach: 
+> Ich werde dir mitteilen Egil, wie es hier mit uns steht. 
+> Ein Mann heißt Ljot der Bleiche. Er ist Berserker und Holmgangsmann. 
+> Kein Mensch liebt ihn. Er kam hierher und freite meine Tochter, wir aber 
+> antworteten kurz und weigerten die Verlobung. Darauf forderte er Fridgeir, 
+> meinen Sohn, zum Holmgang heraus.‘ […] Jetzt kam Ljot mit seinem Gefolge dorthin. 
+> Er rüstete sich zum Zweikampf. Er trug Schild und Schwert. Ljot war ein sehr starker und kräftiger Mann. 
+> Als er nun auf dem Platze um Holmgange vortrat, kam die Berserkerwut über ihn. Er fing an, bösartig zu heulen 
+> und biss in seinen Schild."
+> (Egils saga Kap. 1 übersetzt von Felix Niedner.)
+
+Diese Textstelle sugeriert auch das es möglich war sich in einem Holmgang vertreten zu lassen. Auch die Geschichte in der Thor herausgefordert
+wurde wird, von der Seite des Riesen mit einem Stellvertreter besetzt. 
+
+
+
+> es brüllten die Berserker,
+> der Kampf kam in Gang
+> es heulten die Wolfpelze
+> und schüttelten die Eisen
+> ( Finnur Jónsson (Hrsg.): Den Norsk-Islandske Skjaldedigting B: Rettet Tekst I. 1912 (Nachdruck Rosenkilde og Bagger, Kopenhagen 1973), S. 22–25; hier S. 23.)
 

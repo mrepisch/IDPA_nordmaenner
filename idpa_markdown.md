@@ -1,7 +1,12 @@
 IDPA Nordmänner
 
-[]{#anchor}Einleitung / Fragestellung
-=====================================
+# Abstract
+
+
+# Einleitung 
+
+
+## Fragestellung
 
 Diese Arbeit beschäftige sich mit der Mythologie der Nordmänner und in
 welchem Kontext diese zu der Lebensart, Politik, der Rechtsprechung, den
@@ -14,26 +19,35 @@ gnadenlos zeigt. So wird auch die Mythologie der Nordmänner beschrieben.
 Wir möchten mit dieser Arbeit erarbeiten und welchen Bereichen des
 Lebens diese Mythologie Einzug gehalten hat um so die Lebensweise
 unserer Vorfahren besser zu verstehen. Eine andere Frage welche wir erarbeiten möchten
-ist die Frage in welcher Form diese Lebensweise in die Mythologie eingeflossen ist.
+ist die Frage in welcher Form diese Lebensweise in die Mythologie eingeflossen ist. Aber auch versuchen Einflüsse aufzudecken
+die einen Älteren Ursprung haben
 
-# Methodik
+## Methodik
+
+Der Ansatz der verwendet wurde basiert auf den Konzept das wird die drei folgenden Komponenten in sich geschlossen betrachten:
+
+* Mythologie und religiöse Praxis der Nordmänner
+* Die Lebensweise und Geselschaftsstrukturen
+* Sitte und Recht 
+
+Die Ausarbeitung dieser drei Teile ermöglicht es uns einen Kontext zwischen den drei Teilen herzustellen. 
 
 Für unsere Recherchen wird für den Mythologie Teil vor allem die Bücher: Die Götterlieder der Älteren Edda und 
 Die Edda des Snorri Sturluson verwendet. Um die Geselschaftlichen Aspekte der Nordmänner zu erarbeiten, wird vor allem das Internet,
 und andere Sachbücher verwendet. Interviews wurden keine Durchgeführt. Da es schwierig ist akurate historische Quellen im Internet zu finden,
 wurde versucht nur mit Beiträgen welche eine verlässliche Quellenangabe aufführen zu arbeiten.
 
-# []{#anchor}Mythologie
+
+# []{#anchor}ythologie und religiöse Praxis der Nordmänner
 
 
-Im folgenden Kapitel wird die Mythologie der Nordmänner behandelt. Das
+Im folgenden Kapitel wird die Mythologie und die religiöse Praxix der Nordmänner behandelt. Das
 Kapitel soll eine Übersicht bieten. Dieses Thema ist aber so komplex das
 nicht auf jedes Detail eingegangen wird. In den Quellenangaben und dem
 Anhang wird auf Texte und weitere Informationen verwiesen, welche für
 das Thema relevant sind.
 
 ## []{#anchor}Die Eddas
-
 
 Die beiden Eddas stellen die aktuellste Quelle für die Mythologie der
 Nordmänner dar. Sie unterscheiden sich aber gravierend voneinander,
@@ -86,7 +100,14 @@ viel älteren Ursprung haben. Bei genauerer Betrachtung zeigt sich aber dass, di
 * Runengedicht Odins
 * Zaubersprüche
 
-Vor allem der Teil der Spruchweisheiten stellt ein einfaches Stammbasiertes leben welche ohne übergeordnete Strukturen existieren musste.
+Vor allem das alte Sittegedicht zeichnet ein Bild einer Geselschaft ohne übergeordnete Strukturen, was wiederum einen Interessanten
+Einblick in das tägliche Leben bietet.
+
+> "Nun sind die Sprüche des Hohen gesagt, in des Hohen Halle,
+> sehr nützlich den Söhnen der Menschen, unnütz den Söhnen der Riesen;
+> Heil dem, der sie sprach, Heil dem,der sie kennt!
+> Sie nutze, wer sie erlernte, Heil denen, die sie höhrten"
+> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.164)
 
 
 ## []{#anchor}Yggdrasil und die neun Welten
@@ -398,6 +419,22 @@ der Götter weiter bis auch deren Lebenszyklus endet. Der Zusammenhang zwischen 
 Erkenntnis das jedes Jahr das Ragnarök stattfindet. Wen der Sonnengot stirbt sinkt der Sonnenstand. Die Natur stirbt und ebenso das
 Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt wieder das Leben zurück.
 
+
+## Religiöse Praxis 
+
+Über die Religiöse Praxis der Nordmänner ist nur wenig genau bekannt. Das meiste Wissen stammt aus den Sagen und historischen Texten 
+oder aus archeologischen Funden. Bekannt ist das es Brauch war Opfergaben einer bestimmten Gottheit darzubieten. Geopfert wurden
+vor allem Nahrung oder Tiere. Jedoch ist immer wieder von Menschenopfer, in den Sagen und historischen Texten, die Rede.
+In der Erzählung wird alle neun Jahre von jeder Tiergattung ein männliches Exemplar geopfert und aufgehängt. Zu den männlichen Tieren zählten
+die Menschen dazu. 
+
+> Weisst du, wie man ritzen soll, weisst du wie man raten soll?
+> Weisst du, wie man färben soll, weisst du wie man prüfen soll?
+> Weisst du, wie man beten soll, weisst du wie man opfern soll?
+> Weisst du, wie man darbringen soll, weisst du wie man vernichten soll?
+> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen, Vr.144)
+
+Auch gilt als Erwisen das die religiöse Praxis von Ort zu Ort verschieden ist, wobei es auch übergreifende Riten und Veranstaltungen 
 
 
 []{#anchor} Glossar
