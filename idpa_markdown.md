@@ -426,7 +426,7 @@ Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt w
 oder aus archeologischen Funden. Bekannt ist das es Brauch war Opfergaben einer bestimmten Gottheit darzubieten. Geopfert wurden
 vor allem Nahrung oder Tiere. Jedoch ist immer wieder von Menschenopfer, in den Sagen und historischen Texten, die Rede.
 In der Erzählung wird alle neun Jahre von jeder Tiergattung ein männliches Exemplar geopfert und aufgehängt. Zu den männlichen Tieren zählten
-die Menschen dazu. 
+die Menschen dazu. Das Opferritual wird Blot gennant
 
 > Weisst du, wie man ritzen soll, weisst du wie man raten soll?
 > Weisst du, wie man färben soll, weisst du wie man prüfen soll?
@@ -434,8 +434,48 @@ die Menschen dazu.
 > Weisst du, wie man darbringen soll, weisst du wie man vernichten soll?
 > (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen, Vr.144)
 
-Auch gilt als Erwisen das die religiöse Praxis von Ort zu Ort verschieden ist, wobei es auch übergreifende Riten und Veranstaltungen 
+Auch gilt als Erwisen das die religiöse Praxis von Ort zu Ort verschieden ist, wobei es auch übergreifende Riten und Veranstaltungen gab,
+wie das obengennante Beispiel von Uppsala zeigt.
 
+Eine weitere bekannte religiöse Praxis war das Trinken in der Runde aus einem Horn. Dieses Ritual wird Sumble gennant. Normalerweisse
+war der Gastgeber derjenige welcher das Ritual führte. 
+
+
+> "Jetzt wurde ihnen Bier zum Trinken gebracht. Viele Erinnerungsbecher für Verstorbene kreisten, 
+> und bei jedem Gedächtnistrunk sollte ein Horn geleert werden. Und während so der Abend hinging, wurden 
+> viele Mannen Ölvirs schwer auf den Füßen. Einige spien in den Saal, andere gingen vor die Tür."
+> Egils saga Kap. 44. Übersetzung Felix Niedner.
+
+
+# Sozialstrukur
+
+## Literarische Quellen
+Die Nordmänner besassen eine eigene Sprache und Schrift, diese bestand allerdings aus Runen. Es wurde nicht viel geschrieben 
+und die wenigen Dokumente, die man finden konnte sind eher kurz. Oftmals wurden sie in Form von Steinen in welchen Runen 
+eingeritzt sind gefunden. [https://de.wikipedia.org/wiki/Runenstein#/media/File:Bj%C3%B6rketorpsstenen_runor.jpg]
+Am meisten Quellen wurden von Personen erstellt, die negativ von den Vikingern betroffen waren, diese sind meistens 
+in Latein geschrieben. 
+Skandinavische Werke tauchten erst im 11ten und 12ten Jahrhundert vermehrt mit der Christianisierung zusammen auf. 
+Zu dieser Zeit gewann lateinisch auch an Bedeutung in dieser Region. 
+Daher findet man erst aus dieser Zeit viele Schriftstücke. 
+
+Bild zu den Schriftzeichen der Nordmänner.
+Nur zwischen 9. und 11ten Jahrhundert verwendet.
+Quelle: https://en.wikipedia.org/wiki/Younger_Futhark
+
+## Kriegszüge
+
+Die Wikinger waren dafür bekannt, dass sie Abenteurer waren. Sie erkundeten weite Teile Europas,
+ trieben Handel mit den Völkern die sie fanden und raubten auch einige aus. Diese Raubzüge machten 
+ sie zu einem gefürchteten Volk.
+
+Den wenigsten Leuten ist heutzutage bewusst, wie weit die Wikinger auf ihren Reisen kamen. 
+Sie siedelten sich in England, Irland, Frankreich und Spanien an. Ihre Signifikanz kann man an der
+ Namensgebung von Orten sehen, die Normandie wurde nach den Normannen benannt. 
+
+Sie bereisten sogar die arabische Welt und reisten in den Osten nach Russland. Der 
+Name Russland kommt aus dem Schwedischen. Rus steht für Wikinger. Der Name kommt davon, dass sie auch im 
+Osten Europas, also insbesondere Russland siedelten. 
 
 []{#anchor} Glossar
 
@@ -450,9 +490,9 @@ Auch gilt als Erwisen das die religiöse Praxis von Ort zu Ort verschieden ist, 
 []{#anchor-1}Quellen
 --------------------
 Die Götterlieder der Älteren Edda, Reclam
-
+[](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
 [](https://de.wikipedia.org/wiki/Tyr)
-
+[](a.org/wiki/Nordgermanische_Religion#Eisenzeit "Stand 20.01.2018")
 [](https://www.reclam.de/data/media/978-3-15-000782-2.pdf "Stand 08.01.2019" )
 [Wikipedia Wikinger](https://en.wikipedia.org/wiki/Vikings "Stand 08.10.2018" )
 [](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
