@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/0B_VANrAxLlcUcUZ4OElnMlZFVXc
 
 
 # TODOS:
-## Goals for next meeting 2019-01-17
+## Goals for next meeting 2019-01-20
 ### Alle
 - Alles Geschriebene nochmals durchlesen
 - Sagen, Lieder aus der Edda zu Sozialstruktur & Sitten zusammentragen
