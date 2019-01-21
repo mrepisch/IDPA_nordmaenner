@@ -62,7 +62,6 @@ https://en.wikipedia.org/wiki/Hervarar_saga_ok_Hei%C3%B0reks
 https://en.wikipedia.org/wiki/Gesta_Danorum
 
 ### Gräber
-
 Es war wichtig die Toten korrekt zu begraben. Ihnen wurde beim Tod vieles mitgegeben. Der Zweck der mitgegebenen Gegenstände ist, dass die Toten im Nachleben gut aufgenommen wurden. Es war im allgemeinen Bewusstsein, dass die Kastengesellschaft im Nachleben weitergeführt wird, somit ist es wichtig, dass die Toten ihren Platz in der richtigen Kaste finden konnten. 
 
 
