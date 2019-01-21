@@ -446,10 +446,29 @@ war der Gastgeber derjenige welcher das Ritual führte.
 > viele Mannen Ölvirs schwer auf den Füßen. Einige spien in den Saal, andere gingen vor die Tür."
 > Egils saga Kap. 44. Übersetzung Felix Niedner.
 
+### Gräber und Bestattungen
+
+Es war üblich den Toten Geschenke mit in den Tod zu geben. Das bedeutet Güter zu ihnen ins Grab zu legen oder 
+mit ihnen zu verbrennen. Teilweise wurden die Toten nämlich auch kremiert. Diese Kremation fand üblicherweise in der 
+Mitte eines Steinkreises statt. Die Anzahl der Gegenstände und ihr Wert entsprach dem was sie in ihrem Leben hatten. 
+Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und 
+Werkzeugen mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle 
+gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
+Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken. 
+
+Bild eines Grabkreises
+https://www.history.com/news/how-did-the-vikings-honor-their-dead
+
+Eine alternative Art der Beisetzung ist auch die Verwendung eines Bootes als Grab. Der Leichnam wurde mit seinen Geschenken 
+und Schätzen ins Boot gelegt und auf seine Reise geschickt. Da Boote extrem aufwendig in der Produktion sind ist dies, die 
+kostspieligste Art und wurde nur selten verwendet.
+
+
 
 # Sozialstrukur
 
 ## Literarische Quellen
+
 Die Nordmänner besassen eine eigene Sprache und Schrift, diese bestand allerdings aus Runen. Es wurde nicht viel geschrieben 
 und die wenigen Dokumente, die man finden konnte sind eher kurz. Oftmals wurden sie in Form von Steinen in welchen Runen 
 eingeritzt sind gefunden. [https://de.wikipedia.org/wiki/Runenstein#/media/File:Bj%C3%B6rketorpsstenen_runor.jpg]
@@ -463,19 +482,227 @@ Bild zu den Schriftzeichen der Nordmänner.
 Nur zwischen 9. und 11ten Jahrhundert verwendet.
 Quelle: https://en.wikipedia.org/wiki/Younger_Futhark
 
+## Gesellschaftliche Hierarchie
+
+Im frühen Zeitalter der Wikinger hatten noch keine Könige existiert.
+Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines Königs zentralisierte die Macht über das ganze Volk bei ihm.  
+Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
+Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.
+Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. 
+
+## Familienleben
+
+Im Zeitalter der Wikinger lebten die meisten Menschen auf 
+Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. 
+Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. Die Bewohner eines Bauernhofes 
+hielten sogar Haustiere.
+
+Die Produkte die man hergestellt hat waren sehr divers. Die Nordmänner züchteten verschiedenste Arten von Tieren und konnten 
+fast alles mögliche Gemüse anpflanzen. Die üblichsten Gemüse waren jedoch Kohl, Zwiebeln, Kresse und Erbsen. Honig war ein gutes 
+Süssungsmittel und Salz gewann man entweder selber aus Salzwasser oder es wurde durch den Handel importiert. Sie verarbeiteten sogar 
+Milch zu Käsu und brauten Bier aus Gerste. Die Nordmänner hatten definitiv keine Mühe damit diverses Essen auf den Tisch zu bringen.
+
+Kinder mussten bereits sehr früh im Haushalt mitarbeiten. Es wurde von ihnen erwartet, dass sie ihren Teil zum Wohl der Gemeinschaft 
+beitragen. Genau so lernten sie allerdings auch, wie sie die Arbeiten zu verrichten hatten, die sie später am Leben erhielten. Kinder 
+mussten jedoch nicht nur arbeiten, sondern hatten auch Zeit zum spielen. Es wurden mehrere Spielzeuge in der Form von Puppen, kleinen 
+Holzpferden und Schiffchen gefunden.  
+Regelmässig wurden Kinder auch in respektable Leihfamilien weitergegeben. Das Ziel war das Kind von der Leihfamilie erziehen zu lassen. 
+Ein Grund für solche Arrangements war ebenfalls, dass die Kindersterblichkeit extrem hoch war und somit einzelne Familien kaum Kinder 
+hatten, während andere Paare kinderlos waren. Das Erziehen der Kinder wurde in der Regel auch monetarisch kompensiert.
+
+Kinder wurden bereits zwischen dem 12ten und 16ten Lebensjahr erwachsen. Mit dem Erreichen dieses Alters mussten sie wissen, wie man 
+einen Haushalt hielt und es wurde erwartet, dass sie eine eigene Familie aufbauen. Was sie allerdings nicht lernten ist das Lesen und
+Schreiben, was die heutige Arbeit für Historiker deutlich erschwert.
+
+
+## Frauen und Männerbild
+
+### Rollenverteilung
+
+Die Kultur wurde generell von Männern dominiert, jedoch besassen die Frauen je nach 
+Stand auch viel Macht. Die Rolle der Frauen war, dass sie den Haushalt führten. Sie kümmerten sich um die Tiere, 
+lagerten das Essen für den Winter ein, arbeiteten im Garten und kümmerten sich um die Familie. Die wichtigste ihrer Aufgaben war
+das Fabrizieren neuer Kleider. Männer halfen ebenfalls im Haushalt mit, übernahmen jedoch die körperlich strengeren Arbeiten. Sie 
+vertraten ebenfalls die Familie in der Gemeinschaft und bildeten das Haupt einer Familie. Bekannterweise zogen Männer auch häufig in 
+den Krieg, in diesen Zeiten mussten ihre Frauen den Haushalt übernehmen.
+
+Ehen wurden von den Eltern arrangiert und Kinder wurden zwischen dem 12ten und 20ten Lebensjahr verheiratet. 
+Das für uns junge Alter kam sicherlich auch davon, dass die Lebenserwartung zu dieser zeit höchstens 50 Jahre betrug.
+Bei der Verlobung bezahlte die Familie des Bräutigams der Familie der Braut einen Brautpreis. 
+Bei der Hochzeit hingegen wurde die Mitgift vom Vater der Braut bereitgestellt. Somit haben beide Familien ein 
+finanzielles Interesse an der Ehe der Kinder.
+
+## Polygamie und Monogamie
+
+Zum Punkte der Polygamie gibt es vieles zu sagen. Das Problem ist allerdings, dass nur 
+wenige Beweise dazu existieren. Das meiste was in diesem Absatz kommt ist also hauptsächlich Theorie aus verschiedenen Quellen.
+
+Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygamie war. Man vermutet, dass die Oberschicht 
+bedeutend attraktiver für Frauen waren und somit die Männer häufig mehrere Frauen haben konnten. Dies habe auch zu einem 
+Frauendefizit geführt und habe entweder die Sklavenkultur bewirkt oder bedeutend verstärkt. In einzelnen Sagen wird jedoch 
+auch von Frauen berichtet, die mehrere Männer überlebten. 
+
+## Homosexualität
+
+Es existieren keine direkten Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Die Idee einer 
+ausschliesslich gleichgeschlechtigen Beziehung konnte man sich damals nicht vorstellen. Es war jedoch nicht wichtig wie das 
+sexuelle Leben eines Menschen aussah, solange man sich an die Normen hielt und eine Familie und Kinder hatte. Von Menschen, die 
+sich aus Beziehungen fern hielten, wurde gesagt sie haben Angst vor dem anderen Geschlecht. Dies ist insbesondere in der Kriegerkultur 
+der Wikinger eine tiefe Beleidigung. Somit haben die Wikinger nicht aus Prinzip eine Abscheu gegenüber homosexuellen Aktivitäten gehabt.
+
 ## Kriegszüge
 
 Die Wikinger waren dafür bekannt, dass sie Abenteurer waren. Sie erkundeten weite Teile Europas,
- trieben Handel mit den Völkern die sie fanden und raubten auch einige aus. Diese Raubzüge machten 
- sie zu einem gefürchteten Volk.
+trieben Handel mit den Völkern die sie fanden und raubten auch einige aus. Diese Raubzüge machten 
+sie zu einem gefürchteten Volk.
 
 Den wenigsten Leuten ist heutzutage bewusst, wie weit die Wikinger auf ihren Reisen kamen. 
 Sie siedelten sich in England, Irland, Frankreich und Spanien an. Ihre Signifikanz kann man an der
- Namensgebung von Orten sehen, die Normandie wurde nach den Normannen benannt. 
+Namensgebung von Orten sehen, die Normandie wurde nach den Normannen benannt. 
 
 Sie bereisten sogar die arabische Welt und reisten in den Osten nach Russland. Der 
 Name Russland kommt aus dem Schwedischen. Rus steht für Wikinger. Der Name kommt davon, dass sie auch im 
 Osten Europas, also insbesondere Russland siedelten. 
+
+### Schieldmaiden
+
+Es existieren nur wenige Aufzeichnungen von Frauen, die wie die Männer in den Krieg gezogen sind. Es gab jedoch Gemeinschaften 
+von Schieldmaiden, also Frauen, die sich wie Männer kleideten, für den Krieg trainierten und dann auch in den Krieg zogen.
+Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. 
+
+## Handel
+
+Handel spielte bei den Nordmännern eine grosse Rolle. Ihr Handelsnetzwerk streckte sich von Skandinavien ostwärts über Europa bis 
+nach Konstantinopel. Westwärts gelangten sie nach Grossbritannien, Irland, Island, Grönland und zeitweise sogar bis nach Nordamerika. 
+Rund 400 Jahre vor Christoph Kolumbus. 
+Aber wie kam es dazu? Die Wikinger waren wie immer pragmatisch bei ihrer Vorgehensweise. Fand sich eine Siedlung oder ein Kloster das 
+zu stark befestigt war um es zu plündern, wurde auf friedliche Weise Waren ausgetauscht. 
+Die Wikinger handelten mit allem was einen Abnehmer fand. Wahlrosszähne, Trinkgläser, Lederwaren, Teppiche und Schmuck wurden 
+durch die Normännischen Händler in Europa verteilt. Auch vom Sklavenhandel liessen sie nicht die Finger von. Gefangene von Raubzügen 
+in Irland, Schottland, dem heutigen Frankreich etc. wurden in das Byzanthinische Reich verkauft. Das Silber, das sie im Gegenzug 
+erhielten wurde eingeschmolzen und neu gemünzt. So bildeten die Nordmänner, nach dem Fall des Römischen Reiches langsam wieder eine 
+Münzbasierte ökonomie. 
+
+# Gesetz und Sitte 
+
+Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. 
+Die geltenden Gesetze wurden von einem sogenannten Rechtsprecher auswendig 
+gelernt und jeweils bei den Things vorgetragen. Sie regelten den Handel, den Tribut und das 
+Strafmass für Vergehen. Oftmal wichtiger in der Dorf- und Stammesgemeinschaft waren die Sitten. 
+Sitten waren (und sind immer noch) ungeschriebene Regeln die den sozialen Umgang vorgeben. Während Gesetzte an 
+jedem Thing wieder geändert werden konnten, galten Sitten über Generationen und wurden nur spärlich angepasst.
+
+## Das Ständesystem
+
+## Gesellschaftlicher Klassen
+
+Auf den ersten Blick scheint die ganze Klassenstruktur sehr klar und abgegrenzt zu sein, 
+jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der 
+Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten 
+sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. 
+Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
+
+### Thrall - Knecht
+
+Die Sklaven, die als Knechte auf den Höfen dienten, bildeten die unterste Schicht des damals geläufigen Kastensystems.
+Was sie durften wurde von ihrem Herrn bestimmt, der volkommene Gewalt über sie hatte. Als Beispiel: Ein Thrall konnte von seinem 
+Meister als Grabbeigabe bestimmt und mit dem Verstorbenen begraben werden.
+Die Thrall setzten sich aus drei Gruppen zusammen. Gefangene aus Raubzügen, Kinder von weiblichen Thrall und ehemals freie Normänner, 
+die sich aufgrund von Schulden oder Armut in Knechtschaft begaben.
+
+### Karl - freie
+
+Die Karl waren die freien Normänner. Sie konnten einen Bauernhof besitzen, auf Raubzüge gehen und durften am Thing teilnehmen wo sie 
+über die Zukunft mitbestimmen konnten. 
+Für die Karl galten neben den festgelegten Gesetzen auch Sitten die den sozialen Umgang bestimmten. 
+
+### Jarl & Herse - Adliger
+
+Ein Jarl, vergleichbar mit einem Grafen und ein Herse, vergleichbar mit einem Herzog, standen auf der gleichen, der höchsten Kastenebene. 
+Vom Rang her waren sie einem König ebenbürtig, auch wenn sie sich ihm unterstellten.
+Während sich der Titel des Jarls im gesamten Skandinavischen Raum finden lässt, taucht der Herse nur an der Norwegischen Westküste auf.
+Es wird vermutet, dass der Titel des Herse an Befehlshaber von Armeen vergeben wurde. Das würde die Geographischen Einschränkungen 
+erklären, da die meisten grossen Eroberungen von dort gestartet wurden.
+Ein Jarl hingegen war ein Verwalter eines Gebietes, das je nach nach Macht des Jarls, ein Dorf oder eine Insel umfassen konnte.
+Er sorgte für die Sicherheit in seinem Gebiet wofür er einen Tribut von den Bauern und Händlern erhielt. So weiss man, dass der Jarl 
+von östergötland einen Drittel des gesamten Tributes der Insel Gotland erhielt. Das entsprach der selben Menge, die auch der König 
+erhielt. Der Titel des Jarls wurde vererbt oder vom König vergeben.
+
+
+### Frauen
+
+Männer hatten das Recht zu fast allem, wobei die einzige Ausnahme der Dienst für weibliche Götter ist. 
+Ihre Aufgabe bestand darin sich um Haus und Hof zu kümmern. 
+Jedoch wurde ihnen auch gewisse Privilegien zugesprochen. So durften sie bei der Wahl ihres Gatten mitbestimmen, das 
+Familienoberhaupt hatte aber immer das letzte Wort.
+Auch durften sie sich, wenn sie von ihrem Ehemann schlecht behandelt wurde, von ihm scheiden lassen ohne dass ihr 
+Gesellschaftlicher Ruf zu Schaden kam.
+Frauen hingegen hatten bedeutend mehr Rechte als in den anderen Kulturen, sie waren so gut wie gleich gestellt zu den Männern.
+Die Männer hatten das Sagen im Haus, Frauen konnten es allerdings verwalten während ihr Mann fort war und man konnte 
+ihnen dieses Recht auch nicht entziehen.
+Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsfällen vertreten und konnten Geschäfte führen
+
+
+## Das Recht
+
+Die Nordmänner kannten keine Polizei. Wurde jemandem Unrecht getan, 
+musste er sich selbst zu seinem Recht verhelfen.
+Falls er in der Lage war, konnte er den Verursacher des Unrechts direkt zu 
+Wiedergutmachung auffordern. Normalerweise appelierte der Geschädigte an die 
+Ehre des Verursachers den Schaden wiedergut zu machen. 
+Der Verursacher hatte so die Option den Schaden mit 
+Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszugleichen. 
+Ansonsten blieb dem Geschädigten noch die Option seinen Konkurrenten beim nächsten Thing anzuklagen
+
+
+### Sitte - Sittenrecht
+
+Viele Sitten hatten Hierarchische Züge. Ältere Männer wurden mit mehr Respekt behandelt als 
+Junge und es gab eine Sitzordnung im Haus. Der Hausherr sass in der Mitte des Tisches, sein ranghöchster Gast, 
+ihm gegenüber. Lud ein Nordmann einen anderen in sein Haus ein, galt für beide das Gastrecht, dass es den beiden untersagte, 
+sich anzugreifen selbst wenn sie sich feindlich gesinnt waren.
+Hatte ein Mann zu viel Kontakt mit einer Frau, wurde das als Verlobungsversuch angesehen. Diese Sitten schufen jedoch oftmals 
+zusätzliche Probleme und Scherereien. Als Beispiel ein Zwischenfall aus dem Hafen von Möre: Erich, der Sohn des Jarls, ankerte 
+sein Langboot neben dem seines Vaters. Dieser Platz wurde aber auch von Skopti, dem Schwager des Jarls, beansprucht. 
+Der Streit wurde schnell vom Jarl selbst aufgelöst, der seinem Sohn befahl Platz zu machen. Erich, der das als Ehrverlust 
+erachtete, erschlug deshalb Skopti wenig später.
+
+### Das Thing
+
+Ein Thing ist eine regelmässig stattfindende mehrtägige Versammlung. 
+Im Normalfall umfing das Thing nur die Bewohner eines einzelnen Dorfes. 
+War jedoch ein Stamm auf verschiedene Dörfer verteilt oder rief ein König zum Thing wurde von der Sippe oder dem Dorf 
+ein Abgesandter bestimmt, der die seinen vertrat. Angeblich dauerte das Thing drei Tage. Am ersten Tag betrank man sich 
+und diskutierte über die wichtigsten Dinge. An den folgenden Tagen wurden, nachdem alle wieder nüchtern waren wurden Gesetze 
+erlassen und gerichtet.
+Während des gesamten Things galt der "Thingfriede" während dem Konflikte und Fehden nicht verfolgt werden durften.
+
+Wurde nun der Schadensverursacher während eines Things angeklagt, 
+meist handelte es sich dabei um ein Verbrechen, das in eine Blutfehde ausarten könnte (z. B. Mord) 
+oder es sollte eine möglichst grosse Gemeinschaft erreicht werden (Rechtfertigung bei Ehrverletzung) 
+berieten die Teilnehmer des Things (Ausschliesslich freie Männer. Frauen, Kinder und Sklaven waren nicht zugelassen.) 
+darüber wer im Recht war und welche Bestrafung angemessen war. Das Thing verpflichtete den Verlierer im Normalfall 
+ebenfalls zu Wiedergutmachung. Weigerte der sich war das Thing in der Lage den Verursacher entweder für die Familie des 
+Geschädigten oder für den ganzen Stamm vogelfrei zu erklären. Der Verursacher war nun durch keine Rechte mehr geschützt, 
+und konnte ungestraft beraubt oder umgebracht werden, bis seine Schuld bezahlt oder die Dauer des Bannes vorüber war.
+
+### Holmgang
+
+Bei einem Streit konnte man den Disput auch mit einem Duell, 
+dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem 
+eingegrenzten Bereich statt. Oft wurden dafür kleine Inseln oder Landzungen gewählt, oder Gebiete die weit abgelegen waren.
+Vor degbedingungen abgemacht. Manchmal reichte es, das ein Gegner entwaffnet oder aus dem Bereich manövriert wurde. 
+Bei Fehden oder schlimmen Beleidigungen gingen die Kämpfe aber meistens bis einer blutete oder getötet wurde. Der Sieger erhielt 
+im Normalfall das Objekt des Streites.
+Der Fakt, das man eine Aufforderung zum Holmgang nicht ablehenen konnte ohne Schande auf seine Familie zu laden, wurde teilweise 
+auf unlautere Weise ausgenutzt. Die Nordmänner kannten mehrere Sagas, in denen Berserker Bauernhöfe überfielen und die Herausgabe 
+von Wertgegenständen und Frauen forderten. Nachdem der Hofbesitzer diese Forderungen abgelehnt hatte, wurde er zum Holmgang aufgefordert,
+damit die Berserker das gewünschte "gewinnen" konnten.
+
+
+
+
+
 
 []{#anchor} Glossar
 
@@ -490,11 +717,25 @@ Osten Europas, also insbesondere Russland siedelten.
 []{#anchor-1}Quellen
 --------------------
 Die Götterlieder der Älteren Edda, Reclam
+[](https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln)
+[](https://de.wikipedia.org/wiki/Holmgang)
+[](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
+[](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
+[](https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html)
+[](http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html)
+[](https://www.historyonthenet.com/viking-law-and-government-the-thing/)
+[](http://www.viking.no/e/life/elaws.htm)
+[](http://www.bbc.co.uk/schools/primaryhistory/vikings/viking_settlements/)
+[](https://en.wikipedia.org/wiki/Trade_during_the_Viking_Age)
+[](https://www.historyonthenet.com/vikings-as-traders)
+[](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/trade-in-the-viking-period/)
+[](https://www.thoughtco.com/viking-trading-and-exchange-networks-173147)
+[](https://www.history.com/news/6-viking-leaders-you-should-know)
 [](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
 [](https://de.wikipedia.org/wiki/Tyr)
 [](a.org/wiki/Nordgermanische_Religion#Eisenzeit "Stand 20.01.2018")
 [](https://www.reclam.de/data/media/978-3-15-000782-2.pdf "Stand 08.01.2019" )
-[Wikipedia Wikinger](https://en.wikipedia.org/wiki/Vikings "Stand 08.10.2018" )
+[](https://en.wikipedia.org/wiki/Vikings "Stand 08.10.2018" )
 [](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
 [](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
 [](https://en.wikipedia.org/wiki/Saga "Stand 16.01.2019")
