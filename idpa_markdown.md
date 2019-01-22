@@ -554,23 +554,23 @@ Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der
 ## Handel
 
 Handel spielte bei den Nordmännern eine grosse Rolle. Ihr Handelsnetzwerk streckte sich von Skandinavien ostwärts über Europa bis 
-nach Konstantinopel. Westwärts gelangten sie nach Grossbritannien, Irland, Island, Grönland und zeitweise sogar bis nach Nordamerika. 
+nach Konstantinopel. Westwärts gelangten sie nach Grossbritannien, Irland, Island, Grönland und zeitweise sogar bis nach Nordamerika.^[https://www.historyonthenet.com/vikings-as-traders "Stand 22.01.2019"] 
 Rund 400 Jahre vor Christoph Kolumbus. 
 Aber wie kam es dazu? Die Wikinger waren wie immer pragmatisch bei ihrer Vorgehensweise. Fand sich eine Siedlung oder ein Kloster das 
-zu stark befestigt war um es zu plündern, wurde auf friedliche Weise Waren ausgetauscht. 
+zu stark befestigt war um es zu plündern, wurde auf friedliche Weise Waren ausgetauscht.^[https://www.historyonthenet.com/vikings-as-traders "Stand 22.01.2019"]
 Die Wikinger handelten mit allem was einen Abnehmer fand. Wahlrosszähne, Trinkgläser, Lederwaren, Teppiche und Schmuck wurden 
 durch die Normännischen Händler in Europa verteilt. Auch vom Sklavenhandel liessen sie nicht die Finger von. Gefangene von Raubzügen 
 in Irland, Schottland, dem heutigen Frankreich etc. wurden in das Byzanthinische Reich verkauft. Das Silber, das sie im Gegenzug 
 erhielten wurde eingeschmolzen und neu gemünzt. So bildeten die Nordmänner, nach dem Fall des Römischen Reiches langsam wieder eine 
-Münzbasierte ökonomie. 
+Münzbasierte ökonomie.^[https://en.wikipedia.org/wiki/Trade_during_the_Viking_Age "Stand 22.01.2019"]
 
 # Gesetz und Sitte 
 
 Bis ins 10. Jahrhundert gab es keine geschriebenen Gesetze. 
 Die geltenden Gesetze wurden von einem sogenannten Rechtsprecher auswendig 
-gelernt und jeweils bei den Things vorgetragen. Sie regelten den Handel, den Tribut und das 
+gelernt und jeweils bei den Things vorgetragen.^[https://www.historyonthenet.com/viking-law-and-government-the-thing "Stand 22.01.2019"] Sie regelten den Handel, den Tribut und das 
 Strafmass für Vergehen. Oftmal wichtiger in der Dorf- und Stammesgemeinschaft waren die Sitten. 
-Sitten waren (und sind immer noch) ungeschriebene Regeln die den sozialen Umgang vorgeben. Während Gesetzte an 
+Sitten waren (und sind immer noch) ungeschriebene Regeln die den sozialen Umgang vorgeben.^[https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln "Stand 22.01.2019"] Während Gesetzte an 
 jedem Thing wieder geändert werden konnten, galten Sitten über Generationen und wurden nur spärlich angepasst.
 
 ## Das Ständesystem
@@ -589,12 +589,12 @@ Die Sklaven, die als Knechte auf den Höfen dienten, bildeten die unterste Schic
 Was sie durften wurde von ihrem Herrn bestimmt, der volkommene Gewalt über sie hatte. Als Beispiel: Ein Thrall konnte von seinem 
 Meister als Grabbeigabe bestimmt und mit dem Verstorbenen begraben werden.
 Die Thrall setzten sich aus drei Gruppen zusammen. Gefangene aus Raubzügen, Kinder von weiblichen Thrall und ehemals freie Normänner, 
-die sich aufgrund von Schulden oder Armut in Knechtschaft begaben.
+die sich aufgrund von Schulden oder Armut in Knechtschaft begaben.^[https://de.wikipedia.org/wiki/Thrall "Stand 22.01.2019"]
 
 ### Karl - freie
 
 Die Karl waren die freien Normänner. Sie konnten einen Bauernhof besitzen, auf Raubzüge gehen und durften am Thing teilnehmen wo sie 
-über die Zukunft mitbestimmen konnten. 
+über die Zukunft mitbestimmen konnten.^[http://wikinger.org/wikinger/gesellschaft/ "Stand 22.01.2019"]
 Für die Karl galten neben den festgelegten Gesetzen auch Sitten die den sozialen Umgang bestimmten. 
 
 ### Jarl & Herse - Adliger
@@ -607,7 +607,7 @@ erklären, da die meisten grossen Eroberungen von dort gestartet wurden.
 Ein Jarl hingegen war ein Verwalter eines Gebietes, das je nach nach Macht des Jarls, ein Dorf oder eine Insel umfassen konnte.
 Er sorgte für die Sicherheit in seinem Gebiet wofür er einen Tribut von den Bauern und Händlern erhielt. So weiss man, dass der Jarl 
 von östergötland einen Drittel des gesamten Tributes der Insel Gotland erhielt. Das entsprach der selben Menge, die auch der König 
-erhielt. Der Titel des Jarls wurde vererbt oder vom König vergeben.
+erhielt. Der Titel des Jarls wurde vererbt oder vom König vergeben.^[https://de.wikipedia.org/wiki/Jarl "Stand 22.01.2019"]
 
 
 ### Frauen
@@ -621,7 +621,7 @@ Gesellschaftlicher Ruf zu Schaden kam.
 Frauen hingegen hatten bedeutend mehr Rechte als in den anderen Kulturen, sie waren so gut wie gleich gestellt zu den Männern.
 Die Männer hatten das Sagen im Haus, Frauen konnten es allerdings verwalten während ihr Mann fort war und man konnte 
 ihnen dieses Recht auch nicht entziehen.
-Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsfällen vertreten und konnten Geschäfte führen
+Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsfällen vertreten und konnten Geschäfte führen.
 
 
 ## Das Recht
@@ -630,9 +630,9 @@ Die Nordmänner kannten keine Polizei. Wurde jemandem Unrecht getan,
 musste er sich selbst zu seinem Recht verhelfen.
 Falls er in der Lage war, konnte er den Verursacher des Unrechts direkt zu 
 Wiedergutmachung auffordern. Normalerweise appelierte der Geschädigte an die 
-Ehre des Verursachers den Schaden wiedergut zu machen. 
+Ehre des Verursachers den Schaden wiedergut zu machen.^[https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false "Stand 22.01.2019"]
 Der Verursacher hatte so die Option den Schaden mit 
-Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszugleichen. 
+Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszugleichen.
 Ansonsten blieb dem Geschädigten noch die Option seinen Konkurrenten beim nächsten Thing anzuklagen
 
 
@@ -646,7 +646,7 @@ Hatte ein Mann zu viel Kontakt mit einer Frau, wurde das als Verlobungsversuch a
 zusätzliche Probleme und Scherereien. Als Beispiel ein Zwischenfall aus dem Hafen von Möre: Erich, der Sohn des Jarls, ankerte 
 sein Langboot neben dem seines Vaters. Dieser Platz wurde aber auch von Skopti, dem Schwager des Jarls, beansprucht. 
 Der Streit wurde schnell vom Jarl selbst aufgelöst, der seinem Sohn befahl Platz zu machen. Erich, der das als Ehrverlust 
-erachtete, erschlug deshalb Skopti wenig später.
+erachtete, erschlug deshalb Skopti wenig später.^[https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln "Stand 22.01.2019"]
 
 ### Das Thing
 
@@ -656,16 +656,16 @@ War jedoch ein Stamm auf verschiedene Dörfer verteilt oder rief ein König zum 
 ein Abgesandter bestimmt, der die seinen vertrat. Angeblich dauerte das Thing drei Tage. Am ersten Tag betrank man sich 
 und diskutierte über die wichtigsten Dinge. An den folgenden Tagen wurden, nachdem alle wieder nüchtern waren wurden Gesetze 
 erlassen und gerichtet.
-Während des gesamten Things galt der "Thingfriede" während dem Konflikte und Fehden nicht verfolgt werden durften.
+Während des gesamten Things galt der "Thingfriede" während dem Konflikte und Fehden nicht verfolgt werden durften.^[https://de.wikipedia.org/wiki/Thing "Stand 22.01.2019"]
 
-Wurde nun der Schadensverursacher während eines Things angeklagt, 
+Wurde nun ein Schadensverursacher während eines Things angeklagt, 
 meist handelte es sich dabei um ein Verbrechen, das in eine Blutfehde ausarten könnte (z. B. Mord) 
 oder es sollte eine möglichst grosse Gemeinschaft erreicht werden (Rechtfertigung bei Ehrverletzung) 
 berieten die Teilnehmer des Things (Ausschliesslich freie Männer. Frauen, Kinder und Sklaven waren nicht zugelassen.) 
 darüber wer im Recht war und welche Bestrafung angemessen war. Das Thing verpflichtete den Verlierer im Normalfall 
 ebenfalls zu Wiedergutmachung. Weigerte der sich war das Thing in der Lage den Verursacher entweder für die Familie des 
 Geschädigten oder für den ganzen Stamm vogelfrei zu erklären. Der Verursacher war nun durch keine Rechte mehr geschützt, 
-und konnte ungestraft beraubt oder umgebracht werden, bis seine Schuld bezahlt oder die Dauer des Bannes vorüber war.
+und konnte ungestraft beraubt oder umgebracht werden, bis seine Schuld bezahlt oder die Dauer des Bannes vorüber war.^[https://www.historyonthenet.com/viking-law-and-government-the-thing "Stand 22.01.2019"]
 
 ### Holmgang
 
@@ -674,11 +674,11 @@ dem sogenannten holmgang, beigelegt werden. Der holmgang fand in einem
 eingegrenzten Bereich statt. Oft wurden dafür kleine Inseln oder Landzungen gewählt, oder Gebiete die weit abgelegen waren.
 Vor degbedingungen abgemacht. Manchmal reichte es, das ein Gegner entwaffnet oder aus dem Bereich manövriert wurde. 
 Bei Fehden oder schlimmen Beleidigungen gingen die Kämpfe aber meistens bis einer blutete oder getötet wurde. Der Sieger erhielt 
-im Normalfall das Objekt des Streites.
+im Normalfall das Objekt des Streites.^[https://de.wikipedia.org/wiki/Holmgang "Stand 22.01.2019"]
 Der Fakt, das man eine Aufforderung zum Holmgang nicht ablehenen konnte ohne Schande auf seine Familie zu laden, wurde teilweise 
 auf unlautere Weise ausgenutzt. Die Nordmänner kannten mehrere Sagas, in denen Berserker Bauernhöfe überfielen und die Herausgabe 
 von Wertgegenständen und Frauen forderten. Nachdem der Hofbesitzer diese Forderungen abgelehnt hatte, wurde er zum Holmgang aufgefordert,
-damit die Berserker das gewünschte "gewinnen" konnten.
+damit die Berserker das gewünschte "gewinnen" konnten.^[https://en.wikipedia.org/wiki/Holmgang "Stand 22.01.2019"]
 
 
 # Kontextualisierung
