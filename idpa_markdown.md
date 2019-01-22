@@ -700,14 +700,13 @@ damit die Berserker das gewünschte "gewinnen" konnten.
 
 
 # Kontextualisierung
-Einleitung:
-Wie bereits im Teil der literarischen QUellen erwähnt wurde haben die Wikinger nur sehr wenig aufgeschrieben und waren in der Regel auch Analphabeten. Die meisten Werke entstanden erst nach der Zeit der Wikinger, daher werden auch viele dieser Art erwähnt werden. Wissenschaftler streiten sich darüber, welche davon sehr alte Mythen sind und welche erst danach entstanden sind. Diese Entscheidung zu treffen ist eine sehr schwierige Angelenheit.
+Wie bereits im Teil der literarischen Quellen erwähnt wurde, haben die Wikinger nur sehr wenig aufgeschrieben und waren in der Regel auch Analphabeten. Die meisten Werke entstanden erst nach der Zeit der Wikinger, daher werden auch viele dieser Art erwähnt werden. Wissenschaftlern ist nicht klar welche dieser Werke neumodisch waren und welche ihre Wurzeln bereits in den Anfängen des Wikingertums hatten. Diese Entscheidung zu treffen ist eine sehr schwierige Angelenheit.
 
 ## Sozialstrukur
 ### Gesellschaftliche Hierarchie
 #### Gesellschaftliche Klassen
-Es wurden bereits die drei Gesellschaftlichen Klassen der Jarls und Thralls erwähnt.  
-History on the net erwähnt, dass diese drei sozialen Ränge uralt sind und ursprünglich vom Gott Rig oder Heimdall geschaffen wurde. Wahrscheinlich bezieht sich der Autor damit auf das Rigsmal.  
+Es wurden bereits die drei Gesellschaftlichen Klassen der Karls, Jarls und Thralls erwähnt.  
+History on the net erwähnt, dass diese drei sozialen Ränge uralt sind und ursprünglich vom Gott Rig oder Heimdall geschaffen wurden. Wahrscheinlich bezieht sich der Autor damit auf das Rigsmal.  
 Dabei handelt es sich um ein isländisches Götterlied welches die Stände erklärt, in dem Lied kommt Rig dabei dreimal auf die Erde und zeugt die einzelnen Stände.
 Das Lied wurde erst spät im 14. Jahrhundert niedergeschrieben, was seine Zuverlässigkeit bedeutend mindert.
 
@@ -717,10 +716,10 @@ https://de.wikipedia.org/wiki/R%C3%ADgs%C3%BEula
 ![History on the Net Viking society Nobles Freemen Slaves]
 
 ### Familienleben
-Die Familienleben und die Strukturen auf den Höfen und Dörfen ensprechen genau den Strukturen welche in den 
-Eddas beschrieben werden. Jeder Familie besitzt einen Hof. Der Vater und die Mutter waren die Oberhäupter des Hofes. Die Knechte und Mägte 
-waren die Angestellten bzw. Sklaven welche im Hof lebten. Genau diese Struktur spiegelt sich auch in den Geschichten über die Götter und Riesen wieder.
-So beschreibt das Grimnirlied in Die Götterlieder der Älteren Edda von jedem Asen, wie seine Hallo oder Hof heisst und wie sein Land beschaffen ist.
+Die Familienleben und die Strukturen auf den Höfen und Dörfen ensprechen exakt den Strukturen, welche in den 
+Eddas beschrieben werden. Jede Familie besitzt einen Hof. Der Vater und die Mutter waren die Oberhäupter des Hofes. Die Knechte und Mägte 
+waren die Angestellten bzw. Sklaven, welche im Hof lebten. Genau diese Struktur spiegelt sich auch in den Geschichten über die Götter und Riesen wieder.
+So beschreibt das Grimnirlied in "Die Götterlieder der Älteren Edda" von jedem Asen, wie seine Hallo oder Hof heisst und wie sein Land beschaffen ist.
 
 > "Breidablik ist der siebte, aber dort hat Balder 
 > seine Halle errichtet,
@@ -728,43 +727,43 @@ So beschreibt das Grimnirlied in Die Götterlieder der Älteren Edda von jedem A
 > die wenigsten Fluchrunen"
 > ( Die Götterlieder der Älteren Edda, Das Grimmnirlied Vr. 12)
 
-In der Edda von Snorri Sturlunson wird auch bechreiben das Frigga Zofen hat bzw. das Gewisse Götter höher gestellt sind als andere.
-Gneau so verhielt es auch mit der Familienstruktur in den Höfen. 
+In der Edda von Snorri Sturlunson wird auch beschrieben, dass Frigga Zofen hat bzw., dass Gewisse Götter höher gestellt sind als andere.
+Eine ähnliche Struktur ist ebenfalls in den Familienhöfen der Wikinger aufzufinden. 
 
-Der zeitliche Urpsrung des Grimmnirlieds wird auf das achte Jahrhundert geschätzt mann kann also davon ausgehen das diese Familienstruktur schon 
+Der zeitliche Urpsrung des Grimmnirlieds wird auf das achte Jahrhundert geschätzt. Man kann also davon ausgehen, dass diese Familienstruktur schon 
 zu früheren Zeiten in der nordischen Lebensweise verankert ist.
 
-Über Kinder wird in der Mythologie so gut wie gar nicht geschrieben. Das einzige Beispiel das Zeigt das auch Kinder in der Mythologie schon arbeiten mussten
-ist das die Geschichte von Thor der gegen Utgardloki kämpft. In welcher Thor seine Böcke zum Abendessen schlachtet und dem Bauer, den 
-er zum Essen einlud, sagte das er die Knochen der Böcke nicht knacken und ausschlürfen soll. Die Kinder des Bauern folgen dieser Anweisung
-aber nicht folge und nachdem Thor mit seinem Hammer Mjöllnir wiederbelebt hatte und einer seine Böcke humpelte wurde Thor sehr wütend.
+Über Kinder wird in der Mythologie so gut wie gar nichts geschrieben. Das einzige Beispiel das zeigt, dass auch Kinder in der Mythologie schon arbeiten mussten
+stammt aus der Geschichte in der Thor gegen Utgardloki kämpft. In welcher Thor seine Böcke zum Abendessen schlachtet und dem Bauer, den 
+er zum Essen einlud sagte, dass er die Knochen der Böcke nicht knacken und ausschlürfen soll. Die Kinder des Bauern folgen dieser Anweisung
+aber nicht und nachdem Thor mit seinem Hammer Mjöllnir die Böcke wiederbelebt hatte und einer seiner Böcke humpelte, wurde Thor sehr wütend.
 Die kleine Bauernfamilie weckte aber sein Mitleid und er nahm die beiden Kinder als Knechte mit um die Schuld des Bauerns abzutragen.
 
 #### Frauen und Männerbild
 
 ##### Frau
-Da nicht viel über die Asinnen und Vanninen, mit der Ausnahme von Freyja und Frigga, bekannt ist wird an dieser Stelle versucht die 
-Aspekte dieser Göttinen in Kontext zur Rolle der Frau zu setzten. Frigga welche die Aspekte des Haushalts und der Kinder unter sich verreint,
-entspricht auch sehr der Rolle der Hausherrin auf einem Hof. Auch das Frigga das Schicksal von Personen und Göttern sehen kann, 
-enspricht der weissen Voraussicht welche eine gute Hofherrin dazumal besitzen musste. Freyja, welche den Aspekt der Weiblichkeit, Ehe und der 
-Sexualität in sich verreint, stellte eigentlich die Perfekte Lady dar. Dies zeigt sich schon im Namen da Freyja übersetzt Lady oder Herring bedeutet.
-Auch der Hohen Stellenwert dieser Göttin in den Kreisen der Geselschaft zeigt den Wert den die Frau in dieser Zeit hatte. Das sie zwar ihre
-Rolle einnnehmen musste. Durch das ausfüllen dieser Rolle aber auch angesehen und geehrt wurde. 
+Da nicht viel über die Asinnen und Vanninen, mit der Ausnahme von Freyja und Frigga, bekannt ist, wird an dieser Stelle versucht die 
+Aspekte dieser Göttinen in Kontext zur Rolle der Frau zu setzen. Frigga, welche die Aspekte des Haushalts und der Kinder unter sich vereint,
+entspricht auch sehr der Rolle der Hausherrin auf einem Hof. Auch dass Frigga das Schicksal von Personen und Göttern sehen kann, 
+enspricht der weisen Voraussicht, welche eine gute Hofherrin dazumal besitzen musste. Freyja, welche den Aspekt der Weiblichkeit, Ehe und der 
+Sexualität in sich verreint, stellte eigentlich die Perfekte Lady dar. Dies zeigt sich schon im Namen, da Freyja übersetzt Lady oder Herrin bedeutet.
+Auch der hohe Stellenwert dieser Göttin in den Kreisen der Gesellschaft zeigt den Wert, den die Frau in dieser Zeit hatte. Dass sie zwar ihre
+Rolle einnnehmen musste, durch das Ausfüllen dieser aber auch angesehen und geehrt wurde. 
 
 > "Am Abend soll man den Tag loben, die Frau wenn sie verbrannt ist,
 > das Schwert wenn's erprobt ist, das Mädchen wenn's geehelicht ist,
 > das Eis, wenn man hinüberkommt, das Bier wens getrunken ist"
 > (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.81)
 
-In diesem Vers soll mann die Frau loben wen sie verbrannt wird, verbrannt in Sinne einer heidnischen Beisetzung in welche es üblich 
-war den toten Körper zu verbrennen. Man könnte darauf schliessen dass, die Frau also die gleiche Beisetzung erhalten hat wie der Mann.
+In diesem Vers soll man die Frau loben, wenn sie verbrannt wird, verbrannt im Sinne einer heidnischen Beisetzung, in der es üblich 
+war den toten Körper zu verbrennen. Man könnte darauf schliessen, dass die Frau also die gleiche Beisetzung erhalten hat wie der Mann.
 Auch wurden viele kleinere Runensteine in Skandinavien gefunden, in welchen Töchter für ihre Mütter Texte widmeten. Dies wird in Form 
-von Grabsteinen bis heute praktiziert. Die Tatsache das diese Steine teuer in der Fertigung waren, zeugt davon das auch die Frauen
-über finanzielle Mittel verfügten und auch in der Lage waren diese zu verwenden.
-Auch ist in diesem Vers geschrieben das man das Mädchen loben soll wen es verheiratet wurde. Mann könnte daraus schliesen das eine 
-junge Frau solange als Mädchen galt bis sie geehelicht wurde. Dies wird ein grosser Schritt im Leben einer jungen Frau gewesen sein, 
+von Grabsteinen bis heute praktiziert. Die Tatsache, dass diese Steine teuer in der Fertigung waren, zeugt davon, dass auch die Frauen
+über finanzielle Mittel verfügten und auch in der Lage waren, diese zu verwenden.
+Auch ist in diesem Vers geschrieben, dass man das Mädchen loben soll, wenn es verheiratet wurde. Man könnte daraus schliessen, dass eine 
+junge Frau solange als Mädchen galt, bis sie geehelicht wurde. Dies wird ein grosser Schritt im Leben einer jungen Frau gewesen sein, 
 da sie, je nach Stand innerhalb ihrer Sippe, viel Verwantwortung übernehmen musste. Man könnte auch die Aussage, dass innerhalb der 
-Gesselschaft die Frau sehr wertgeschätzt wurde, ableiten.
+Gesellschaft die Frau sehr wertgeschätzt wurde, ableiten.
 
 ##### Mann
 Die Rolle des Mannes als Beschützer und Oberhaupt der Familie, ist auch in der Mythologie stark verankert. Odin als Allfather und Oberhaupt
