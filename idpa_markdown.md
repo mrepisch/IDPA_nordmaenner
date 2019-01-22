@@ -55,12 +55,12 @@ wobei beide Werke um das 13 Jahrhundert entstanden sind.
 
 Die Liederedda oder auch ältere Edda ist eine Sammlung von Lieder und
 Versen welche die Mythen beschreiben. Alle Texte in der Liederedda sind
-in der Skaldischen Dichtkunst verfasst.
+in der Skaldischen Dichtkunst verfasst ^[1]
 
 > "Skaldische Dichtungen sind subjektiv gestaltete Kompositionen, die ihre
 > Stoffe dem Leben und dem sozialen Umfeld ihres Dichters, des Skalden,
 > entnehmen: sie sind situationsgebundene Gesellschaftsdichtung" 
-> [https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018]
+> (https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018)
 
 Das zweite Buch die Edda des Snorri Sturluson, auch Snorris Edda
 genannt, ist ein Zusammenfassung der vieler einzelner Geschichten aus
@@ -70,7 +70,7 @@ erklärt und mit vielen Beispielen illustriert.
 Der Verfasser Snorri Sturluson war ein christlicher Mönch der in Island
 um das 13te Jahrhundert gelebt hat. Zu dieser Zeit fand die
 Christianisierung von Europa statt. Snorris Anliegen mit seiner Edda war
-es die skaldische Dichtkunst mit ihren Geschichten zu erhalten.
+es die skaldische Dichtkunst mit ihren Geschichten zu erhalten.^[2]
 
 ## Sagas
 
@@ -79,7 +79,9 @@ Die Sagen sind in acht Kategorien unterteilt. Die König Sagas(Konungasögur), d
 die Kurzgeschichten der Isländer(Íslendingaþættir), die zeitgenösischen Sagas(Samtíðarsögur), die lengendären Sagas(Fornaldarsögur),
 die Rittersagen(Riddarasögur), die heiligen Sagen(Heilagra manna sögur) und zuletzt die Sagen der Bischöfe(Biskupa sögur).
 Auf all diese Sagen können natürlich nicht im Detail eingegangen werden. Man geht davon aus dass, mit Ausnahme der 
-legendären Sagen, die erzählten Geschichten recht realistiv sin. Die Sakdinavische und die Isländische Kultur haben eine
+legendären Sagen, die erzählten Geschichten recht realistisch sind ^[3].
+
+ Die Sakdinavische und die Isländische Kultur haben eine
 reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen, dass das Wissen der Nordmänner mündlich überliefert worden ist.
 Sie haben es jedoch verstanden, dieses Wissen über Ereignisse, über grosse Könige und Helder oder auch das Wissen ihrer Götter, 
 in spannende Geschichten
@@ -102,6 +104,7 @@ viel älteren Ursprung haben. Bei genauerer Betrachtung zeigt sich aber dass, di
 
 Vor allem das alte Sittegedicht zeichnet ein Bild einer Geselschaft ohne übergeordnete Strukturen, was wiederum einen Interessanten
 Einblick in das tägliche Leben bietet.
+^[4]
 
 > "Nun sind die Sprüche des Hohen gesagt, in des Hohen Halle,
 > sehr nützlich den Söhnen der Menschen, unnütz den Söhnen der Riesen;
@@ -115,7 +118,7 @@ Einblick in das tägliche Leben bietet.
 > "Eine Esche kenn ich - überschütte-, sie heisst Yggdrasil, ein hoher
 > heiliger Baum - mit weissem Sand; von dort kommt der Tau, der in den
 > Tälern niederfällt; sie steht immer grün über dem Urdbrunnen"
-> [Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.19]
+> (Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.19)
 
 Die Esche Yggdrasill stellt in der nordischen Mythologie das Leben und
 das grosse allumfassende Ganze dar. Alle neun Welten sind durch
@@ -244,8 +247,7 @@ böser hinterlistiger Charakter. Den nur durch eine List von Loki bei den
 Zwergen, erhielt Thor seinen Hammer, Odin seinen Speer und alle anderen
 magischen Gegenstände der Götter. Ebenfalls war Loki, der es wieder mit
 einer List möglich machte, dass Thor seinen Hammer zurück bekam, nachdem
-dieser von einem Riesen gestohlen wurde(siehe Thrymlied in "Die
-Götterlieder der Älteren Edda). Viele Interpretationen gehen davon aus,
+dieser von einem Riesen gestohlen wurde ^[6]. Viele Interpretationen gehen davon aus,
 dass Loki für den Aspekt des Gleichgewichts steht. Jedes Licht wirft
 einen Schatten, nach diesem Schema scheint Loki zu agieren. Auch
 Elterliche Aspekte werden ihm zugesprochen. Da er so viele verschiedene
@@ -274,19 +276,17 @@ werden am Ragnarök an Lokis Seite kämpfen. Über Hella sind nicht viele
 Geschichten, mit der Ausnahme von Baldrs Tod, überliefert. Aber sie ist
 fester Bestandteil des zyklischen Weltbildes der Nordmänner. Auch das
 achtbeinige Pferd Odins ist einer von Lokis Kindern. Dieses Pferd ist
-durch eine List entstanden. Die Geschichte dieser List kann in der Edda
-des Snorri Sturluson Gylfis Täuschung Vers 42 nachgelesen werden.
+durch eine List entstanden ^[7]
 
 ### []{#anchor}Tyr
 
-> Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird
+> "Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird
 > ist der kühnste aller Asen. Ebenfalls ist der der Namensgeber des
-> Diestags (https://de.wikipedia.org/wiki/Tyr Stand 25.12.2018)
+> Diestags" (https://de.wikipedia.org/wiki/Tyr Stand 25.12.2018)
 
 Er über den Ausgang einer Schlacht. Daher wurde Tyr oft vor dem Kampf
 angerufen. Bei der Gefangennahme des Wolfs Fenrir (siehe im Kapitel Loki
-und seine Kinder) spielt er eine Schlüsselrolle dar(siehe in Die Edda
-des Snorri Sturluson Gylfis Täuschung Vr 25) Tyr ist ebenfalls der
+und seine Kinder) spielt er eine Schlüsselrolle dar.^[5] Tyr ist ebenfalls der
 Souverän des Rechts und deshalb geht man davon aus, dass er bei Things
 oder Gerichten angerufen wurde. Viel mehr ist über diesen Asen leider
 nicht überliefert. Gewisse Forscher gehen davon aus das Tyr vor 2000
@@ -426,7 +426,7 @@ Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt w
 oder aus archeologischen Funden. Bekannt ist das es Brauch war Opfergaben einer bestimmten Gottheit darzubieten. Geopfert wurden
 vor allem Nahrung oder Tiere. Jedoch ist immer wieder von Menschenopfer, in den Sagen und historischen Texten, die Rede.
 In der Erzählung wird alle neun Jahre von jeder Tiergattung ein männliches Exemplar geopfert und aufgehängt. Zu den männlichen Tieren zählten
-die Menschen dazu. Das Opferritual wird Blot gennant
+die Menschen dazu. Das Opferritual wird Blot gennant ^[8]
 
 > Weisst du, wie man ritzen soll, weisst du wie man raten soll?
 > Weisst du, wie man färben soll, weisst du wie man prüfen soll?
@@ -439,7 +439,6 @@ wie das obengennante Beispiel von Uppsala zeigt.
 
 Eine weitere bekannte religiöse Praxis war das Trinken in der Runde aus einem Horn. Dieses Ritual wird Sumble gennant. Normalerweisse
 war der Gastgeber derjenige welcher das Ritual führte. 
-
 
 > "Jetzt wurde ihnen Bier zum Trinken gebracht. Viele Erinnerungsbecher für Verstorbene kreisten, 
 > und bei jedem Gedächtnistrunk sollte ein Horn geleert werden. Und während so der Abend hinging, wurden 
@@ -454,7 +453,7 @@ Mitte eines Steinkreises statt. Die Anzahl der Gegenstände und ihr Wert entspra
 Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und 
 Werkzeugen mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle 
 gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
-Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken. 
+Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken ^[9]. 
 
 Bild eines Grabkreises
 https://www.history.com/news/how-did-the-vikings-honor-their-dead
@@ -924,8 +923,13 @@ Mythologie der Nordmänner erschliessen lässt.
 
 []{#anchor-1}Quellen
 --------------------
+
+
+^[1]
 Die Götterlieder der Älteren Edda, Reclam
-[](https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln)
+^[3](https://en.wikipedia.org/wiki/Saga "Stand 16.01.2019")
+
+[https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln]
 [](https://de.wikipedia.org/wiki/Holmgang)
 [](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
 [](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
@@ -939,14 +943,14 @@ Die Götterlieder der Älteren Edda, Reclam
 [](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/trade-in-the-viking-period/)
 [](https://www.thoughtco.com/viking-trading-and-exchange-networks-173147)
 [](https://www.history.com/news/6-viking-leaders-you-should-know)
-[](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
+
 [](https://de.wikipedia.org/wiki/Tyr)
 [](a.org/wiki/Nordgermanische_Religion#Eisenzeit "Stand 20.01.2018")
 [](https://www.reclam.de/data/media/978-3-15-000782-2.pdf "Stand 08.01.2019" )
 [](https://en.wikipedia.org/wiki/Vikings "Stand 08.10.2018" )
 [](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
 [](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
-[](https://en.wikipedia.org/wiki/Saga "Stand 16.01.2019")
+
 [](https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html)
 [](http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html)
 [](http://www.viking.no/e/life/elaws.htm)
@@ -956,3 +960,11 @@ Die Götterlieder der Älteren Edda, Reclam
 [](https://www.thoughtco.com/viking-trading-and-exchange-networks-173147)
 [](https://www.historyonthenet.com/vikings-as-traders)
 [](https://www.historyonthenet.com/viking-law-and-government-the-thing/)
+
+
+(https://de.wikipedia.org/wiki/Skaldisch "Stand 25.12.2018")
+5 (Die Edda des Snorri Sturluson Gylfis Täuschung Vr 25)
+6 (Die Götterlieder der Älteren Edda)
+7 (Edda des Snorri Sturluson Gylfis Täuschung Vers 42)
+8 [](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
+9 (https://www.history.com/news/how-did-the-vikings-honor-their-dead)
