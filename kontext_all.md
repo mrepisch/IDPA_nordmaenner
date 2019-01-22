@@ -181,9 +181,8 @@ ist eine Gedicht-Sammlung in der älteren Edda, in der Odin den Menschen seinen 
 
 
 ## Kastensystem
-Das Kastensystem war seit der Anfangszeit der Nordmänner existent!!falsch!!!. Im Rigsmal 
-"Lied von Rig" wird erklährt wie der Ase Heimdall unter dem Alias Rig, drei Kinder zeugte. D
-as erste hiess Thrall und wurde als Knecht geboren, das zweite hiess Karl und wurde als Bauer geboren, 
+Im Rigsmal  oder auch "Merkgedicht von Rig" gennant, wird erklährt wie der Ase Heimdall unter dem Alias Rig, drei Kinder zeugte. 
+Das erste hiess Thrall und wurde als Knecht geboren, das zweite hiess Karl und wurde als Bauer geboren, 
 das dritte hiess Jarl und wurde ein Herrscher und Gelehrter. So gesehen deutet alles auf eine, eng in die damalige 
 Mythologie eingebundene, Struktur hin. Das wird jedoch angezweifelt, da die beschriebenen Zustände auf einen späteren 
 Zeitraum hindeuten. Es wird vermutet, dass das Lied von Rig nicht viel älter als seine Niederschrift im 14. Jahrhundert 
