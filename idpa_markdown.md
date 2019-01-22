@@ -848,19 +848,17 @@ es sich leisten konnten, errichtet.
 > "Vieh stirbt, Verwante sterben,
 > man selbst stribt ebenso;
 > aber der ruf stirbt niemals dem,
-> der sich guten erwirbt"
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.76)
+> der sich guten erwirbt" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.76]
  
 > "Vieh stirbt, Verwante sterben,
 > man selbst stribt ebenso;
 > ich weis eines, das niemals stirbt;
-> das Urteil über jeden Toten" 
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.77)
+> das Urteil über jeden Toten" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.77]
 
-Es war wichtig die Toten korrekt zu begraben. Ihnen wurde beim Tod vieles mitgegeben. Der Zweck der mitgegebenen Gegenstände ist, dass die Toten im Nachleben gut aufgenommen wurden. Es war im allgemeinen Bewusstsein, dass die Kastengesellschaft im Nachleben weitergeführt wird, somit ist es wichtig, dass die Toten ihren Platz in der richtigen Kaste finden konnten. 
-
-https://en.wikipedia.org/wiki/Norse_funeral#Grave_goods
-https://en.wikipedia.org/wiki/Norse_funeral#Rituals
+Es war wichtig die Toten korrekt zu begraben. Ihnen wurde beim Tod vieles mitgegeben. 
+Der Zweck der mitgegebenen Gegenstände ist, dass die Toten im Nachleben gut aufgenommen wurden. 
+Es war im allgemeinen Bewusstsein, dass die Kastengesellschaft im Nachleben weitergeführt wird, 
+somit ist es wichtig, dass die Toten ihren Platz in der richtigen Kaste finden konnten. ^[https://en.wikipedia.org/wiki/Norse_funeral#Grave_goods] ^[https://en.wikipedia.org/wiki/Norse_funeral#Rituals]
 
 ## Sitte
 Da die Sitten das Leben der Nordmänner steuerten, gab es eine grosse Anzahl von ihnen. 
@@ -879,7 +877,7 @@ Zeitraum hindeuten. Es wird vermutet, dass das Lied von Rig nicht viel älter al
 ist und als nachträgliche Erklärung und Legitimation dienen sollte.
 Da die Sitten das Leben der Nordmänner steuerten, gab es eine grosse Anzahl von ihnen. Diese Sitten wuden jedoch nie aufschrieben und nur mündlich überlieferten, weshalb es heute diverse Versionen mit derselben Aussage gibt. Das die Normänner in ihren Sitten stark von ihrer Mythologie gelenkt werden, lässt sich daraus schliessen, dass viele dieser Sitten im Havamal vorgetragen werden. Havamal "Das Lied des Hohen" ist eine Gedicht-Sammlung in der älteren Edda, in der Odin den Menschen seinen Rat gibt, wie man ein ehrenwertes Leben führt.
 Das war den Nordmännern besonders wichtig, da selbst nach ihrem Tod, ihre und die Ehre ihrer Familien weiterbestehen bleibt.
--- Zitat: Das Vieh stirbt, die Freunde sterben, Endlich stirbt man selbst; Doch eines weiss ich, dass immer bleibt: Das Urteil über den Toten. (Die ältere Edda - Göttersage, Havamal Vr. 76) 
+!!!GENAU DE GLICHI VERS WO I OBE SCHO MOL BRUCHT HAN!!!!!!!-- Zitat: Das Vieh stirbt, die Freunde sterben, Endlich stirbt man selbst; Doch eines weiss ich, dass immer bleibt: Das Urteil über den Toten. (Die ältere Edda - Göttersage, Havamal Vr. 76) 
 
 ## Kastensystem
 Das Kastensystem war seit der Anfangszeit der Nordmänner existent. Im Rigsmal "Lied von Rig" wird erklährt wie der Ase Heimdall 
