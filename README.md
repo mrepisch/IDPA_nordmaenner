@@ -13,6 +13,8 @@ https://drive.google.com/drive/folders/0B_VANrAxLlcUQzAtY3p6elNOX3c
 https://drive.google.com/drive/folders/0B_VANrAxLlcUcUZ4OElnMlZFVXc
 
 
+https://www.markdownguide.org/extended-syntax/
+
 # TODOS:
 ## Goals for next meeting 2019-01-20
 ### Alle
