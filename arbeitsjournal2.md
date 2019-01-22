@@ -1,14 +1,30 @@
 # Inhalte
+## Stand des Produkts
+Zum jetztigen Zeitpunkt, sind die Einleitung sowie der Hauptteil fertiggestellt und werden zur Übernahme in ein Worddokument vorbereitet.
+Von den Segmenten der schriftlichen Arbeit (nach Bewertungskriterium) fehlen noch drei Kapitel: Das Fazit und die Bibliographie befinden sich bereits in Arbeit. Die Abstraction wurde noch nicht begonnen.
+Vorbereitungen zur Präsentation wurden noch nicht aufgenommen.
+
 - Stand des Produkts dokumentieren: erste Resultate, einzelne fertige Texte, Prototyp
 etc.
+
+Unsere Fragestellung ist im Moment immer noch gültig und muss lediglich für den Gebrauch innerhalb von Texten simplifiziert werden.
+
 - Gültigkeit von Fragestellung(en) bzw. Hypothese(n) überprüfen und allfällige
 Anpassungen vornehmen
+## Präsentationsschwerpunkte
 - mögliche Schwerpunkte für die Präsentation festhalten
-- relevante Fragen an die Lehrpersonen zum 2. Zwischengespräch formulieren
+Die Präsentation sollte sich primär auf die Kontextualisierung fokusieren. An zweiter Stelle folgt die Mythologie.  
+
 # mögliche Themen für die Reflexion
 - Auswirkungen des 1. Zwischengesprächs auf das weitere Vorgehen thematisieren
 - Arbeitsorganisation kommentieren
-# Fragen für die Reflexion
+# Reflexion
+
+## Was ist gelungen?
+
+## Was ist nicht gelungen?
+
+
 - Warum ist was gelungen bzw. nicht gelungen? (u.a. das Erreichen der persönlichen
 Ziele)
 - Welche Verbesserungsmöglichkeiten sehen wir bzw. welche Lehren für zukünftige
