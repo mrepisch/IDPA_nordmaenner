@@ -34,12 +34,12 @@ Die Ausarbeitung dieser drei Teile ermöglicht es uns einen Kontext zwischen den
 
 Für unsere Recherchen wird für den Mythologie Teil vor allem die Bücher: Die Götterlieder der Älteren Edda und 
 Die Edda des Snorri Sturluson verwendet. Um die Geselschaftlichen Aspekte der Nordmänner zu erarbeiten, wird vor allem das Internet,
-und andere Sachbücher verwendet. Interviews wurden keine Durchgeführt. Da es schwierig ist akurate historische Quellen im Internet zu finden,
+und andere Sachbücher verwendet. Interviews wurden keine Durchgeführt. Da es schwierig ist akurate 
+historische Quellen im Internet zu finden,
 wurde versucht nur mit Beiträgen welche eine verlässliche Quellenangabe aufführen zu arbeiten.
 
 
-# []{#anchor}ythologie und religiöse Praxis der Nordmänner
-
+# Mythologie und religiöse Praxis der Nordmänner
 
 Im folgenden Kapitel wird die Mythologie und die religiöse Praxix der Nordmänner behandelt. Das
 Kapitel soll eine Übersicht bieten. Dieses Thema ist aber so komplex das
@@ -47,7 +47,7 @@ nicht auf jedes Detail eingegangen wird. In den Quellenangaben und dem
 Anhang wird auf Texte und weitere Informationen verwiesen, welche für
 das Thema relevant sind.
 
-## []{#anchor}Die Eddas
+## Die Eddas
 
 Die beiden Eddas stellen die aktuellste Quelle für die Mythologie der
 Nordmänner dar. Sie unterscheiden sich aber gravierend voneinander,
@@ -55,12 +55,12 @@ wobei beide Werke um das 13 Jahrhundert entstanden sind.
 
 Die Liederedda oder auch ältere Edda ist eine Sammlung von Lieder und
 Versen welche die Mythen beschreiben. Alle Texte in der Liederedda sind
-in der Skaldischen Dichtkunst verfasst ^[1]
+in der Skaldischen Dichtkunst verfasst 
 
-> "Skaldische Dichtungen sind subjektiv gestaltete Kompositionen, die ihre
-> Stoffe dem Leben und dem sozialen Umfeld ihres Dichters, des Skalden,
-> entnehmen: sie sind situationsgebundene Gesellschaftsdichtung" 
-> (https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018)
+Wikipedia liefert hier eine gute und kurze Beschreibung:
+"Skaldische Dichtungen sind subjektiv gestaltete Kompositionen, die ihre
+Stoffe dem Leben und dem sozialen Umfeld ihres Dichters, des Skalden,
+entnehmen: sie sind situationsgebundene Gesellschaftsdichtung" ^[https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018]
 
 Das zweite Buch die Edda des Snorri Sturluson, auch Snorris Edda
 genannt, ist ein Zusammenfassung der vieler einzelner Geschichten aus
@@ -70,7 +70,7 @@ erklärt und mit vielen Beispielen illustriert.
 Der Verfasser Snorri Sturluson war ein christlicher Mönch der in Island
 um das 13te Jahrhundert gelebt hat. Zu dieser Zeit fand die
 Christianisierung von Europa statt. Snorris Anliegen mit seiner Edda war
-es die skaldische Dichtkunst mit ihren Geschichten zu erhalten.^[2]
+es die skaldische Dichtkunst mit ihren Geschichten zu erhalten.
 
 ## Sagas
 
@@ -79,7 +79,7 @@ Die Sagen sind in acht Kategorien unterteilt. Die König Sagas(Konungasögur), d
 die Kurzgeschichten der Isländer(Íslendingaþættir), die zeitgenösischen Sagas(Samtíðarsögur), die lengendären Sagas(Fornaldarsögur),
 die Rittersagen(Riddarasögur), die heiligen Sagen(Heilagra manna sögur) und zuletzt die Sagen der Bischöfe(Biskupa sögur).
 Auf all diese Sagen können natürlich nicht im Detail eingegangen werden. Man geht davon aus dass, mit Ausnahme der 
-legendären Sagen, die erzählten Geschichten recht realistisch sind ^[3].
+legendären Sagen, die erzählten Geschichten recht realistisch sind ^[https://en.wikipedia.org/wiki/Saga "Stand 16.01.2019"].
 
  Die Sakdinavische und die Isländische Kultur haben eine
 reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen, dass das Wissen der Nordmänner mündlich überliefert worden ist.
@@ -104,21 +104,19 @@ viel älteren Ursprung haben. Bei genauerer Betrachtung zeigt sich aber dass, di
 
 Vor allem das alte Sittegedicht zeichnet ein Bild einer Geselschaft ohne übergeordnete Strukturen, was wiederum einen Interessanten
 Einblick in das tägliche Leben bietet.
-^[4]
 
 > "Nun sind die Sprüche des Hohen gesagt, in des Hohen Halle,
 > sehr nützlich den Söhnen der Menschen, unnütz den Söhnen der Riesen;
 > Heil dem, der sie sprach, Heil dem,der sie kennt!
-> Sie nutze, wer sie erlernte, Heil denen, die sie höhrten"
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.164)
+> Sie nutze, wer sie erlernte, Heil denen, die sie höhrten" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.164]
 
 
-## []{#anchor}Yggdrasil und die neun Welten
+
+##  Yggdrasil und die neun Welten
 
 > "Eine Esche kenn ich - überschütte-, sie heisst Yggdrasil, ein hoher
 > heiliger Baum - mit weissem Sand; von dort kommt der Tau, der in den
-> Tälern niederfällt; sie steht immer grün über dem Urdbrunnen"
-> (Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.19)
+> Tälern niederfällt; sie steht immer grün über dem Urdbrunnen" ^[Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.19].
 
 Die Esche Yggdrasill stellt in der nordischen Mythologie das Leben und
 das grosse allumfassende Ganze dar. Alle neun Welten sind durch
@@ -154,8 +152,8 @@ hing um so das Wissen der Runen zu erlangen.
 
 > "Ich(Odin) weiss, das ich hing am windigen Baum(Yggdrasil) neun ganze
 > Nächte, vom Speer verwundet und Odin geopfert, selber mir selbst, an dem
-> Baum, von dem niemand weiss, aus welcher Wurzel er wächst"
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138)
+> Baum, von dem niemand weiss, aus welcher Wurzel er wächst" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138].
+
 
 
 Ein weiterer Aspekt von Odin ist der des Kriegs-und Totengottes. Nach
@@ -163,17 +161,16 @@ jeder Schlacht wählen die Valküren aus den gefallenen Kriegern die
 Hälfte aus. Diese werden nach Valhalla gebracht. Dort werden sie sich
 jeden Morgen gegenseitig bekämpfen. Um anschliessend von Odin
 wiederbelebt zu werden um anschliessend gemeinsam in der goldenen Halle
-zu feiern. Die gefallenen Krieger werden in den Eddas Einherjer genannt.
+zu feiern. Die gefallenen Krieger werden in den Eddas Einherjer genannt ^[Die Götterlieder der Älteren Edda, das Wafthrudnirlied  Vr.41].
 
 Der Mittwoch wurde Odin gewidmet. Dies ist in der deutschen Sprache
 verlorengegangen, ist aber noch im englischen Wochentag
-Wendesday(Wodendag) ersichtlich.
+Wendesday(Wodendag) ersichtlich. ^[https://de.wikipedia.org/wiki/Odin "Stand 12.11.2018"]
 
 ### []{#anchor}Frigga
 
 > "Frigg ist die vornehmste. Sie besitzt den Hof,
-> der Fensalir heisst und besonders prächtig ist" 
-> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.35)
+> der Fensalir heisst und besonders prächtig ist" ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.35].
 
 Frigga oder auch Frigg ist die Frau von Odin und eine Heilerin. Sie ist
 die Göttin des Haushaltes, der Kinder. Als eine der wenigen
@@ -184,11 +181,10 @@ Es wird darüber debattiert ob Freya, die Göttin der Liebe und
 Fruchtbarkeit(Siehe im Kapitel Vanen) und Frigga den gleichen Ursprung
 haben. Sich also eine Götterfigur in zwei abgespalten haben.
 
+Weiter gilt es zu erwähnen dass: "Nach einer verbreiteten Hypothese entwickelte sich aus Frigg, für die
+auch der Beiname Hulla („Huldvolle") bezeugt ist, die Märchengestalt der
+Frau Holle." ^[https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018].
 
-> "Nach einer verbreiteten Hypothese entwickelte sich aus Frigg, für die
-> auch der Beiname Hulla („Huldvolle") bezeugt ist, die Märchengestalt der
-> Frau Holle."
-> (https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018)
 
 
 ### []{#anchor}Thor / Donnar
@@ -196,8 +192,7 @@ haben. Sich also eine Götterfigur in zwei abgespalten haben.
 > "Nennen werde ich meinen Namen, auch wenn ich geächtet wär,
 > und mein ganzes Geschlecht: Ich bin Odins Sohn, Melis Bruder und Magnis Vater,
 > Der Kraftherr der Götter; mit Thor kannst du hier sprechen.
-> Das will ich jetzt fragen, wie du heisst"
-> (Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9)
+> Das will ich jetzt fragen, wie du heisst" ^[Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9]
 
 Der Sohn von Odin und Gia(die Göttin der Erde über die wenig bekannt
 ist) ist Thor. Er ist der stärkste der Asen und sehr kampferprobt. Er
@@ -214,8 +209,7 @@ heidnische Menschen.
 
 > Aber bei meiner Halle hast du einen Berg gesehen, darin waren drei
 > viereckige Täler, und eines war besonders tief; Das waren die Spuren
-> deiner Hammerschläge.(Die Edda des Snorri Sturluson, Gylfis Täuschung
-> Vr. 47)
+> deiner Hammerschläge.^[(Die Edda des Snorri Sturluson, Gylfis Täuschung Vr. 47)]
 
 In der Liederedda wird immer wieder vermerkt, dass Thor eher ein Gott
 für das einfache Volk war. Wobei diese These umstritten ist da Odin oft
@@ -224,13 +218,11 @@ in den Geschichten mit Thor aneinandergerät.
 
 > "Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe, ich
 > hetzte Fürsten auf, aber versöhnte sie nie; Odin hat die Jarle, in der
-> in der Schlacht fallen, aber Thor hat das Geschlecht der Knechte"
-> (Die Götterlieder der Älteren Edda, Das Harbardlied V.24)
-
+> in der Schlacht fallen, aber Thor hat das Geschlecht der Knechte" ^[Die Götterlieder der Älteren Edda, Das Harbardlied V.24].
 
 Ebenfalls ist Thor auch der Namensgeber des Donnerstags oder Thursday.
 
-### []{#anchor}Loki
+### Loki
 
 > "Zu den Asen wird auch derjenige gezählt, den manche 
 > Verleumder der Asen, Urheber der Hinterlist und 
@@ -247,7 +239,7 @@ böser hinterlistiger Charakter. Den nur durch eine List von Loki bei den
 Zwergen, erhielt Thor seinen Hammer, Odin seinen Speer und alle anderen
 magischen Gegenstände der Götter. Ebenfalls war Loki, der es wieder mit
 einer List möglich machte, dass Thor seinen Hammer zurück bekam, nachdem
-dieser von einem Riesen gestohlen wurde ^[6]. Viele Interpretationen gehen davon aus,
+dieser von einem Riesen gestohlen wurde ^[Die Götterlieder der Älteren Edda, Das Thrymlied]. Viele Interpretationen gehen davon aus,
 dass Loki für den Aspekt des Gleichgewichts steht. Jedes Licht wirft
 einen Schatten, nach diesem Schema scheint Loki zu agieren. Auch
 Elterliche Aspekte werden ihm zugesprochen. Da er so viele verschiedene
@@ -257,7 +249,7 @@ Original *Lokasenna* genannt. In diesem Lied rechnet Loki mit den Asen,
 welche ein Fest feiern, ab indem er alle beleidigt und den Götter ihre
 Schwächen und Fehler aufzeigt.
 
-### []{#anchor}Die Kinder Lokis
+### Die Kinder Lokis
 
 Lokis Kinder sind wichtig zu erwähnen da sie das Gegengewicht zu des Asen darstellen.
 Drei Kinder gebar die Risin Angrboda Loki. Die Midgardschlange
@@ -275,18 +267,18 @@ Helheim. Dies gilt ebenso für Ehrenlose oder Kriminelle. Diese Toten
 werden am Ragnarök an Lokis Seite kämpfen. Über Hella sind nicht viele
 Geschichten, mit der Ausnahme von Baldrs Tod, überliefert. Aber sie ist
 fester Bestandteil des zyklischen Weltbildes der Nordmänner. Auch das
-achtbeinige Pferd Odins ist einer von Lokis Kindern. Dieses Pferd ist
-durch eine List entstanden ^[7]
+achtbeinige Pferd Odins ist einer von Lokis Kindern. Dieses Pferd ist ebefalls
+durch eine List entstanden ^[Edda des Snorri Sturluson Gylfis Täuschung Vers 42]
 
-### []{#anchor}Tyr
+### Tyr
 
-> "Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird
-> ist der kühnste aller Asen. Ebenfalls ist der der Namensgeber des
-> Diestags" (https://de.wikipedia.org/wiki/Tyr Stand 25.12.2018)
+"Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird
+ist der kühnste aller Asen. Ebenfalls ist der der Namensgeber des
+Diestags" ^[https://de.wikipedia.org/wiki/Tyr].
 
-Er über den Ausgang einer Schlacht. Daher wurde Tyr oft vor dem Kampf
+Er soll über den Ausgang einer Schlacht entscheiden. Daher wurde Tyr oft vor dem Kampf
 angerufen. Bei der Gefangennahme des Wolfs Fenrir (siehe im Kapitel Loki
-und seine Kinder) spielt er eine Schlüsselrolle dar.^[5] Tyr ist ebenfalls der
+und seine Kinder) spielt er eine Schlüsselrolle dar.^[Die Edda des Snorri Sturluson Gylfis Täuschung Vr. 25] Tyr ist ebenfalls der
 Souverän des Rechts und deshalb geht man davon aus, dass er bei Things
 oder Gerichten angerufen wurde. Viel mehr ist über diesen Asen leider
 nicht überliefert. Gewisse Forscher gehen davon aus das Tyr vor 2000
@@ -298,8 +290,7 @@ und von der Gottheit Odin im Lauf der Zeit verdrängt wurde.
 > Ich sah Balder, den blutenden Gitt,
 > Odins Kind, das Schicksal bestimmt;
 > gewachsen war, über den Feld hoch,
-> schmall und sehr schön, der Mistelzeig
-> (Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.31)
+> schmall und sehr schön, der Mistelzeig ^[Die Götterlieder der Älteren Edda, Die Weissagung der Seherin Vr.31]
 
 Der Sonnengott Balder ist der schönste und strahlenste der Asen. Über
 ihn gäbe es nichts Schlechtes zu erzählen. Er ist der redegewandteste
@@ -308,16 +299,16 @@ Entscheidungen keinen Bestand. Der Mythos von Balders Tod spielt eine
 grosse Rolle in der Mythologie und wird ebenfalls mit den Sonnenwenden
 in Verbindung gebracht.
 
-### []{#anchor}Der Tod Balders
+### Der Tod Balders
 
 Die Geschichte über den Tod Balders ist nicht im Detail in der
-Liederedda beschrieben, jedoch in der Edda des Snorri
+Liederedda beschrieben, aber in der Edda des Snorri
 Sturluson Gylfis Täuschung Vr. 49 nachzulesen.
 
 Der Tod von Balder stellt die Sonnenwenden dar. Im grössten Glanz der
 Sonne stirbt sie. Die Tage werden kürzer während Balder nach Hel reist.
 Dann im Winter wenn die ganze Natur stirbt und so der Kreislauf zuende
-geht, erstrahlt die Sonne zu neuem Glanz. Dann nach der
+geht, erstrahlt die Sonne zu neuem Glanz. Nach der
 Wintersonnenwende werden die Tage wieder länger und die Natur erwacht
 langsam wieder. Über Balder als Charakter ist aus der Mythologie nicht
 sehr viel bekannt. Aber die Geschichte über Balders Tod widerspiegelt
@@ -327,8 +318,7 @@ die zyklische Weltanschauung der damaligen Menschen.
 
 > "Heimdall heisst einer, er wird der weisse Ase gennant.
 > Er ist mächtig und heilig. Ihn gebaren neun Mädchen und
-> alle waren Schwestern" 
-> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.27)
+> alle waren Schwestern" ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.27]
 
 Der Gott der den Bifröst, die Regenbogenbrücke welche Midgard und Asgard
 miteinander verbindet bewacht, heisst Heimdall. Er ist der weisseste der
@@ -340,60 +330,56 @@ Das Lied *Merkgedicht von Rig* in der Liederedda, beschreibt Heimdall
 auch als Schöpfer der Mittelalterlichen Ständen: Knecht, Bauer, Jarl
 bzw. König.
 
-## []{#anchor}Vanen
+## Vanen
 
 Die Vanen werden oft als Erdgötter oder als Naturgeister beschrieben.
 Sie stellen ein weiteres Göttergeschlecht dar. Ihre Welt wird Vanheim
 gennant. Leider ist über die Vanen bei weiten nicht so viel überliefert
 als es bei den Asen der Fall ist.
 
-### []{#anchor}Der Krieg mit den Asen
+### Der Krieg mit den Asen
 
 Dieser Krieg stellt laut Snorri den ersten Krieg zwischen den
 Göttergeschlechter. Nachdem er zu Ende ging wurden Geiseln zwischen den
 Familien ausgetauscht. Die Vanen stellten Njörd die Asen tauschten Hönir
-ein.
+ein. ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.23]
 
-### []{#anchor}Njörd
+### Njörd
 
 > "In Wananheim erschufen ihn weisse Ratende
 > und gaben ihn als Geisel den Göttern;
 > am Ende der Welt wird er wieder heimkehren zu
-> den weissen Wanen"
-> (Die Götterlieder der Älteren Edda, Das Wafthrudnirlied Vr.39)
+> den weissen Wanen" ^[Die Götterlieder der Älteren Edda, Das Wafthrudnirlied Vr.39]
 
 Die Geisel der Vanen an die Asen regelt den Verlauf des Windes, des
 Meeres und des Feuers. Njörd war mit der Riesin Skadi verheiratet. Die
 Kinder aus dieser Ehe sind Freyja und Freyr.
 
-### []{#anchor}Freyja
+### Freyja
 
 > "Folkwang heisst es, wo Freyja entscheidet
 > über Sitze im Saal; die Hälfte der Gefallenen
-> wählt sie jeden Tag, die andere Hälfte gehört Odin"
-> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24)
+> wählt sie jeden Tag, die andere Hälfte gehört Odin" ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24]
 
 Freyja nimmt den Platz als Göttin der Liebe und der Ehe ein. Sie ist als
 einige der wenigen Götter der Zauberkunde mächtig. Ihr werden aber auch
 sehr aggressive Züge zugeschrieben. Sie ist die Königin der Walküre und
 reiten auf ihrem Streitwagen, welcher von Wildkatzen gezogen wird, in
-die Schlacht. Ihr steht die zweite Hälfte der Gefallenen Kriegern zu(
-Odin erhält die erste Hälfte).
+die Schlacht. Ihr steht die zweite Hälfte der Gefallenen Kriegern zu.
 
 
-### []{#anchor}Freyr
+### }Freyr
 
 > "Freyr ist der vornehmste under den Asen.
 > Er bestimmt über Regen und Sonnenschein und damit über
-> die Fruchtbarkeit der Erde"
-> (Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24)
+> die Fruchtbarkeit der Erde" ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.24]
 
 Freyr wurde als Fruchtbarkeitsgott verehrt. Er wacht über den Regen, den
 Sonnenschein und das Wachstum der Pflanzen. Ebenfalls regelt er den
 Reichtum der Menschen.
 
 
-## []{#anchor}Jotun
+## Jotun
 
 Die Riesen leben in Jotenheim und werden daher Jotun genant. Die Risen
 werden niemals als Götter dargestellt obwohl sie sich kräftemässig
@@ -404,13 +390,12 @@ Riesen kämpft. Um so das Gleichgewichts. In den Eddas werden immer
 wieder Namen von verschiedenen Riesen genannt es ist aber mal abgesehen
 vom Namen in der Regel nicht viel mehr überliefert.
 
-## []{#anchor} Ragnarök
+## Ragnarök
 
 > "Ein Schiff kommt vom Osten, es werden Muspells Leute 
 > übers Meer kommen, und Loki seuert;
 > alle wilden Burschen kommen mit dem Wolf;
-> Byleists Burder(Loki) bringen sie mit
-> (Die Götterlieder der Älteren Edda, Die Weissagung der Sehering Vr. 51)
+> Byleists Burder(Loki) bringen sie mit" ^[Die Götterlieder der Älteren Edda, Die Weissagung der Sehering Vr. 51]
 
 Das Ragnarök stellt das eine eines Zyklus dar. In der Mythologie wird das Ragnarök 
 als apokalytischer Kampf dargestellt in dem Midgard verzehrt und viele Götter sterben werden.
@@ -426,13 +411,12 @@ Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt w
 oder aus archeologischen Funden. Bekannt ist das es Brauch war Opfergaben einer bestimmten Gottheit darzubieten. Geopfert wurden
 vor allem Nahrung oder Tiere. Jedoch ist immer wieder von Menschenopfer, in den Sagen und historischen Texten, die Rede.
 In der Erzählung wird alle neun Jahre von jeder Tiergattung ein männliches Exemplar geopfert und aufgehängt. Zu den männlichen Tieren zählten
-die Menschen dazu. Das Opferritual wird Blot gennant ^[8]
+die Menschen dazu. Das Opferritual wird Blot gennant ^[https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer]
 
 > Weisst du, wie man ritzen soll, weisst du wie man raten soll?
 > Weisst du, wie man färben soll, weisst du wie man prüfen soll?
 > Weisst du, wie man beten soll, weisst du wie man opfern soll?
-> Weisst du, wie man darbringen soll, weisst du wie man vernichten soll?
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen, Vr.144)
+> Weisst du, wie man darbringen soll, weisst du wie man vernichten soll? ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen, Vr.144]
 
 Auch gilt als Erwisen das die religiöse Praxis von Ort zu Ort verschieden ist, wobei es auch übergreifende Riten und Veranstaltungen gab,
 wie das obengennante Beispiel von Uppsala zeigt.
@@ -442,8 +426,7 @@ war der Gastgeber derjenige welcher das Ritual führte.
 
 > "Jetzt wurde ihnen Bier zum Trinken gebracht. Viele Erinnerungsbecher für Verstorbene kreisten, 
 > und bei jedem Gedächtnistrunk sollte ein Horn geleert werden. Und während so der Abend hinging, wurden 
-> viele Mannen Ölvirs schwer auf den Füßen. Einige spien in den Saal, andere gingen vor die Tür."
-> Egils saga Kap. 44. Übersetzung Felix Niedner.
+> viele Mannen Ölvirs schwer auf den Füßen. Einige spien in den Saal, andere gingen vor die Tür." ^[Egils saga Kap. 44. Übersetzung Felix Niedner]
 
 ### Gräber und Bestattungen
 
@@ -453,7 +436,7 @@ Mitte eines Steinkreises statt. Die Anzahl der Gegenstände und ihr Wert entspra
 Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und 
 Werkzeugen mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle 
 gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
-Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken ^[9]. 
+Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken ^[https://www.history.com/news/how-did-the-vikings-honor-their-dead]. 
 
 Bild eines Grabkreises
 https://www.history.com/news/how-did-the-vikings-honor-their-dead
@@ -700,11 +683,17 @@ damit die Berserker das gewünschte "gewinnen" konnten.
 
 
 # Kontextualisierung
+
 Einleitung:
-Wie bereits im Teil der literarischen QUellen erwähnt wurde haben die Wikinger nur sehr wenig aufgeschrieben und waren in der Regel auch Analphabeten. Die meisten Werke entstanden erst nach der Zeit der Wikinger, daher werden auch viele dieser Art erwähnt werden. Wissenschaftler streiten sich darüber, welche davon sehr alte Mythen sind und welche erst danach entstanden sind. Diese Entscheidung zu treffen ist eine sehr schwierige Angelenheit.
+Wie bereits im Teil der literarischen Quellen erwähnt wurde haben die Wikinger nur sehr wenig aufgeschrieben und waren in der 
+Regel auch Analphabeten. Die meisten Werke entstanden erst nach der Zeit der Wikinger, daher werden auch viele dieser Art erwähnt werden.
+Wissenschaftler streiten sich darüber, welche davon sehr alte Mythen sind und welche erst danach entstanden sind. Diese Entscheidung 
+zu treffen ist eine sehr schwierige Angelenheit.
 
 ## Sozialstrukur
+
 ### Gesellschaftliche Hierarchie
+
 #### Gesellschaftliche Klassen
 Es wurden bereits die drei Gesellschaftlichen Klassen der Jarls und Thralls erwähnt.  
 History on the net erwähnt, dass diese drei sozialen Ränge uralt sind und ursprünglich vom Gott Rig oder Heimdall geschaffen wurde. Wahrscheinlich bezieht sich der Autor damit auf das Rigsmal.  
@@ -925,10 +914,7 @@ Mythologie der Nordmänner erschliessen lässt.
 --------------------
 
 
-^[1]
-Die Götterlieder der Älteren Edda, Reclam
-^[3](https://en.wikipedia.org/wiki/Saga "Stand 16.01.2019")
-
+[https://de.wikipedia.org/wiki/Odin "Stand 12.11.2018"]
 [https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln]
 [](https://de.wikipedia.org/wiki/Holmgang)
 [](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
@@ -944,7 +930,7 @@ Die Götterlieder der Älteren Edda, Reclam
 [](https://www.thoughtco.com/viking-trading-and-exchange-networks-173147)
 [](https://www.history.com/news/6-viking-leaders-you-should-know)
 
-[](https://de.wikipedia.org/wiki/Tyr)
+[](https://de.wikipedia.org/wiki/Tyr "Stand 25.12.2018")
 [](a.org/wiki/Nordgermanische_Religion#Eisenzeit "Stand 20.01.2018")
 [](https://www.reclam.de/data/media/978-3-15-000782-2.pdf "Stand 08.01.2019" )
 [](https://en.wikipedia.org/wiki/Vikings "Stand 08.10.2018" )
@@ -961,10 +947,7 @@ Die Götterlieder der Älteren Edda, Reclam
 [](https://www.historyonthenet.com/vikings-as-traders)
 [](https://www.historyonthenet.com/viking-law-and-government-the-thing/)
 
+Die Götterlieder der Älteren Edda, Reclam
 
-(https://de.wikipedia.org/wiki/Skaldisch "Stand 25.12.2018")
-5 (Die Edda des Snorri Sturluson Gylfis Täuschung Vr 25)
-6 (Die Götterlieder der Älteren Edda)
-7 (Edda des Snorri Sturluson Gylfis Täuschung Vers 42)
-8 [](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
-9 (https://www.history.com/news/how-did-the-vikings-honor-their-dead)
+[](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
+(https://www.history.com/news/how-did-the-vikings-honor-their-dead)
