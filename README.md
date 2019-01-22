@@ -13,6 +13,11 @@ https://drive.google.com/drive/folders/0B_VANrAxLlcUQzAtY3p6elNOX3c
 https://drive.google.com/drive/folders/0B_VANrAxLlcUcUZ4OElnMlZFVXc
 
 
+für fussnoten :
+^[https://en.wikipedia.org/wiki/Saga "Stand 16.01.2019"]
+sprich ^[link]
+
+
 https://www.markdownguide.org/extended-syntax/
 
 # TODOS:
