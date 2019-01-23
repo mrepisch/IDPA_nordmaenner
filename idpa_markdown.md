@@ -449,7 +449,6 @@ kostspieligste Art und wurde nur selten verwendet.
 # Sozialstrukur
 
 ## Literarische Quellen
-
 Die Nordmänner besassen eine eigene Sprache und Schrift, diese bestand allerdings aus Runen. Es wurde nicht viel geschrieben 
 und die wenigen Dokumente, die man finden konnte sind eher kurz. Oftmals wurden sie in Form von Steinen in welchen Runen 
 eingeritzt sind gefunden. [https://de.wikipedia.org/wiki/Runenstein#/media/File:Bj%C3%B6rketorpsstenen_runor.jpg]
@@ -458,6 +457,7 @@ in Latein geschrieben.
 Skandinavische Werke tauchten erst im 11ten und 12ten Jahrhundert vermehrt mit der Christianisierung zusammen auf. 
 Zu dieser Zeit gewann lateinisch auch an Bedeutung in dieser Region. 
 Daher findet man erst aus dieser Zeit viele Schriftstücke. 
+^[10]
 
 Bild zu den Schriftzeichen der Nordmänner.
 Nur zwischen 9. und 11ten Jahrhundert verwendet.
@@ -470,6 +470,8 @@ Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines K�
 Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
 Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.
 Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. 
+
+^[11]
 
 ## Familienleben
 
