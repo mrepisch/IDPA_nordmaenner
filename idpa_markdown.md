@@ -5,26 +5,30 @@ IDPA Nordmänner
 
 # Einleitung 
 
-
-## Fragestellung
-
 Diese Arbeit beschäftige sich mit der Mythologie der Nordmänner und in
 welchem Kontext diese zu der Lebensart, Politik, der Rechtsprechung, den
 Handel und den Krieg steht. Da sich die Ära der Germanen und Nordmänner
 über mehr als 2000 Jahre erstreckt, wird in dieser Arbeit vor allem der
-Zeitraum der Wikinger, also das 8. bis 13. Jahrhundert betrachtet. Die
-Menschen zu dieser Zeit mussten in der Lage sein mit der Natur zu
-überleben. Genau diese Natur welche sich so wunderschön aber brutal und
-gnadenlos zeigt. So wird auch die Mythologie der Nordmänner beschrieben.
-Wir möchten mit dieser Arbeit erarbeiten und welchen Bereichen des
-Lebens diese Mythologie Einzug gehalten hat um so die Lebensweise
-unserer Vorfahren besser zu verstehen. Eine andere Frage welche wir erarbeiten möchten
-ist die Frage in welcher Form diese Lebensweise in die Mythologie eingeflossen ist. Aber auch versuchen Einflüsse aufzudecken
-die einen Älteren Ursprung haben
+Zeitraum der Wikinger, also das 8. bis 13. Jahrhundert betrachtet.
+
+## Fragestellung
+
+Das Leben der Menschen in der Winkingerära war hart und karg. Diese Menschen mussten in der Lage sein
+in der rauhen Skandinavischen Natur zu überleben. Ihr Wissen gaben sie mündlich von Generation zu Generation weiter.
+Die faszinierende Kultur der Germanen und Nordmännder hallt bis in die heutige Zeit nach, und 
+heutzutage ist der Mythos um die Nordischen Götter in unserer Popkultur, in From von Comics und Filmen, 
+angekommen.
+Aus diesem Grund möchten wir mit dieser Arbeit erarbeiten und welchen Bereichen des
+Lebens die Mythologie und Sagas Einzug gehalten hat um so die Lebensweise
+unserer Vorfahren besser zu verstehen. 
+Eine andere Frage welche wir erarbeiten möchten
+ist die Frage in welcher Form diese Lebensweise in die Mythologie eingeflossen ist. 
+Aber auch versuchen Einflüsse aufzudecken die einen noch Älteren Ursprung haben
 
 ## Methodik
 
-Der Ansatz der verwendet wurde basiert auf den Konzept das wird die drei folgenden Komponenten in sich geschlossen betrachten:
+Der Ansatz der verwendet wurde basiert auf den Konzept das wird die drei folgenden Komponenten 
+in sich geschlossen betrachten:
 
 * Mythologie und religiöse Praxis der Nordmänner
 * Die Lebensweise und Geselschaftsstrukturen
@@ -33,10 +37,12 @@ Der Ansatz der verwendet wurde basiert auf den Konzept das wird die drei folgend
 Die Ausarbeitung dieser drei Teile ermöglicht es uns einen Kontext zwischen den drei Teilen herzustellen. 
 
 Für unsere Recherchen wird für den Mythologie Teil vor allem die Bücher: Die Götterlieder der Älteren Edda und 
-Die Edda des Snorri Sturluson verwendet. Um die Geselschaftlichen Aspekte der Nordmänner zu erarbeiten, wird vor allem das Internet,
-und andere Sachbücher verwendet. Interviews wurden keine Durchgeführt. Da es schwierig ist akurate 
+Die Edda des Snorri Sturluson verwendet. Um die Geselschaftlichen Aspekte der Nordmänner zu erarbeiten, 
+wird vor allem das Internet,
+und andere Sachbücher verwendet. Da es schwierig ist akurate 
 historische Quellen im Internet zu finden,
 wurde versucht nur mit Beiträgen welche eine verlässliche Quellenangabe aufführen zu arbeiten.
+Interviews wurden keine Durchgeführt.
 
 
 # Mythologie und religiöse Praxis der Nordmänner
@@ -79,22 +85,26 @@ Die Sagen sind in acht Kategorien unterteilt. Die König Sagas(Konungasögur), d
 die Kurzgeschichten der Isländer(Íslendingaþættir), die zeitgenösischen Sagas(Samtíðarsögur), die lengendären Sagas(Fornaldarsögur),
 die Rittersagen(Riddarasögur), die heiligen Sagen(Heilagra manna sögur) und zuletzt die Sagen der Bischöfe(Biskupa sögur).
 Auf all diese Sagen können natürlich nicht im Detail eingegangen werden. Man geht davon aus dass, mit Ausnahme der 
-legendären Sagen, die erzählten Geschichten recht realistisch sind ^[https://en.wikipedia.org/wiki/Saga "Stand 16.01.2019"].
+legendären Sagen, die erzählten Geschichten recht realistisch sind ^[https://en.wikipedia.org/wiki/Saga].
 
- Die Sakdinavische und die Isländische Kultur haben eine
-reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen, dass das Wissen der Nordmänner mündlich überliefert worden ist.
-Sie haben es jedoch verstanden, dieses Wissen über Ereignisse, über grosse Könige und Helder oder auch das Wissen ihrer Götter, 
-in spannende Geschichten
+Die Sakdinavische und die Isländische Kultur haben eine
+reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen, dass das Wissen der Nordmänner 
+mündlich überliefert worden ist.
+Sie haben es jedoch verstanden, dieses Wissen über Ereignisse, über grosse Könige und Helder oder auch das Wissen 
+ihrer Götter, in spannende Geschichten
 zu verpacken welche dann über Generationen weitererzählt werden. 
 
 
 ## Die Sprüche des Hohen
 
-Dieses Lied aus der Liederedda unterscheidet sich grundlegend von allen anderen Texten oder Sagen. Normalerweise wird eine Art Geschichte 
-erzählt, in diesem Fall sind es aber die direkten Worte von Odin an die Menschen. Sie beinhalten Lebensweisheiten und Grundsätze welche 
-vorteilhaft für den Menschen wären. Die Schrift dieses Liedes ist in der zweiten Hälfte des 13. Jahrhunderts entstanden und ist eine 
+Dieses Lied aus der Liederedda unterscheidet sich grundlegend von allen anderen Texten oder Sagen. Normalerweise 
+wird eine Art Geschichte 
+erzählt, in diesem Fall sind es aber die direkten Worte von Odin an die Menschen. Sie beinhalten Lebensweisheiten 
+und Grundsätze welche vorteilhaft für den Menschen wären. Die Schrift dieses Liedes ist in der zweiten Hälfte 
+des 13. Jahrhunderts entstanden und ist eine 
 scheinbar willkürliche Zusammenfassung von Strophen welche erwisenermassen einen
-viel älteren Ursprung haben. Bei genauerer Betrachtung zeigt sich aber dass, die Sprüche des Hohen aus fünf verschiedenen Teilen beseht:
+viel älteren Ursprung haben. Bei genauerer Betrachtung zeigt sich aber dass, die Sprüche des Hohen aus fünf 
+verschiedenen Teilen beseht:
 
 * Das alte Sittengedicht
 * Die Odinsbeispiele
@@ -127,7 +137,7 @@ Krone des Baumes befinden.
 
 ## []{#anchor}Asen
 
-Die Asen, auch bekannt als Himmelsgötter, ist die Götterfamilie über die
+Die Asen, auch bekannt als Himmelsgötter, ist deijenige Götterfamilie über die
 am meisten überliefert ist. Fast alle Geschichten in beiden Eddas
 handeln von den Himmelsgötter. Sie leben in der Welt von Asgard. Jede
 der Gottheiten besitzt in dort einen eigenen Ort oder eine Halle, wobei
@@ -149,19 +159,22 @@ strebt. Odin hat sein linkes Auge geopfert um von dieser Quelle trinken
 zu können. Auch wird erzählt das er neun Tage an der Esche Yggdrasill
 hing um so das Wissen der Runen zu erlangen.
 
-
 > "Ich(Odin) weiss, das ich hing am windigen Baum(Yggdrasil) neun ganze
 > Nächte, vom Speer verwundet und Odin geopfert, selber mir selbst, an dem
 > Baum, von dem niemand weiss, aus welcher Wurzel er wächst" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138].
-
-
 
 Ein weiterer Aspekt von Odin ist der des Kriegs-und Totengottes. Nach
 jeder Schlacht wählen die Valküren aus den gefallenen Kriegern die
 Hälfte aus. Diese werden nach Valhalla gebracht. Dort werden sie sich
 jeden Morgen gegenseitig bekämpfen. Um anschliessend von Odin
 wiederbelebt zu werden um anschliessend gemeinsam in der goldenen Halle
-zu feiern. Die gefallenen Krieger werden in den Eddas Einherjer genannt ^[Die Götterlieder der Älteren Edda, das Wafthrudnirlied  Vr.41].
+zu feiern. Diese Krieger werden Einherjer genannt ^[Die Götterlieder der Älteren Edda, das Wafthrudnirlied  Vr.41].
+
+Odin besitzt zwei Raben, Huginn und Munnin. Diese Namen bedeuten übersetzt: "Der Gendanke" und "der sich errinnernde".
+Mit seinen zwei Raben erhält Odin Kunde aus Midgard
+
+> Huginn un Muninn überfliegt jeden Tag die gewaltige Erde;
+> ich sorge mich um Huginn, dass er nicht zurückkommt doch fürchte ich mehr um Munnin" ^[Die Götterlieder der Älteren Edda, Das Grimmnirlied Vr.20].
 
 Der Mittwoch wurde Odin gewidmet. Dies ist in der deutschen Sprache
 verlorengegangen, ist aber noch im englischen Wochentag
@@ -173,7 +186,7 @@ Wendesday(Wodendag) ersichtlich. ^[https://de.wikipedia.org/wiki/Odin "Stand 12.
 > der Fensalir heisst und besonders prächtig ist" ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.35].
 
 Frigga oder auch Frigg ist die Frau von Odin und eine Heilerin. Sie ist
-die Göttin des Haushaltes, der Kinder. Als eine der wenigen
+die Göttin des Haushaltes und der Kinder. Als eine der wenigen
 Götterfiguren, ist sie in der Lage in die Zukunft zu sehen. Jedoch
 spricht sie nie über das was sie sieht.
 
@@ -192,9 +205,9 @@ Frau Holle." ^[https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018].
 > "Nennen werde ich meinen Namen, auch wenn ich geächtet wär,
 > und mein ganzes Geschlecht: Ich bin Odins Sohn, Melis Bruder und Magnis Vater,
 > Der Kraftherr der Götter; mit Thor kannst du hier sprechen.
-> Das will ich jetzt fragen, wie du heisst" ^[Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9]
+> Das will ich jetzt fragen, wie du heisst" ^[Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9].
 
-Der Sohn von Odin und Gia(die Göttin der Erde über die wenig bekannt
+Der Sohn von Odin und Gia (die Göttin der Erde über die wenig bekannt
 ist) ist Thor. Er ist der stärkste der Asen und sehr kampferprobt. Er
 kämpft stetig gegen die Riesen, welche Asgard und Midgard bedrohen. In
 den Kampf zieht er oft mit seinem Streitwagen, der von seinen zwei
@@ -367,7 +380,7 @@ reiten auf ihrem Streitwagen, welcher von Wildkatzen gezogen wird, in
 die Schlacht. Ihr steht die zweite Hälfte der Gefallenen Kriegern zu.
 
 
-### }Freyr
+### Freyr
 
 > "Freyr ist der vornehmste under den Asen.
 > Er bestimmt über Regen und Sonnenschein und damit über
@@ -394,7 +407,7 @@ vom Namen in der Regel nicht viel mehr überliefert.
 > "Ein Schiff kommt vom Osten, es werden Muspells Leute 
 > übers Meer kommen, und Loki seuert;
 > alle wilden Burschen kommen mit dem Wolf;
-> Byleists Burder(Loki) bringen sie mit" ^[Die Götterlieder der Älteren Edda, Die Weissagung der Sehering Vr. 51]
+> Byleists Burder(Loki) bringen sie mit" ^[Die Götterlieder der Älteren Edda, Die Weissagung der Sehering Vr. 51].
 
 Das Ragnarök stellt das eine eines Zyklus dar. In der Mythologie wird das Ragnarök 
 als apokalytischer Kampf dargestellt in dem Midgard verzehrt und viele Götter sterben werden.
@@ -696,16 +709,16 @@ Diese Entscheidung zu treffen ist eine sehr schwierige Angelenheit.
 
 #### Gesellschaftliche Klassen
 Es wurden bereits die drei Gesellschaftlichen Klassen der Karls, Jarls und Thralls erwähnt.  
-History on the net erwähnt, dass diese drei sozialen Ränge uralt sind und ursprünglich vom Gott Rig oder Heimdall geschaffen wurden. Wahrscheinlich bezieht sich der Autor damit auf das Rigsmal.  
-Dabei handelt es sich um ein isländisches Götterlied welches die Stände erklärt, in dem Lied kommt Rig dabei dreimal auf die Erde und zeugt die einzelnen Stände.
-Das Lied wurde erst spät im 14. Jahrhundert niedergeschrieben, was seine Zuverlässigkeit bedeutend mindert.
-
-
-https://de.wikipedia.org/wiki/R%C3%ADgs%C3%BEula
+History on the net erwähnt, dass diese drei sozialen Ränge uralt sind und ursprünglich vom Gott Rig oder Heimdall geschaffen wurden. 
+Wahrscheinlich bezieht sich der Autor damit auf das Rigsmal.  
+Dabei handelt es sich um ein isländisches Götterlied welches die Stände erklärt, in dem Lied kommt Rig dabei dreimal auf die Erde 
+und zeugt die einzelnen Stände.
+Das Lied wurde erst spät im 14. Jahrhundert niedergeschrieben, was seine Zuverlässigkeit bedeutend mindert. ^[https://de.wikipedia.org/wiki/R%C3%ADgs%C3%BEula]
 
 ![History on the Net Viking society Nobles Freemen Slaves]
 
 ### Familienleben
+
 Die Familienleben und die Strukturen auf den Höfen und Dörfen ensprechen exakt den Strukturen, welche in den 
 Eddas beschrieben werden. Jede Familie besitzt einen Hof. Der Vater und die Mutter waren die Oberhäupter des Hofes. Die Knechte und Mägte 
 waren die Angestellten bzw. Sklaven, welche im Hof lebten. Genau diese Struktur spiegelt sich auch in den Geschichten über die Götter und Riesen wieder.
@@ -714,8 +727,7 @@ So beschreibt das Grimnirlied in "Die Götterlieder der Älteren Edda" von jedem
 > "Breidablik ist der siebte, aber dort hat Balder 
 > seine Halle errichtet,
 > auf dem Land wo ich liegen weiss
-> die wenigsten Fluchrunen"
-> ( Die Götterlieder der Älteren Edda, Das Grimmnirlied Vr. 12)
+> die wenigsten Fluchrunen" ^[Die Götterlieder der Älteren Edda, Das Grimmnirlied Vr. 12]
 
 In der Edda von Snorri Sturlunson wird auch beschrieben, dass Frigga Zofen hat bzw., dass Gewisse Götter höher gestellt sind als andere.
 Eine ähnliche Struktur ist ebenfalls in den Familienhöfen der Wikinger aufzufinden. 
@@ -742,8 +754,7 @@ Rolle einnnehmen musste, durch das Ausfüllen dieser aber auch angesehen und gee
 
 > "Am Abend soll man den Tag loben, die Frau wenn sie verbrannt ist,
 > das Schwert wenn's erprobt ist, das Mädchen wenn's geehelicht ist,
-> das Eis, wenn man hinüberkommt, das Bier wens getrunken ist"
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.81)
+> das Eis, wenn man hinüberkommt, das Bier wens getrunken ist" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.81].
 
 In diesem Vers soll man die Frau loben, wenn sie verbrannt wird, verbrannt im Sinne einer heidnischen Beisetzung, in der es üblich 
 war den toten Körper zu verbrennen. Man könnte darauf schliessen, dass die Frau also die gleiche Beisetzung erhalten hat wie der Mann.
@@ -762,8 +773,7 @@ der Götter ist nur eines der Beispiele die für dieses Bild sprechen.
 > "Der feige Mann glaubt immer zu leben,
 > wen er dem Kampf ausweicht;
 > doch das Alter gibt ihm keinen Frieden,
-> auch wenn ihn die Speere gewähren"
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.16)
+> auch wenn ihn die Speere gewähren" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.16].
 
 Feigheit war einer der Eigenschaften die als sehr unmänlich galt. Da auch der Mythos des Valhalls sehr in der Mythologie present war,
 könnte man annehmen das es eine grosse Ehre für einen Mann war im Kampf für seine Sache zu sterben. 
@@ -774,8 +784,7 @@ Ebenso gilt dies für den Aspekt der Gastfreundschaft, welche laut den Sprüchen
 > "Den Gebenden Heil! Der Gast ist hereingekommen,
 > wo soll er sitzen?
 > Sehr hastig ist, wer am Feuer 
-> seinen Nutzen sucht"
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.2)
+> seinen Nutzen sucht" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.2]
 
 
 #### Rollenverteilung
@@ -794,8 +803,7 @@ hatte. Wie hier in Lokis Spottrede in der Liederedda zu lesen ist:
 > "Schweig Freyja! Dich kenn ich ganz genau ,
 > dir fehlt kein Laster
 > von den Asen und Alben, die hier drinnen sind,
-> ist jeder dein Geliebter gewesen"
-> (Die Götterlieder der Älteren Edda, Lokis Spottrede Vr.30)
+> ist jeder dein Geliebter gewesen" ^[Die Götterlieder der Älteren Edda, Lokis Spottrede Vr.30]
 
 Jedoch sind auch Monogame Götter vertreten. Hier zu nennen wäre Thor welche Sif zur Frau nahm und ihr treu blieb. Man vermutet dass,
 Thor auch als Gott der Bauern und Knechte verrehrt wurde. Mann kann also Schlussfolgern das Polygamie in dieser Form in die Mythologie 
@@ -804,8 +812,7 @@ verwebt wurde. Da auch die beschriebene Lebensweise der Götter, jener der Mensc
 > "Das ist wenig schlimm, wenn sich Frauen einen Ehemann nehmen,
 > einen Geliebten oder beides;
 > es ist ein Wunder, das der unmännliche Ase hier hereingekommen ist,
-> der doch Kinder geboren hat"
-> (Die Götterlieder der Älteren Edda, Lokis Spottrede Vr.33)
+> der doch Kinder geboren hat" ^[Die Götterlieder der Älteren Edda, Lokis Spottrede Vr.33].
 
 Auch dieser Vers unterschtreicht unsere These das Polygamie verbreitet war. Auch könnnte man sogar schon weit intepretieren, dass
 die Frau selber entscheiden konnte wie sie ihre Sexualität auslebt. Dies würde auch dem selbestimmenden Frauenbild entsprechen,
@@ -815,17 +822,22 @@ welches wir erarbeitet haben.
 Es gibt keine Sagen in denen direkte gleichgeschlechtige Beziehungen erwähnt werden. In einigen Geschichten wird jedoch davon geschrieben, dass Anal-Sex als eine Art Rache auf eine Beleidigung betrieben wurde.  
 
 Loki ist bekannt als ein Gott der sein Geschlecht ändern kann. Er wird auch der Täuscher genannt und in einer Szene zeugt er mit einem Hengst ein Fohlen.  
-Odin wurde beschuldigt er sei unmännlich und habe unmännliche Aktivitäten betrieben, da er Frauenmagie betrieben hat. Es ist nicht ganz klar, was Frauenmagie so unmännlich macht. Die Vermutungen reichen von nicht ehrenwerten Vorteilen im Kampf bis zu sexuellen Praktiken mit anderen Männern.
-
-http://www.vikinganswerlady.com/gayvik.shtml
-
-https://en.wikipedia.org/wiki/LGBT_themes_in_mythology#European_mythologies
+Odin wurde beschuldigt er sei unmännlich und habe unmännliche Aktivitäten betrieben, da er Frauenmagie betrieben hat. 
+Es ist nicht ganz klar, was Frauenmagie so unmännlich macht. Die Vermutungen reichen von nicht ehrenwerten Vorteilen 
+im Kampf bis zu sexuellen Praktiken mit anderen Männern. ^[http://www.vikinganswerlady.com/gayvik.shtml] ^[https://en.wikipedia.org/wiki/LGBT_themes_in_mythology#European_mythologies]
 
 
 #### Schieldmaiden
-Die Existenz von Schieldmaiden, also Frauen in den Krieg gezogen sind ist umstritten, jedoch existieren dazu einige Sagen. Die Vǫlsunga Sage spricht von Brynhildr, einer Frau die den Kampf versteht und sich sehr mit dem Thema der Ehre beschäftigt.In der Sage Sage nimmt Brynhildr direkt an ihrem Ex-Mann Rache, was zum Tod der beiden und seines Sohnes führt. Diese Art der Rache zeigt, dass sie fähig war mit einem Mann zu kämpfen. Sie nimmt somit ebenfalls die Angelegnheit in ihre eigene Hand und überlässt sie niemand anderem.  
+Die Existenz von Schieldmaiden, also Frauen in den Krieg gezogen sind ist umstritten, 
+jedoch existieren dazu einige Sagen. Die Vǫlsunga Sage spricht von Brynhildr, einer Frau die den Kampf 
+versteht und sich sehr mit dem Thema der Ehre beschäftigt.In der Sage Sage nimmt Brynhildr direkt an ihrem Ex-Mann Rache, 
+was zum Tod der beiden und seines Sohnes führt. Diese Art der Rache zeigt, dass sie fähig war mit einem Mann zu kämpfen. 
+Sie nimmt somit ebenfalls die Angelegnheit in ihre eigene Hand und überlässt sie niemand anderem.  
 
-Es existieren einige Sagen zum Thema von kämpfenden Frauen und einige haben auch schon vor den Wikingern existiert. Jedoch sprechen nur wenige davon, wie Frauen aktiv in den Krieg ziehen, sondern viel mehr wie sie fähig sein mussten ihr Land und ihre Familie zu verteidigen. Es ist anzunehmen, dass die Sagen nicht der Ursprung für weibliche Kämpfer waren, sondern eher eine Erlaubnis, die ihnen das Kämpfen ermöglichte.
+Es existieren einige Sagen zum Thema von kämpfenden Frauen und einige haben auch schon vor den
+ Wikingern existiert. Jedoch sprechen nur wenige davon, wie Frauen aktiv in den Krieg ziehen, sondern viel 
+ mehr wie sie fähig sein mussten ihr Land und ihre Familie zu verteidigen. Es ist anzunehmen, dass die Sagen nicht der 
+ Ursprung für weibliche Kämpfer waren, sondern eher eine Erlaubnis, die ihnen das Kämpfen ermöglichte.
 
 https://en.wikipedia.org/wiki/Shield-maiden
 https://en.wikipedia.org/wiki/Hervarar_saga_ok_Hei%C3%B0reks
@@ -839,8 +851,7 @@ einen Schiff wird in den Eddas erwähnt. Auch das Errichten von Runensteinen war
 > "Ein Sohn ist besser, auch wen er spät geborn ist
 > nach dem verstorbenn Mann;
 > selten stehen Batasteine nah am Weg,
-> wen sie nicht der Verwandte dem Verwandten aufstellt"
-> (Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.72)
+> wen sie nicht der Verwandte dem Verwandten aufstellt"^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.72].
 
 Auch der Ruf eines Mannes und seine Ehre waren sehr wichtig für die Nordmänner. So wurden opulente Gräber, für diejenigen welche 
 es sich leisten konnten, errichtet. 
@@ -853,7 +864,7 @@ es sich leisten konnten, errichtet.
 > "Vieh stirbt, Verwante sterben,
 > man selbst stribt ebenso;
 > ich weis eines, das niemals stirbt;
-> das Urteil über jeden Toten" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.77]
+> das Urteil über jeden Toten" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.77].
 
 Es war wichtig die Toten korrekt zu begraben. Ihnen wurde beim Tod vieles mitgegeben. 
 Der Zweck der mitgegebenen Gegenstände ist, dass die Toten im Nachleben gut aufgenommen wurden. 
@@ -949,3 +960,8 @@ Die Götterlieder der Älteren Edda, Reclam
 
 [](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
 (https://www.history.com/news/how-did-the-vikings-honor-their-dead)
+
+Bildquellen:
+
+https://www.theodysseyonline.com/18-ways-the-disney-college-program-destroys-you
+https://de.wikipedia.org/wiki/Odin#/media/File:Odinskopf.JPG
