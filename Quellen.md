@@ -40,6 +40,7 @@
 [](https://www.historyonthenet.com/viking-law-and-government-the-thing/)
 
 Die Götterlieder der Älteren Edda, Reclam
+Die Edda Nordische Götter- und Heldensagen, Nikol-Verlag
 
 [](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
 (https://www.history.com/news/how-did-the-vikings-honor-their-dead)
