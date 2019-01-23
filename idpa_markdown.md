@@ -62,17 +62,14 @@ wobei beide Werke um das 13 Jahrhundert entstanden sind.
 Die Liederedda oder auch ältere Edda ist eine Sammlung von Lieder und
 Versen welche die Mythen beschreiben. Alle Texte in der Liederedda sind
 in der Skaldischen Dichtkunst verfasst 
-
 Wikipedia liefert hier eine gute und kurze Beschreibung:
 "Skaldische Dichtungen sind subjektiv gestaltete Kompositionen, die ihre
 Stoffe dem Leben und dem sozialen Umfeld ihres Dichters, des Skalden,
 entnehmen: sie sind situationsgebundene Gesellschaftsdichtung" ^[https://de.wikipedia.org/wiki/Skaldisch Stand 25.12.2018]
 
-Das zweite Buch die Edda des Snorri Sturluson, auch Snorris Edda
-genannt, ist ein Zusammenfassung der vieler einzelner Geschichten aus
+Das zweite Buch die Edda des Snorri Sturluson,ist ein Zusammenfassung der vieler einzelner Geschichten aus
 der Sagenwelt der Nordmänner. Auch die Skaldische Dichtkunst wird
 erklärt und mit vielen Beispielen illustriert.
-
 Der Verfasser Snorri Sturluson war ein christlicher Mönch der in Island
 um das 13te Jahrhundert gelebt hat. Zu dieser Zeit fand die
 Christianisierung von Europa statt. Snorris Anliegen mit seiner Edda war
@@ -80,7 +77,7 @@ es die skaldische Dichtkunst mit ihren Geschichten zu erhalten.
 
 ## Sagas
 
-Eine weitere jedoch viel kleinere Quelle sind die nordischen Legenden, auch Sagas gennant.
+Eine weitere Quelle sind die nordischen Legenden, auch Sagas gennant.
 Die Sagen sind in acht Kategorien unterteilt. Die König Sagas(Konungasögur), die Sagen der Icelander(Íslendinga sögur),
 die Kurzgeschichten der Isländer(Íslendingaþættir), die zeitgenösischen Sagas(Samtíðarsögur), die lengendären Sagas(Fornaldarsögur),
 die Rittersagen(Riddarasögur), die heiligen Sagen(Heilagra manna sögur) und zuletzt die Sagen der Bischöfe(Biskupa sögur).
@@ -89,20 +86,17 @@ legendären Sagen, die erzählten Geschichten recht realistisch sind ^[https://e
 
 Die Sakdinavische und die Isländische Kultur haben eine
 reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen, dass das Wissen der Nordmänner 
-mündlich überliefert worden ist.
-Sie haben es jedoch verstanden, dieses Wissen über Ereignisse, über grosse Könige und Helder oder auch das Wissen 
-ihrer Götter, in spannende Geschichten
-zu verpacken welche dann über Generationen weitererzählt werden. 
+mündlich überliefert worden ist. Sie haben es jedoch verstanden, dieses Wissen über Ereignisse, über grosse Könige und Helder, aber auch das Wissen 
+über ihre Götter, in spannende Geschichten zu verweben welche Generationen überdauerten.
 
 
 ## Die Sprüche des Hohen
 
 Dieses Lied aus der Liederedda unterscheidet sich grundlegend von allen anderen Texten oder Sagen. Normalerweise 
-wird eine Art Geschichte 
-erzählt, in diesem Fall sind es aber die direkten Worte von Odin an die Menschen. Sie beinhalten Lebensweisheiten 
-und Grundsätze welche vorteilhaft für den Menschen wären. Die Schrift dieses Liedes ist in der zweiten Hälfte 
+wird eine Art Geschichte  erzählt, in diesem Fall sind es aber die direkten Worte von Odin an die Menschen. 
+Sie beinhalten Lebensweisheiten und Grundsätze welche vorteilhaft für den Menschen wären. Die Schrift dieses Liedes ist in der zweiten Hälfte 
 des 13. Jahrhunderts entstanden und ist eine 
-scheinbar willkürliche Zusammenfassung von Strophen welche erwisenermassen einen
+scheinbar willkürliche Zusammenfassung von Strophen welche erwiesenermassen einen
 viel älteren Ursprung haben. Bei genauerer Betrachtung zeigt sich aber dass, die Sprüche des Hohen aus fünf 
 verschiedenen Teilen beseht:
 
@@ -118,8 +112,7 @@ Einblick in das tägliche Leben bietet.
 > "Nun sind die Sprüche des Hohen gesagt, in des Hohen Halle,
 > sehr nützlich den Söhnen der Menschen, unnütz den Söhnen der Riesen;
 > Heil dem, der sie sprach, Heil dem,der sie kennt!
-> Sie nutze, wer sie erlernte, Heil denen, die sie höhrten" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.164]
-
+> Sie nutze, wer sie erlernte, Heil denen, die sie höhrten" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.164].
 
 
 ##  Yggdrasil und die neun Welten
@@ -135,9 +128,12 @@ Interpretationen wo genau sich die Welten im Weltenbaum befinden. Einig
 sind sie sich jedoch, dass sich Midgard im Zentrum und Asgard in der
 Krone des Baumes befinden.
 
+![](yggdrasil.png)
+
+
 ## []{#anchor}Asen
 
-Die Asen, auch bekannt als Himmelsgötter, ist deijenige Götterfamilie über die
+Die Asen, auch bekannt als Himmelsgötter, ist diejenige Götterfamilie über die
 am meisten überliefert ist. Fast alle Geschichten in beiden Eddas
 handeln von den Himmelsgötter. Sie leben in der Welt von Asgard. Jede
 der Gottheiten besitzt in dort einen eigenen Ort oder eine Halle, wobei
@@ -161,9 +157,9 @@ hing um so das Wissen der Runen zu erlangen.
 
 > "Ich(Odin) weiss, das ich hing am windigen Baum(Yggdrasil) neun ganze
 > Nächte, vom Speer verwundet und Odin geopfert, selber mir selbst, an dem
-> Baum, von dem niemand weiss, aus welcher Wurzel er wächst" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138].
+> Baum, von dem niemand weiss, aus welcher Wurzel er wächst" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr. 138]
 
-Ein weiterer Aspekt von Odin ist der des Kriegs-und Totengottes. Nach
+Ein weiterer Aspekt von Odin ist der des Krieg-und Totengottes. Nach
 jeder Schlacht wählen die Valküren aus den gefallenen Kriegern die
 Hälfte aus. Diese werden nach Valhalla gebracht. Dort werden sie sich
 jeden Morgen gegenseitig bekämpfen. Um anschliessend von Odin
@@ -208,26 +204,15 @@ Frau Holle." ^[https://de.wikipedia.org/wiki/Frigg Stand 02.12.2018].
 > Das will ich jetzt fragen, wie du heisst" ^[Die Götterlieder der Älteren Edda, das Harbardlied, Vr.9].
 
 Der Sohn von Odin und Gia (die Göttin der Erde über die wenig bekannt
-ist) ist Thor. Er ist der stärkste der Asen und sehr kampferprobt. Er
-kämpft stetig gegen die Riesen, welche Asgard und Midgard bedrohen. In
-den Kampf zieht er oft mit seinem Streitwagen, der von seinen zwei
-Böcken, Tanngnjost und Tanngrisnir, gezogen wird. Auch die Aspekte von
-Kameradschaft und Gastfreundschaft werden durch Thor vertreten. Thor
-besitzt drei Gegenstände. Der Kraftgurt, welcher die Kraft von ihm um
-das doppelte erhöht. Ein eiserner Handschuh, welcher er benötigt um
-seine Waffe besser führen und seinen mächtigen Hammer Mjöllnir. Mjöllnir
-kehrt immer zu seinem Besitzer zurück und es werden ihm heilende
-Kräfte zugeschrieben. Bis heute ist Mjöllnir ein Schutzsymbol für
-heidnische Menschen.
+ist) ist Thor. Mit seinem mächtigen Hammer Mjöllnir kämpft er gegen stetig gegen die Riesen,
+welche die Menschen bedrohen. Aspekte wie Freundschaft, Gastfreundschaft, Stärke, Treue werden im zugesprochen.
+Bei den Nordmänner war Mjöllnir in Form eines Amuletes ein beliebtes Schutzsymbol welches bis heute überdauert hat.
 
 > Aber bei meiner Halle hast du einen Berg gesehen, darin waren drei
 > viereckige Täler, und eines war besonders tief; Das waren die Spuren
 > deiner Hammerschläge.^[(Die Edda des Snorri Sturluson, Gylfis Täuschung Vr. 47)]
 
-In der Liederedda wird immer wieder vermerkt, dass Thor eher ein Gott
-für das einfache Volk war. Wobei diese These umstritten ist da Odin oft
-in den Geschichten mit Thor aneinandergerät.
-
+Laut der Liederedda war Thor ein Gott für das einfache Volk bekannt.
 
 > "Ich (Odin verkleidet als Harbard) war in Walland und suchte Kämpfe, ich
 > hetzte Fürsten auf, aber versöhnte sie nie; Odin hat die Jarle, in der
@@ -242,16 +227,7 @@ Ebenfalls ist Thor auch der Namensgeber des Donnerstags oder Thursday.
 > Schande der Götter und Menschen nennen" ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.33]
 
 Loki ist neben Odin einer der komplexesten Charaktere der Mythologie. Es ist nicht klar wer seine Eltern sind,
-jedoch kann davon ausgegangen werden das Odin sein Vater ist. Er
-wird oft als böser Scharlatan und Missetäter beschrieben. Er arbeitet
-oft gegen die Götter, aber genau so oft auch für sie. Da Loki hat die Macht seine Form zu wandeln.
-Loki wird derjenige sein welcher das Ragnarök einleutet und kämpft am Ende gegen
-die Asen. Bei genauerer Betrachtung jedoch erscheint Loki nicht nur als
-böser hinterlistiger Charakter. Den nur durch eine List von Loki bei den
-Zwergen, erhielt Thor seinen Hammer, Odin seinen Speer und alle anderen
-magischen Gegenstände der Götter. Ebenfalls war Loki, der es wieder mit
-einer List möglich machte, dass Thor seinen Hammer zurück bekam, nachdem
-dieser von einem Riesen gestohlen wurde ^[Die Götterlieder der Älteren Edda, Das Thrymlied]. Viele Interpretationen gehen davon aus,
+jedoch kann davon ausgegangen werden das Odin sein Vater ist. Viele Interpretationen gehen davon aus,
 dass Loki für den Aspekt des Gleichgewichts steht. Jedes Licht wirft
 einen Schatten, nach diesem Schema scheint Loki zu agieren. Auch
 Elterliche Aspekte werden ihm zugesprochen. Da er so viele verschiedene
@@ -259,7 +235,8 @@ Kinder gebar. Einer seiner grössten Auftritte erhält Loki in Die
 Götterlieder der Älteren Edda im Lied: *Lokis Spottrede* oder im
 Original *Lokasenna* genannt. In diesem Lied rechnet Loki mit den Asen,
 welche ein Fest feiern, ab indem er alle beleidigt und den Götter ihre
-Schwächen und Fehler aufzeigt.
+Schwächen und Fehler aufzeigt. Loki wird oft als Missetäter oder Scharlatan dargestellt. Oft arbeitet auch für die Götter.^[Die Götterlieder der Älteren Edda, Das Thrymlied].
+Er ist auch derjenige der für den Erhalt der Magischen Gegenstände der Götter, verantwortlich ist. 
 
 ### Die Kinder Lokis
 
@@ -419,6 +396,9 @@ Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt w
 
 ## Religiöse Praxis 
 
+
+### Opfergaben
+
 Über die Religiöse Praxis der Nordmänner ist nur wenig genau bekannt. Das meiste Wissen stammt aus den Sagen und historischen Texten 
 oder aus archeologischen Funden. Bekannt ist das es Brauch war Opfergaben einer bestimmten Gottheit darzubieten. Geopfert wurden
 vor allem Nahrung oder Tiere. Jedoch ist immer wieder von Menschenopfer, in den Sagen und historischen Texten, die Rede.
@@ -433,12 +413,16 @@ die Menschen dazu. Das Opferritual wird Blot gennant ^[https://de.wikipedia.org/
 Auch gilt als Erwisen das die religiöse Praxis von Ort zu Ort verschieden ist, wobei es auch übergreifende Riten und Veranstaltungen gab,
 wie das obengennante Beispiel von Uppsala zeigt.
 
+
+### Trinkritual
 Eine weitere bekannte religiöse Praxis war das Trinken in der Runde aus einem Horn. Dieses Ritual wird Sumble gennant. Normalerweisse
 war der Gastgeber derjenige welcher das Ritual führte. 
 
 > "Jetzt wurde ihnen Bier zum Trinken gebracht. Viele Erinnerungsbecher für Verstorbene kreisten, 
 > und bei jedem Gedächtnistrunk sollte ein Horn geleert werden. Und während so der Abend hinging, wurden 
 > viele Mannen Ölvirs schwer auf den Füßen. Einige spien in den Saal, andere gingen vor die Tür." ^[Egils saga Kap. 44. Übersetzung Felix Niedner]
+
+Angestossen wurde oft auf die Götter, die Vorfahren oder dem den Gastgeber. 
 
 ### Gräber und Bestattungen
 
@@ -472,31 +456,28 @@ Daher findet man erst aus dieser Zeit viele Schriftstücke.
 
 Bild zu den Schriftzeichen der Nordmänner.
 Nur zwischen 9. und 11ten Jahrhundert verwendet.
+
+![](Younger_Futhark.png)
 Quelle: https://en.wikipedia.org/wiki/Younger_Futhark
 
 ## Gesellschaftliche Hierarchie
 Im frühen Zeitalter der Wikinger hatten noch keine Könige existiert.
 Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines Königs zentralisierte die Macht über das ganze Volk bei ihm.  
 Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
-Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.
-Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. 
-
-^[https://www.historyonthenet.com/viking-society-nobles-medieval-freemen-slaves "Stand 10.12.2018"]
-^[https://norse-mythology.org/viking-social-structure/ "Stand 10.12.2018"]
+Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.^[https://norse-mythology.org/viking-social-structure/ "Stand 10.12.2018"]
+Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. ^[https://www.historyonthenet.com/viking-society-nobles-medieval-freemen-slaves "Stand 10.12.2018"].
 
 ## Familienleben
+
 Im Zeitalter der Wikinger lebten die meisten Menschen auf 
 Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. 
 Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. Die Bewohner eines Bauernhofes 
-hielten sogar Haustiere.
+hielten sogar Haustiere. ^[https://www.historyonthenet.com/vikings-history-overview-culture-history-viking-age "Stand 7.12.2018"]
 
 Die Produkte, die man hergestellt hat waren sehr divers. Die Nordmänner züchteten verschiedenste Arten von Tieren und konnten 
 fast alles mögliche Gemüse anpflanzen. Die üblichsten Gemüse waren jedoch Kohl, Zwiebeln, Kresse und Erbsen. Honig war ein gutes 
 Süssungsmittel und Salz gewann man entweder selber aus Salzwasser oder es wurde durch den Handel importiert. Sie verarbeiteten sogar 
-Milch zu Käse und brauten Bier aus Gerste. Die Nordmänner hatten also definitiv keine Mühe damit diverses Essen auf den Tisch zu bringen.
-
-^[http://www.vikinganswerlady.com/food.shtml "Stand 7.12.2018"]
-^[https://www.historyonthenet.com/vikings-history-overview-culture-history-viking-age "Stand 7.12.2018"]
+Milch zu Käse und brauten Bier aus Gerste. Die Nordmänner hatten also definitiv keine Mühe damit diverses Essen auf den Tisch zu bringen.^[http://www.vikinganswerlady.com/food.shtml "Stand 7.12.2018"]
 
 Kinder mussten bereits sehr früh im Haushalt mitarbeiten. Es wurde von ihnen erwartet, dass sie ihren Teil zum Wohl der Gemeinschaft 
 beitragen. Genau so lernten sie allerdings auch, wie sie die Arbeiten zu verrichten hatten, die sie später am Leben erhielten. Kinder 
@@ -535,7 +516,7 @@ finanzielles Interesse an der Ehe der Kinder.
 Zum Punkte der Polygamie gibt es vieles zu sagen. Das Problem ist allerdings, dass nur 
 wenige Beweise dazu existieren. Das meiste was in diesem Absatz kommt ist also hauptsächlich Theorie aus verschiedenen Quellen.
 
-Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygamie war. Man vermutet, dass die Oberschicht 
+Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygame Kultur war. Man vermutet, dass die Oberschicht 
 bedeutend attraktiver für Frauen waren und somit die Männer häufig mehrere Frauen haben konnten. Dies habe auch zu einem 
 Frauendefizit geführt und habe entweder die Sklavenkultur bewirkt oder bedeutend verstärkt. In einzelnen Sagen wird jedoch 
 auch von Frauen berichtet, die mehrere Männer überlebten. 
@@ -592,13 +573,8 @@ jedem Thing wieder geändert werden konnten, galten Sitten über Generationen un
 
 ## Das Ständesystem
 
-## Gesellschaftlicher Klassen
-
-Auf den ersten Blick scheint die ganze Klassenstruktur sehr klar und abgegrenzt zu sein, 
-jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der 
-Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten 
-sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. 
-Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
+Im folgenden wird das Ständensystem beleuchtet. Diese Stände entwickelten sich aus den einzelnen Clans heraus. Auf der Grundlage
+dieses Systems bildeten sich die Wikingerkönigreiche aus.
 
 ### Thrall - Knecht
 
@@ -626,20 +602,13 @@ Er sorgte für die Sicherheit in seinem Gebiet wofür er einen Tribut von den Ba
 von östergötland einen Drittel des gesamten Tributes der Insel Gotland erhielt. Das entsprach der selben Menge, die auch der König 
 erhielt. Der Titel des Jarls wurde vererbt oder vom König vergeben.^[https://de.wikipedia.org/wiki/Jarl "Stand 22.01.2019"]
 
+### Auf und Abstieg innerhalb der Stände
 
-### Frauen
-
-Männer hatten das Recht zu fast allem, wobei die einzige Ausnahme der Dienst für weibliche Götter ist. 
-Ihre Aufgabe bestand darin sich um Haus und Hof zu kümmern. 
-Jedoch wurde ihnen auch gewisse Privilegien zugesprochen. So durften sie bei der Wahl ihres Gatten mitbestimmen, das 
-Familienoberhaupt hatte aber immer das letzte Wort.
-Auch durften sie sich, wenn sie von ihrem Ehemann schlecht behandelt wurde, von ihm scheiden lassen ohne dass ihr 
-Gesellschaftlicher Ruf zu Schaden kam.
-Frauen hingegen hatten bedeutend mehr Rechte als in den anderen Kulturen, sie waren so gut wie gleich gestellt zu den Männern.
-Die Männer hatten das Sagen im Haus, Frauen konnten es allerdings verwalten während ihr Mann fort war und man konnte 
-ihnen dieses Recht auch nicht entziehen.
-Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsfällen vertreten und konnten Geschäfte führen.
-
+Auf den ersten Blick scheint die ganze Klassenstruktur sehr klar und abgegrenzt zu sein, 
+jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Königen aufsteigen. Wenn jemand der 
+Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten 
+sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. 
+Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
 
 ## Das Recht
 
@@ -652,6 +621,18 @@ Der Verursacher hatte so die Option den Schaden mit
 Zahlungen (Nahrungsmittel, Gebrauchsgegenstände, Arbeitsleistungen, Geld) auszugleichen.
 Ansonsten blieb dem Geschädigten noch die Option seinen Konkurrenten beim nächsten Thing anzuklagen
 
+## Frauen
+
+Männer hatten das Recht zu fast allem, wobei die einzige Ausnahme der Dienst für weibliche Götter ist. 
+Ihre Aufgabe bestand darin sich um Haus und Hof zu kümmern. 
+Jedoch wurde ihnen auch gewisse Privilegien zugesprochen. So durften sie bei der Wahl ihres Gatten mitbestimmen, das 
+Familienoberhaupt hatte aber immer das letzte Wort.
+Auch durften sie sich, wenn sie von ihrem Ehemann schlecht behandelt wurde, von ihm scheiden lassen ohne dass ihr 
+Gesellschaftlicher Ruf zu Schaden kam.
+Frauen hingegen hatten bedeutend mehr Rechte als in den anderen Kulturen, sie waren so gut wie gleich gestellt zu den Männern.
+Die Männer hatten das Sagen im Haus, Frauen konnten es allerdings verwalten während ihr Mann fort war und man konnte 
+ihnen dieses Recht auch nicht entziehen.
+Sie durften alleine wohnen, sie hatten Besitz, konnten sich selber in Gerichtsfällen vertreten und konnten Geschäfte führen.
 
 ### Sitte - Sittenrecht
 
@@ -701,25 +682,28 @@ damit die Berserker das gewünschte "gewinnen" konnten.^[https://en.wikipedia.or
 # Kontextualisierung
 
 Wie bereits im Teil der literarischen Quellen erwähnt wurde, haben die Wikinger nur sehr wenig 
-aufgeschrieben und waren in der Regel auch Analphabeten. Die meisten Werke entstanden erst nach der Zeit 
+aufgeschrieben und waren in der Regel auch Analphabeten. Die meisten Werke entstanden erst nach der Christianisierung
 der Wikinger, daher werden auch viele dieser Art erwähnt werden. Wissenschaftlern ist nicht klar welche 
-dieser Werke neumodisch waren und welche ihre Wurzeln bereits in den Anfängen des Wikingertums hatten. 
+dieser Werke neumodisch waren und welche ihre Wurzeln bereits seit den Anfängen der Nordmänner vorhanden waren. 
 Diese Entscheidung zu treffen ist eine sehr schwierige Angelenheit.
 
-
 ## Sozialstrukur
+Im folgenden Kapitel wird auf die einzelnen Themen der Sozialstruktur der Nordmänner eingeganen.
 
-### Gesellschaftliche Hierarchie
+### Kastensystem
 
-#### Gesellschaftliche Klassen
-Es wurden bereits die drei Gesellschaftlichen Klassen der Karls, Jarls und Thralls erwähnt.  
-History on the net erwähnt, dass diese drei sozialen Ränge uralt sind und ursprünglich vom Gott Rig oder Heimdall geschaffen wurden. 
-Wahrscheinlich bezieht sich der Autor damit auf das Rigsmal.  
-Dabei handelt es sich um ein isländisches Götterlied welches die Stände erklärt, in dem Lied kommt Rig dabei dreimal auf die Erde 
-und zeugt die einzelnen Stände.
-Das Lied wurde erst spät im 14. Jahrhundert niedergeschrieben, was seine Zuverlässigkeit bedeutend mindert. ^[https://de.wikipedia.org/wiki/R%C3%ADgs%C3%BEula]
+Im Rigsmal  oder auch "Merkgedicht von Rig" gennant, wird erklährt wie der Ase Heimdall unter dem Alias Rig, drei Kinder zeugte. 
+Das erste hiess Thrall und wurde als Knecht geboren, das zweite hiess Karl und wurde als Bauer geboren, 
+das dritte hiess Jarl und wurde ein Herrscher und Gelehrter. So gesehen deutet alles auf eine, eng in die damalige 
+Mythologie eingebundene, Struktur hin. Das wird jedoch angezweifelt, da die beschriebenen Zustände auf einen späteren 
+Zeitraum hindeuten. Es wird vermutet, dass das Lied von Rig nicht viel älter als seine Niederschrift im 14. Jahrhundert 
+ist und als nachträgliche Erklärung und Legitimation dienen sollte
 
-![History on the Net Viking society Nobles Freemen Slaves]
+-- Zitat: Sie (Thrall und Thyr) lebten knapp und zeugten Kinder, [...] Von ihnen entsprang der Knechte Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13)
+-- Zitat: Sie (Karl und Snör) zeugten Kinder und zogen sie froh: [...] Von den beiden entsprang der Bauern Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22)
+-- Zitat: 
+
+!!!TODO SILVAN ZITATZ ERGÄNNZEN Jarl !!!!
 
 ### Familienleben
 
@@ -731,10 +715,10 @@ So beschreibt das Grimnirlied in "Die Götterlieder der Älteren Edda" von jedem
 > "Breidablik ist der siebte, aber dort hat Balder 
 > seine Halle errichtet,
 > auf dem Land wo ich liegen weiss
-> die wenigsten Fluchrunen" ^[Die Götterlieder der Älteren Edda, Das Grimmnirlied Vr. 12]
+> die wenigsten Fluchrunen" ^[Die Götterlieder der Älteren Edda, Das Grimmnirlied Vr. 12].
 
 In der Edda von Snorri Sturlunson wird auch beschrieben, dass Frigga Zofen hat bzw., dass Gewisse Götter höher gestellt sind als andere.
-Eine ähnliche Struktur ist ebenfalls in den Familienhöfen der Wikinger aufzufinden. 
+Eine ähnliche Struktur ist ebenfalls in den Familienhöfen der Nordmänner aufzufinden. 
 
 Der zeitliche Urpsrung des Grimmnirlieds wird auf das achte Jahrhundert geschätzt. Man kann also davon ausgehen, dass diese Familienstruktur schon 
 zu früheren Zeiten in der nordischen Lebensweise verankert ist.
@@ -745,14 +729,22 @@ er zum Essen einlud sagte, dass er die Knochen der Böcke nicht knacken und auss
 aber nicht und nachdem Thor mit seinem Hammer Mjöllnir die Böcke wiederbelebt hatte und einer seiner Böcke humpelte, wurde Thor sehr wütend.
 Die kleine Bauernfamilie weckte aber sein Mitleid und er nahm die beiden Kinder als Knechte mit um die Schuld des Bauerns abzutragen.
 
-#### Frauen und Männerbild
+^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.44 Seite 55].
 
-##### Frau
+## Frauen und Männerbild
+
+Im folgenden wird auf die Rolle der Frau und des Manes eingegangen.
+
+### Frau
+
 Da nicht viel über die Asinnen und Vanninen, mit der Ausnahme von Freyja und Frigga, bekannt ist, wird an dieser Stelle versucht die 
-Aspekte dieser Göttinen in Kontext zur Rolle der Frau zu setzen. Frigga, welche die Aspekte des Haushalts und der Kinder unter sich vereint,
+Aspekte dieser Göttinen in Kontext zur Rolle der Frau zu setzen. Frigga, welche die Aspekte des Haushalts und der Kinder unter sich 
+vereint,
 entspricht auch sehr der Rolle der Hausherrin auf einem Hof. Auch dass Frigga das Schicksal von Personen und Göttern sehen kann, 
-enspricht der weisen Voraussicht, welche eine gute Hofherrin dazumal besitzen musste. Freyja, welche den Aspekt der Weiblichkeit, Ehe und der 
-Sexualität in sich verreint, stellte eigentlich die Perfekte Lady dar. Dies zeigt sich schon im Namen, da Freyja übersetzt Lady oder Herrin bedeutet.
+enspricht der weisen Voraussicht, welche eine gute Hofherrin dazumal besitzen musste. Freyja, welche den Aspekt der Weiblichkeit, 
+Ehe und der 
+Sexualität in sich verreint, stellte den Archetypen einer Könnigin dar. Dies zeigt sich schon im Namen, da Freyja übersetzt Lady oder 
+Herrin bedeutet.
 Auch der hohe Stellenwert dieser Göttin in den Kreisen der Gesellschaft zeigt den Wert, den die Frau in dieser Zeit hatte. Dass sie zwar ihre
 Rolle einnnehmen musste, durch das Ausfüllen dieser aber auch angesehen und geehrt wurde. 
 
@@ -770,14 +762,15 @@ junge Frau solange als Mädchen galt, bis sie geehelicht wurde. Dies wird ein gr
 da sie, je nach Stand innerhalb ihrer Sippe, viel Verwantwortung übernehmen musste. Man könnte auch die Aussage, dass innerhalb der 
 Gesellschaft die Frau sehr wertgeschätzt wurde, ableiten.
 
-##### Mann
+### Mann
+
 Die Rolle des Mannes als Beschützer und Oberhaupt der Familie, ist auch in der Mythologie stark verankert. Odin als Allfather und Oberhaupt
 der Götter ist nur eines der Beispiele die für dieses Bild sprechen. 
 
 > "Der feige Mann glaubt immer zu leben,
 > wen er dem Kampf ausweicht;
 > doch das Alter gibt ihm keinen Frieden,
-> auch wenn ihn die Speere gewähren" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.16].
+> auch wenn ihn die Speere gewähren" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.16]
 
 Feigheit war einer der Eigenschaften die als sehr unmänlich galt. Da auch der Mythos des Valhalls sehr in der Mythologie present war,
 könnte man annehmen das es eine grosse Ehre für einen Mann war im Kampf für seine Sache zu sterben. 
@@ -791,14 +784,15 @@ Ebenso gilt dies für den Aspekt der Gastfreundschaft, welche laut den Sprüchen
 > seinen Nutzen sucht" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.2]
 
 
-#### Rollenverteilung
+### Rollenverteilung
 http://www.hurstwic.org/history/articles/society/text/women.htm
 
 Viele Sagen zu den Rechten von Frauen referenziert, von Verletzung bis Belästigung. Eigenständigkeit wird referenziert. 
 
-#### Sonstige Rechte
 
-#### Polygamie / Monogamie
+
+### Polygamie / Monogamie
+
 Da laut unseren Recherchen Polygamie eher in den höheren Geselschaftsschichten vorgekommen, wäre die offensichtliche Verbindung zu Mythologie
 bei den höhergestellten Götterfiguren zu suchen. In der Tat wären hier Odin und Freyja zu nennen. Aber genau so Loki. Odin welcher mit vielen
 verschiedenen Figuren Kinder zeugte. Freyja welcher zwar recht abweisend in der Mythologie erscheint aber doch wechselnde Partner
@@ -822,16 +816,19 @@ Auch dieser Vers unterschtreicht unsere These das Polygamie verbreitet war. Auch
 die Frau selber entscheiden konnte wie sie ihre Sexualität auslebt. Dies würde auch dem selbestimmenden Frauenbild entsprechen,
 welches wir erarbeitet haben.
 
-#### Homosexualität
-Es gibt keine Sagen in denen direkte gleichgeschlechtige Beziehungen erwähnt werden. In einigen Geschichten wird jedoch davon geschrieben, dass Anal-Sex als eine Art Rache auf eine Beleidigung betrieben wurde.  
+### Homosexualität
 
-Loki ist bekannt als ein Gott der sein Geschlecht ändern kann. Er wird auch der Täuscher genannt und in einer Szene zeugt er mit einem Hengst ein Fohlen.  
+Es gibt keine Sagen in denen direkte gleichgeschlechtige Beziehungen erwähnt werden. 
+In einigen Geschichten wird jedoch davon geschrieben, dass Anal-Sex als eine Art Rache auf eine Beleidigung betrieben wurde.  
+Loki ist bekannt als ein Gott der sein Geschlecht ändern kann. Er wird auch der Täuscher genannt und in einer Szene zeugt er 
+mit einem Hengst ein Fohlen.  
 Odin wurde beschuldigt er sei unmännlich und habe unmännliche Aktivitäten betrieben, da er Frauenmagie betrieben hat. 
 Es ist nicht ganz klar, was Frauenmagie so unmännlich macht. Die Vermutungen reichen von nicht ehrenwerten Vorteilen 
 im Kampf bis zu sexuellen Praktiken mit anderen Männern. ^[http://www.vikinganswerlady.com/gayvik.shtml] ^[https://en.wikipedia.org/wiki/LGBT_themes_in_mythology#European_mythologies]
 
 
-#### Schieldmaiden
+### Schieldmaiden
+
 Die Existenz von Schieldmaiden, also Frauen in den Krieg gezogen sind ist umstritten, 
 jedoch existieren dazu einige Sagen. Die Vǫlsunga Sage spricht von Brynhildr, einer Frau die den Kampf 
 versteht und sich sehr mit dem Thema der Ehre beschäftigt.In der Sage Sage nimmt Brynhildr direkt an ihrem Ex-Mann Rache, 
@@ -839,18 +836,40 @@ was zum Tod der beiden und seines Sohnes führt. Diese Art der Rache zeigt, dass
 Sie nimmt somit ebenfalls die Angelegnheit in ihre eigene Hand und überlässt sie niemand anderem.  
 
 Es existieren einige Sagen zum Thema von kämpfenden Frauen und einige haben auch schon vor den
- Wikingern existiert. Jedoch sprechen nur wenige davon, wie Frauen aktiv in den Krieg ziehen, sondern viel 
- mehr wie sie fähig sein mussten ihr Land und ihre Familie zu verteidigen. Es ist anzunehmen, dass die Sagen nicht der 
- Ursprung für weibliche Kämpfer waren, sondern eher eine Erlaubnis, die ihnen das Kämpfen ermöglichte.
-
+Wikingern existiert. Jedoch sprechen nur wenige davon, wie Frauen aktiv in den Krieg ziehen, sondern viel 
+mehr wie sie fähig sein mussten ihr Land und ihre Familie zu verteidigen. Es ist anzunehmen, dass die Sagen nicht der 
+Ursprung für weibliche Kämpfer waren, sondern eher eine Erlaubnis, die ihnen das Kämpfen ermöglichte.
+!!!TODO fussnoten platzieren @michael!!!
 https://en.wikipedia.org/wiki/Shield-maiden
 https://en.wikipedia.org/wiki/Hervarar_saga_ok_Hei%C3%B0reks
 https://en.wikipedia.org/wiki/Gesta_Danorum
 
-### Gräber
-Da nicht sehr viel über die religiöse Praxis der Nordmänner bekannt ist kann nur wage darüber spekuliert werden
-warum Grabbeigaben getätigt wurden. Jedoch das kremieren wird immer wieder mal erwähnt. Ebenfalls das Verbrennen eines Leichnames auf 
-einen Schiff wird in den Eddas erwähnt. Auch das Errichten von Runensteinen war eine gängige Praxis welche auch beschrieben wird.
+### Handel
+Es gibt keine ausreichenden Indizien, die eine Verbindung der Handelsaktivität mit der 
+Mythologie der Nordmänner erschliessen lässt.
+
+### Kriegszüge und Expeditionen
+
+Die Liste der Kriegszüge, welche in den Eddas und vor allem in den Sagas vorkommen ist lang. Auch der Aspekt des Kämpfer 
+war gern bei einem Mann gesehen. Diese kriegerische Haltung könnt vom Glauben an Valhalla herrühren. Ein Kämpfer welcher
+sich im Kampf bewährt hatt und fällt, wird die grösste Ehre zu teil. Im ist es nun gestattet an Odins Tafel zu speisen und
+für ihn am Raganrök zu kämpfen. 
+
+Ihre Drang zur Erkundung und Expansion rührt daher das ihre Heimat sehr karg und rau ist. Sich besseres und neues Land zu 
+suchen schien ihnen wahrscheidlich logisch. Aber auch die die Sprüche des Hohen fordern dazu auf in die Welt hinauszugehen
+und zu endecken. 
+
+> "Der allein weiss, der weit wander und viel umhergezogen ist, 
+> welchen Sinn jeder Mann hatder, welcher selbst Verstand besitzt" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr 18].
+
+### Begrabungsriten
+
+Nicht sehr viel ist über die religiöse Praxis der Nordmänner bekannt. Bekannt ist jedoch wie sie ihre Toten 
+bestatteten. Das kremieren auf einem Schiff wird auch in den Eddas erwähnt. Baldurs Körper wird auf solch einem Schiff kremiert.
+Auch das Errichten von Runensteinen war eine gängige Praxis welche auch beschrieben wird. 
+Das errichten von opulenten Gräbern wird in den Eddas nicht erwähnt. Warum genau die Kremation in der Mythologie 
+bevorzugt wurde ist uns nicht bekannt. 
+Auch das Errichten von Runensteinen, auch Batasteine, gennant war gänig.
 
 > "Ein Sohn ist besser, auch wen er spät geborn ist
 > nach dem verstorbenn Mann;
@@ -863,7 +882,7 @@ es sich leisten konnten, errichtet.
 > "Vieh stirbt, Verwante sterben,
 > man selbst stribt ebenso;
 > aber der ruf stirbt niemals dem,
-> der sich guten erwirbt" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.76]
+> der sich guten erwirbt" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.76].
  
 > "Vieh stirbt, Verwante sterben,
 > man selbst stribt ebenso;
@@ -875,97 +894,64 @@ Der Zweck der mitgegebenen Gegenstände ist, dass die Toten im Nachleben gut auf
 Es war im allgemeinen Bewusstsein, dass die Kastengesellschaft im Nachleben weitergeführt wird, 
 somit ist es wichtig, dass die Toten ihren Platz in der richtigen Kaste finden konnten. ^[https://en.wikipedia.org/wiki/Norse_funeral#Grave_goods] ^[https://en.wikipedia.org/wiki/Norse_funeral#Rituals]
 
+
+# Gesetz und Sitte 
+
+Im folgenden wird auf die Sitten und das Rechtssytem der Nordmänner eingegangen
+
 ## Sitte
 Da die Sitten das Leben der Nordmänner steuerten, gab es eine grosse Anzahl von ihnen. 
 Da sie diese Sitten nie aufschrieben und nur mündlich überlieferten, gibt es heute diverse Versionen mit 
 derselben Aussage. Dass die Normänner in ihren Sitten stark von ihrer Mythologie gelenkt werden, 
 lässt sich daraus schliessen, dass viele dieser Sitten im Havamal vorgetragen werden. Havamal "Das Lied des Hohen" 
-ist eine Gedicht-Sammlung in der älteren Edda, in der Odin den Menschen seinen Rat gibt, wie man ein ehrenwertes Leben führt.
-
-
-## Kastensystem
-Im Rigsmal  oder auch "Merkgedicht von Rig" gennant, wird erklährt wie der Ase Heimdall unter dem Alias Rig, drei Kinder zeugte. 
-Das erste hiess Thrall und wurde als Knecht geboren, das zweite hiess Karl und wurde als Bauer geboren, 
-das dritte hiess Jarl und wurde ein Herrscher und Gelehrter. So gesehen deutet alles auf eine, eng in die damalige 
-Mythologie eingebundene, Struktur hin. Das wird jedoch angezweifelt, da die beschriebenen Zustände auf einen späteren 
-Zeitraum hindeuten. Es wird vermutet, dass das Lied von Rig nicht viel älter als seine Niederschrift im 14. Jahrhundert 
-ist und als nachträgliche Erklärung und Legitimation dienen sollte.
-Da die Sitten das Leben der Nordmänner steuerten, gab es eine grosse Anzahl von ihnen. Diese Sitten wuden jedoch nie aufschrieben und nur mündlich überlieferten, weshalb es heute diverse Versionen mit derselben Aussage gibt. Das die Normänner in ihren Sitten stark von ihrer Mythologie gelenkt werden, lässt sich daraus schliessen, dass viele dieser Sitten im Havamal vorgetragen werden. Havamal "Das Lied des Hohen" ist eine Gedicht-Sammlung in der älteren Edda, in der Odin den Menschen seinen Rat gibt, wie man ein ehrenwertes Leben führt.
-Das war den Nordmännern besonders wichtig, da selbst nach ihrem Tod, ihre und die Ehre ihrer Familien weiterbestehen bleibt.
-!!!GENAU DE GLICHI VERS WO I OBE SCHO MOL BRUCHT HAN!!!!!!!-- Zitat: Das Vieh stirbt, die Freunde sterben, Endlich stirbt man selbst; Doch eines weiss ich, dass immer bleibt: Das Urteil über den Toten. (Die ältere Edda - Göttersage, Havamal Vr. 76) 
-
-## Kastensystem
-Das Kastensystem war seit der Anfangszeit der Nordmänner existent. Im Rigsmal "Lied von Rig" wird erklährt wie der Ase Heimdall 
-unter dem Alias Rig, drei Kinder zeugte. Das erste hiess Thrall und wurde als Knecht geboren, das zweite hiess Karl und wurde als
-Bauer geboren, das dritte hiess Jarl und wurde ein Herrscher und Gelehrter. So gesehen deutet alles auf eine, eng in die damalige 
-Mythologie eingebundene, Struktur hin. Das wird jedoch angezweifelt, da die beschriebenen Zustände auf einen späteren Zeitraum hindeuten. Es wird vermutet, dass das Lied von Rig nicht viel älter als seine Niederschrift im 14. Jahrhundert ist und als nachträgliche Erklärung und Legitimation dienen sollte.
--- Zitat: Sie (Thrall und Thyr) lebten knapp und zeugten Kinder, [...] Von ihnen entsprang der Knechte Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13)
--- Zitat: Sie (Karl und Snör) zeugten Kinder und zogen sie froh: [...] Von den beiden entsprang der Bauern Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22)
--- Zitat: 
-
+ist eine Gedicht-Sammlung in der älteren Edda, in der Odin den Menschen seinen Rat gibt, wie man ein ehrenwertes 
+Leben führt.
 
 ## Recht
 Wenn Recht gesprochen wurde, wurde oft der Gott Tyr angerufen. Ihm ist auch das Thing geweit. 
 Tyr galt als Gott der Gerechtigkeit und man sagte, dass er den Rechtschaffenen unterstützte. 
-abgesehen davon gibt es beim damals gültigen Rechtssystem und den Gesetzen keine Hinweise auf eine Verbindung mit der Mythologie. 
+Das Thing welches abgehlaten wurde um Recht zu sprechen und Streit zu schlichten, wird ebenfalls in der Mythologie der Götter 
+genau so abgehalten. ^[Die Edda des Snorri Sturluson, Gylfis Täuschung Vr.15]
+Aber konkrekte Gesetzte nach welchen die Menschen sich zu richten haben werden keine gennant.
 
 ## Holmgang
-Wie bei der Rechtssprechung wurden zu Beginn eines Holmgangs die Götter angerufen. 
+Wie beim Thing wurden zu Beginn eines Holmgangs die Götter angerufen. 
 Vermutlich ebenfalls Tyr. Es ist jedoch anzunehmen, dass es sich um eine rein 
 formale Aktivität, ohne grossen symbolischen Wert handelte.
+Eine Refenrez auf den Holmgang ist in der Edda von Sorri Sturluson( Seite 109 ) zu finden. In der Geschichte wird Thor von
+einem Risen auf einen Zweikampf herausgefordert. Abgesprochene Zweikämpfe werden sehr selten in der Mythologie erwähnt, aber 
+sie wurden nie abgelehnt. Auch der Missbrauch dieser Sitte seitens der Berserker zeigt aber auch eine sehr gewaltätige Seite, im 
+Brauchttum der Nordmänner.
 
-Wie bei der Rechtssprechung wurden zu Beginn eines Holmgangs die Götter angerufen. Vermutlich ebenfalls Tyr. 
-Es ist jedoch anzunehmen, dass es sich um eine rein formale Aktivität, ohne grossen symbolischen Wert handelte.
-(Holmgang in Snorri Edda erwähnt: Thor gegen Hrungnir ,59, Seite 319)
+> "Da ging Gyda zu Egill und sprach: 
+> Ich werde dir mitteilen Egil, wie es hier mit uns steht. 
+> Ein Mann heißt Ljot der Bleiche. Er ist Berserker und Holmgangsmann. 
+> Kein Mensch liebt ihn. Er kam hierher und freite meine Tochter, wir aber 
+> antworteten kurz und weigerten die Verlobung. Darauf forderte er Fridgeir, 
+> meinen Sohn, zum Holmgang heraus.‘ […] Jetzt kam Ljot mit seinem Gefolge dorthin. 
+> Er rüstete sich zum Zweikampf. Er trug Schild und Schwert. Ljot war ein sehr starker und kräftiger Mann. 
+> Als er nun auf dem Platze um Holmgange vortrat, kam die Berserkerwut über ihn. Er fing an, bösartig zu heulen 
+> und biss in seinen Schild." ^[Egils saga Kap. 1 übersetzt von Felix Niedner.].
 
-## Handel
-Es gibt keine ausreichenden Indizien, die eine Verbindung der Handelsaktivität mit der 
-Mythologie der Nordmänner erschliessen lässt.
+Diese Textstelle sugeriert auch das es möglich war sich in einem Holmgang vertreten zu lassen. Auch die Geschichte in der Thor 
+herausgefordert wurde wird, von der Seite des Riesen mit einem Stellvertreter besetzt. 
 
+> es brüllten die Berserker,
+> der Kampf kam in Gang
+> es heulten die Wolfpelze
+> und schüttelten die Eisen ^[Finnur Jónsson (Hrsg.): Den Norsk-Islandske Skjaldedigting B: Rettet Tekst I. 1912 (Nachdruck Rosenkilde og Bagger, Kopenhagen 1973), S. 22–25; hier S. 23.)].
 
-[]{#anchor-1}Quellen
---------------------
+## Fazit 
 
+Eine Antwort auf unsere Frage, wie sich das Leben der Nordmänner und ihre Mythologie gegenseitig beinflusst haben, war nicht 
+einfach zu erarbeiten. Selbst jetzt nach einem halben Jahr Recherche gibt es noch viele Punkte die wir nicht klären konnten, 
+ohne den vorgegebenen Zeitrahmen weit zu überschreiten. Wir konnten aber genug Informationen zusammentragen um eine valide 
+Antwort geben zu können. Wir sind uns einig, das die Nordmänner ihre Mythologie ihrem Leben entsprechend geformt haben. 
+Dies muss nicht unbedingt willentlich geschehen sein, sondern wahr eher eine Folge dessen, das sie ihre Sitten nicht aufschrieben, 
+sondern aus dem Gedächtnis rezitierten und mündlich vortrugen. So änderten sich Geschichten im Verlaufe der Zeit und wurden den 
+Umständen angepasst, oder wurden in einem anderen Kontext wiedergegeben. Als Beispiel kann man das Lied von Loddfafnir bringen, 
+welches sehr wahrscheinlich ein eigenständiges Lied war, bevor es in das Havamal eingegliedert wurde. 
+Jedoch ist es unbestritten, das die Nordmänner sich von ihren Göttersagen beeinflussen und leiten liessen. Ihre Götter waren 
+Vorbilder und hatten guten Rat auf die wichtigsten Fragen im Leben. Dazu kommt noch, das die Nordmänner fest an diese 
+Geschichten glaubten und ihnen einen hohen Wert zurechneten. Ansonsten wären sie heute nicht in diesem Masse auffindbar.
 
-[https://de.wikipedia.org/wiki/Odin "Stand 12.11.2018"]
-[https://de.wikipedia.org/wiki/Wikingerzeit#Soziale_Regeln]
-[](https://de.wikipedia.org/wiki/Holmgang)
-[](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
-[](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
-[](https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html)
-[](http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html)
-[](https://www.historyonthenet.com/viking-law-and-government-the-thing/)
-[](http://www.viking.no/e/life/elaws.htm)
-[](http://www.bbc.co.uk/schools/primaryhistory/vikings/viking_settlements/)
-[](https://en.wikipedia.org/wiki/Trade_during_the_Viking_Age)
-[](https://www.historyonthenet.com/vikings-as-traders)
-[](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/trade-in-the-viking-period/)
-[](https://www.thoughtco.com/viking-trading-and-exchange-networks-173147)
-[](https://www.history.com/news/6-viking-leaders-you-should-know)
-
-[](https://de.wikipedia.org/wiki/Tyr "Stand 25.12.2018")
-[](a.org/wiki/Nordgermanische_Religion#Eisenzeit "Stand 20.01.2018")
-[](https://www.reclam.de/data/media/978-3-15-000782-2.pdf "Stand 08.01.2019" )
-[](https://en.wikipedia.org/wiki/Vikings "Stand 08.10.2018" )
-[](https://books.google.ch/books?id=FOBNoEZR6mwC&pg=PA13&lpg=PA13&dq=gesetze+wikinger&source=bl&ots=P2vuVsxW_L&sig=f_k_ffZ2hGiYyOODpLgG-xJdDxY&hl=de&sa=X&ved=2ahUKEwjF8IWKtNffAhUPZVAKHQwvCR8Q6AEwCnoECAcQAQ#v=onepage&q=gesetze%20wikinger&f=false)
-[](https://en.wikipedia.org/wiki/Medieval_Scandinavian_law)
-
-[](https://www.planet-wissen.de/kultur/voelker/wikinger/pwiediegesellschaftderwikinger100.html)
-[](http://www.geschichteinchronologie.ch/natur/baum/baum-Linde-sommerlinde-winterlinde.html)
-[](http://www.viking.no/e/life/elaws.htm)
-[](http://www.bbc.co.uk/schools/primaryhistory/vikings/viking_settlements)
-[](https://en.wikipedia.org/wiki/Trade_during_the_Viking_Age)
-[](https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/trade-in-the-viking-period/)
-[](https://www.thoughtco.com/viking-trading-and-exchange-networks-173147)
-[](https://www.historyonthenet.com/vikings-as-traders)
-[](https://www.historyonthenet.com/viking-law-and-government-the-thing/)
-
-Die Götterlieder der Älteren Edda, Reclam
-
-[](https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 20.01.2018")
-(https://www.history.com/news/how-did-the-vikings-honor-their-dead)
-
-Bildquellen:
-
-https://www.theodysseyonline.com/18-ways-the-disney-college-program-destroys-you
-https://de.wikipedia.org/wiki/Odin#/media/File:Odinskopf.JPG
