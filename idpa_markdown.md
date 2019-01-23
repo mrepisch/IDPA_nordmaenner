@@ -444,8 +444,6 @@ Eine alternative Art der Beisetzung ist auch die Verwendung eines Bootes als Gra
 und Schätzen ins Boot gelegt und auf seine Reise geschickt. Da Boote extrem aufwendig in der Produktion sind ist dies, die 
 kostspieligste Art und wurde nur selten verwendet.
 
-
-
 # Sozialstrukur
 
 ## Literarische Quellen
@@ -457,33 +455,35 @@ in Latein geschrieben.
 Skandinavische Werke tauchten erst im 11ten und 12ten Jahrhundert vermehrt mit der Christianisierung zusammen auf. 
 Zu dieser Zeit gewann lateinisch auch an Bedeutung in dieser Region. 
 Daher findet man erst aus dieser Zeit viele Schriftstücke. 
-^[10]
+^[https://en.wikipedia.org/wiki/Vikings "Stand 28.11.2018"]
 
 Bild zu den Schriftzeichen der Nordmänner.
 Nur zwischen 9. und 11ten Jahrhundert verwendet.
 Quelle: https://en.wikipedia.org/wiki/Younger_Futhark
 
 ## Gesellschaftliche Hierarchie
-
 Im frühen Zeitalter der Wikinger hatten noch keine Könige existiert.
 Wie länger wie mehr gewann das Königtum an Wichtigkeit. Das Einsetzen eines Königs zentralisierte die Macht über das ganze Volk bei ihm.  
 Die Hierarchie der Nordmänner war in drei Hauptstufen unterteilt. 
 Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die Thralls, also Sklaven.
 Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. 
 
-^[11]
+^[https://www.historyonthenet.com/viking-society-nobles-medieval-freemen-slaves "Stand 10.12.2018"]
+^[https://norse-mythology.org/viking-social-structure/ "Stand 10.12.2018"]
 
 ## Familienleben
-
 Im Zeitalter der Wikinger lebten die meisten Menschen auf 
 Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. 
 Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. Die Bewohner eines Bauernhofes 
 hielten sogar Haustiere.
 
-Die Produkte die man hergestellt hat waren sehr divers. Die Nordmänner züchteten verschiedenste Arten von Tieren und konnten 
+Die Produkte, die man hergestellt hat waren sehr divers. Die Nordmänner züchteten verschiedenste Arten von Tieren und konnten 
 fast alles mögliche Gemüse anpflanzen. Die üblichsten Gemüse waren jedoch Kohl, Zwiebeln, Kresse und Erbsen. Honig war ein gutes 
 Süssungsmittel und Salz gewann man entweder selber aus Salzwasser oder es wurde durch den Handel importiert. Sie verarbeiteten sogar 
-Milch zu Käsu und brauten Bier aus Gerste. Die Nordmänner hatten definitiv keine Mühe damit diverses Essen auf den Tisch zu bringen.
+Milch zu Käse und brauten Bier aus Gerste. Die Nordmänner hatten also definitiv keine Mühe damit diverses Essen auf den Tisch zu bringen.
+
+^[http://www.vikinganswerlady.com/food.shtml "Stand 7.12.2018"]
+^[https://www.historyonthenet.com/vikings-history-overview-culture-history-viking-age "Stand 7.12.2018"]
 
 Kinder mussten bereits sehr früh im Haushalt mitarbeiten. Es wurde von ihnen erwartet, dass sie ihren Teil zum Wohl der Gemeinschaft 
 beitragen. Genau so lernten sie allerdings auch, wie sie die Arbeiten zu verrichten hatten, die sie später am Leben erhielten. Kinder 
@@ -496,6 +496,8 @@ hatten, während andere Paare kinderlos waren. Das Erziehen der Kinder wurde in 
 Kinder wurden bereits zwischen dem 12ten und 16ten Lebensjahr erwachsen. Mit dem Erreichen dieses Alters mussten sie wissen, wie man 
 einen Haushalt hielt und es wurde erwartet, dass sie eine eigene Familie aufbauen. Was sie allerdings nicht lernten ist das Lesen und
 Schreiben, was die heutige Arbeit für Historiker deutlich erschwert.
+
+^[http://www.hurstwic.org/history/articles/daily_living/text/Demographics.htm "Stand 8.1.2019"]
 
 
 ## Frauen und Männerbild
@@ -526,7 +528,6 @@ Frauendefizit geführt und habe entweder die Sklavenkultur bewirkt oder bedeuten
 auch von Frauen berichtet, die mehrere Männer überlebten. 
 
 ## Homosexualität
-
 Es existieren keine direkten Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Die Idee einer 
 ausschliesslich gleichgeschlechtigen Beziehung konnte man sich damals nicht vorstellen. Es war jedoch nicht wichtig wie das 
 sexuelle Leben eines Menschen aussah, solange man sich an die Normen hielt und eine Familie und Kinder hatte. Von Menschen, die 
@@ -534,7 +535,6 @@ sich aus Beziehungen fern hielten, wurde gesagt sie haben Angst vor dem anderen 
 der Wikinger eine tiefe Beleidigung. Somit haben die Wikinger nicht aus Prinzip eine Abscheu gegenüber homosexuellen Aktivitäten gehabt.
 
 ## Kriegszüge
-
 Die Wikinger waren dafür bekannt, dass sie Abenteurer waren. Sie erkundeten weite Teile Europas,
 trieben Handel mit den Völkern die sie fanden und raubten auch einige aus. Diese Raubzüge machten 
 sie zu einem gefürchteten Volk.
@@ -542,19 +542,21 @@ sie zu einem gefürchteten Volk.
 Den wenigsten Leuten ist heutzutage bewusst, wie weit die Wikinger auf ihren Reisen kamen. 
 Sie siedelten sich in England, Irland, Frankreich und Spanien an. Ihre Signifikanz kann man an der
 Namensgebung von Orten sehen, die Normandie wurde nach den Normannen benannt. 
+^[https://www.ingebretsens.com/culture/history/the-vikings-and-the-viking-era "Stand 28.11.2018"]
 
 Sie bereisten sogar die arabische Welt und reisten in den Osten nach Russland. Der 
 Name Russland kommt aus dem Schwedischen. Rus steht für Wikinger. Der Name kommt davon, dass sie auch im 
 Osten Europas, also insbesondere Russland siedelten. 
+^[https://www.ancient.eu/Vikings/ "Stand 18.12.2018"]
 
 ### Schieldmaiden
-
 Es existieren nur wenige Aufzeichnungen von Frauen, die wie die Männer in den Krieg gezogen sind. Es gab jedoch Gemeinschaften 
 von Schieldmaiden, also Frauen, die sich wie Männer kleideten, für den Krieg trainierten und dann auch in den Krieg zogen.
 Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. 
+^[https://allthatsinteresting.com/viking-shieldmaidens "Stand 5.1.2019"]
+^[https://www.tor.com/2015/06/08/viking-warrior-women-did-shieldmaidens-like-lagertha-really-exist/ "Stand 23.01.2019"]
 
 ## Handel
-
 Handel spielte bei den Nordmännern eine grosse Rolle. Ihr Handelsnetzwerk streckte sich von Skandinavien ostwärts über Europa bis 
 nach Konstantinopel. Westwärts gelangten sie nach Grossbritannien, Irland, Island, Grönland und zeitweise sogar bis nach Nordamerika.^[https://www.historyonthenet.com/vikings-as-traders "Stand 22.01.2019"] 
 Rund 400 Jahre vor Christoph Kolumbus. 
