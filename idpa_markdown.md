@@ -699,11 +699,20 @@ Mythologie eingebundene, Struktur hin. Das wird jedoch angezweifelt, da die besc
 Zeitraum hindeuten. Es wird vermutet, dass das Lied von Rig nicht viel älter als seine Niederschrift im 14. Jahrhundert 
 ist und als nachträgliche Erklärung und Legitimation dienen sollte
 
--- Zitat: Sie (Thrall und Thyr) lebten knapp und zeugten Kinder, [...] Von ihnen entsprang der Knechte Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13)
--- Zitat: Sie (Karl und Snör) zeugten Kinder und zogen sie froh: [...] Von den beiden entsprang der Bauern Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22)
--- Zitat: 
+>Sie (Thrall und Thyr) lebten knapp und zeugten Kinder,
+>[...] 
+>Von ihnen entsprang der Knechte Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13)
 
-!!!TODO SILVAN ZITATZ ERGÄNNZEN Jarl !!!!
+>Sie (Karl und Snör) zeugten Kinder und zogen sie froh: 
+>[...] 
+>Von den beiden entsprang der Bauern Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22)
+
+>Die Mutter gebar und barg in Seide
+>Ein Kind, das genetzt und genannt ward Jarl.
+>[...]
+>Sie (Jarl und Erna) wohnten beisammen und waren sich hold,
+>Führten fort den Stamm froh bis ins Alter.
+[...]
 
 ### Familienleben
 
