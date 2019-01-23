@@ -712,7 +712,7 @@ ist und als nachträgliche Erklärung und Legitimation dienen sollte
 >[...]
 >Sie (Jarl und Erna) wohnten beisammen und waren sich hold,
 >Führten fort den Stamm froh bis ins Alter.
-[...]
+[...] (Die ältere Edda - Göttersage, Rigsmal Vr. 31 - (Schluss verloren))
 
 ### Familienleben
 
