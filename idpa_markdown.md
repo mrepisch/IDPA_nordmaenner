@@ -701,18 +701,18 @@ ist und als nachträgliche Erklärung und Legitimation dienen sollte
 
 >Sie (Thrall und Thyr) lebten knapp und zeugten Kinder,
 >[...] 
->Von ihnen entsprang der Knechte Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13)
+>Von ihnen entsprang der Knechte Geschlecht. ^[Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13]
 
 >Sie (Karl und Snör) zeugten Kinder und zogen sie froh: 
 >[...] 
->Von den beiden entsprang der Bauern Geschlecht. (Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22)
+>Von den beiden entsprang der Bauern Geschlecht. ^[Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22]
 
 >Die Mutter gebar und barg in Seide
 >Ein Kind, das genetzt und genannt ward Jarl.
 >[...]
 >Sie (Jarl und Erna) wohnten beisammen und waren sich hold,
 >Führten fort den Stamm froh bis ins Alter.
-[...] (Die ältere Edda - Göttersage, Rigsmal Vr. 31 - (Schluss verloren))
+[...] ^[Die ältere Edda - Göttersage, Rigsmal Vr. 31 - (Schluss verloren)]
 
 ### Familienleben
 
