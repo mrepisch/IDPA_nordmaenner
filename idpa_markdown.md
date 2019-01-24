@@ -489,9 +489,7 @@ hatten, während andere Paare kinderlos waren. Das Erziehen der Kinder wurde in 
 
 Kinder wurden bereits zwischen dem 12ten und 16ten Lebensjahr erwachsen. Mit dem Erreichen dieses Alters mussten sie wissen, wie man 
 einen Haushalt hielt und es wurde erwartet, dass sie eine eigene Familie aufbauen. Was sie allerdings nicht lernten ist das Lesen und
-Schreiben, was die heutige Arbeit für Historiker deutlich erschwert.
-
-^[http://www.hurstwic.org/history/articles/daily_living/text/Demographics.htm "Stand 8.1.2019"]
+Schreiben, was die heutige Arbeit für Historiker deutlich erschwert. ^[http://www.hurstwic.org/history/articles/daily_living/text/Demographics.htm "Stand 8.1.2019"]
 
 
 ## Frauen und Männerbild
@@ -546,9 +544,7 @@ Osten Europas, also insbesondere Russland siedelten.
 ### Schieldmaiden
 Es existieren nur wenige Aufzeichnungen von Frauen, die wie die Männer in den Krieg gezogen sind. Es gab jedoch Gemeinschaften 
 von Schieldmaiden, also Frauen, die sich wie Männer kleideten, für den Krieg trainierten und dann auch in den Krieg zogen.
-Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. 
-^[https://allthatsinteresting.com/viking-shieldmaidens "Stand 5.1.2019"]
-^[https://www.tor.com/2015/06/08/viking-warrior-women-did-shieldmaidens-like-lagertha-really-exist/ "Stand 23.01.2019"]
+Das meiste was man davon weiss stammt aus literarischen Werken und das Thema der Schieldmaiden hat die Kultur damals bewegt. ^[https://allthatsinteresting.com/viking-shieldmaidens "Stand 5.1.2019"] ^[https://www.tor.com/2015/06/08/viking-warrior-women-did-shieldmaidens-like-lagertha-really-exist/ "Stand 23.01.2019"]
 
 ## Handel
 Handel spielte bei den Nordmännern eine grosse Rolle. Ihr Handelsnetzwerk streckte sich von Skandinavien ostwärts über Europa bis 
@@ -701,11 +697,11 @@ ist und als nachträgliche Erklärung und Legitimation dienen sollte
 
 >Sie (Thrall und Thyr) lebten knapp und zeugten Kinder,
 >[...] 
->Von ihnen entsprang der Knechte Geschlecht. ^[Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13]
+>Von ihnen entsprang der Knechte Geschlecht. ^[Die ältere Edda - Göttersage, Rigsmal Vr. 12 - 13].
 
 >Sie (Karl und Snör) zeugten Kinder und zogen sie froh: 
 >[...] 
->Von den beiden entsprang der Bauern Geschlecht. ^[Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22]
+>Von den beiden entsprang der Bauern Geschlecht. ^[Die ältere Edda - Göttersage, Rigsmal Vr. 21 - 22].
 
 >Die Mutter gebar und barg in Seide
 >Ein Kind, das genetzt und genannt ward Jarl.
