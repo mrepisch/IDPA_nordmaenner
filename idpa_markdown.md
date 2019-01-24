@@ -468,7 +468,6 @@ Diese sind die Jarls(Aristokraten), die Karls(Mittel- und Unterschicht) und die 
 Sklaverei war zur Zeit der Wikinger üblich und sicherlich auch ein Grund für die Überfälle in andere Länder. ^[https://www.historyonthenet.com/viking-society-nobles-medieval-freemen-slaves "Stand 10.12.2018"].
 
 ## Familienleben
-
 Im Zeitalter der Wikinger lebten die meisten Menschen auf 
 Bauernhöfen. Häufig sind mehrere Familien zusammen im gleichen Haushalt gewesen. 
 Die übliche Grösse eines solchen Haushalts betrug zwischen 10 und 20 Menschen. Die Bewohner eines Bauernhofes 
@@ -495,22 +494,23 @@ Schreiben, was die heutige Arbeit für Historiker deutlich erschwert. ^[http://w
 ## Frauen und Männerbild
 
 ### Rollenverteilung
-
-Die Kultur wurde generell von Männern dominiert, jedoch besassen die Frauen je nach 
-Stand auch viel Macht. Die Rolle der Frauen war, dass sie den Haushalt führten. Sie kümmerten sich um die Tiere, 
-lagerten das Essen für den Winter ein, arbeiteten im Garten und kümmerten sich um die Familie. Die wichtigste ihrer Aufgaben war
-das Fabrizieren neuer Kleider. Männer halfen ebenfalls im Haushalt mit, übernahmen jedoch die körperlich strengeren Arbeiten. Sie 
-vertraten ebenfalls die Familie in der Gemeinschaft und bildeten das Haupt einer Familie. Bekannterweise zogen Männer auch häufig in 
-den Krieg, in diesen Zeiten mussten ihre Frauen den Haushalt übernehmen.
+Die Kultur wurde generell von Männern dominiert, jedoch besassen die Frauen je nach Stand auch viel Macht. 
+Die Rolle der Frauen war, dass sie den Haushalt führten. 
+Sie kümmerten sich um die Tiere, lagerten das Essen für den Winter ein, arbeiteten im Garten und kümmerten sich um die Familie. 
+Die wichtigste ihrer Aufgaben war das Fabrizieren neuer Kleider. 
+Männer halfen ebenfalls im Haushalt mit, übernahmen jedoch die körperlich strengeren Arbeiten. 
+Sie vertraten ebenfalls die Familie in der Gemeinschaft und bildeten das Haupt einer Familie. 
+Bekannterweise zogen Männer auch häufig in den Krieg, in diesen Zeiten mussten ihre Frauen den Haushalt übernehmen.
 
 Ehen wurden von den Eltern arrangiert und Kinder wurden zwischen dem 12ten und 20ten Lebensjahr verheiratet. 
 Das für uns junge Alter kam sicherlich auch davon, dass die Lebenserwartung zu dieser zeit höchstens 50 Jahre betrug.
-Bei der Verlobung bezahlte die Familie des Bräutigams der Familie der Braut einen Brautpreis. 
-Bei der Hochzeit hingegen wurde die Mitgift vom Vater der Braut bereitgestellt. Somit haben beide Familien ein 
-finanzielles Interesse an der Ehe der Kinder.
+Bei der Verlobung bezahlte die Familie des Bräutigams, der Familie der Braut einen Brautpreis. 
+Bei der Hochzeit hingegen wurde die Mitgift vom Vater der Braut bereitgestellt. Somit haben beide Familien ein finanzielles Interesse an der Ehe der Kinder.
+^[https://www.history.com/news/what-was-life-like-for-women-in-the-viking-age "Stand 8.1.2019"]
+^[https://www.historyonthenet.com/vikings-history-overview-culture-history-viking-age "Stand 8.1.2019"]
+
 
 ## Polygamie und Monogamie
-
 Zum Punkte der Polygamie gibt es vieles zu sagen. Das Problem ist allerdings, dass nur 
 wenige Beweise dazu existieren. Das meiste was in diesem Absatz kommt ist also hauptsächlich Theorie aus verschiedenen Quellen.
 
@@ -518,6 +518,8 @@ Die Theorie existiert, dass die Kultur der Nordmänner früher eine Polygame Kul
 bedeutend attraktiver für Frauen waren und somit die Männer häufig mehrere Frauen haben konnten. Dies habe auch zu einem 
 Frauendefizit geführt und habe entweder die Sklavenkultur bewirkt oder bedeutend verstärkt. In einzelnen Sagen wird jedoch 
 auch von Frauen berichtet, die mehrere Männer überlebten. 
+^[https://news.nationalgeographic.com/2015/12/151228-vikings-slaves-thralls-norse-scandinavia-archaeology/ "Stand 15.12.2018"]
+^[https://www.reddit.com/r/AskHistorians/comments/6ro53z/did_norse_polygamist_traditions_cause_a_gender/ "Stand 15.12.2018"]
 
 ## Homosexualität
 Es existieren keine direkten Aufzeichnungen von gleichgeschlechtigen Päärchen zur Zeit der Wikinger. Die Idee einer 
@@ -525,6 +527,7 @@ ausschliesslich gleichgeschlechtigen Beziehung konnte man sich damals nicht vors
 sexuelle Leben eines Menschen aussah, solange man sich an die Normen hielt und eine Familie und Kinder hatte. Von Menschen, die 
 sich aus Beziehungen fern hielten, wurde gesagt sie haben Angst vor dem anderen Geschlecht. Dies ist insbesondere in der Kriegerkultur 
 der Wikinger eine tiefe Beleidigung. Somit haben die Wikinger nicht aus Prinzip eine Abscheu gegenüber homosexuellen Aktivitäten gehabt.
+^[https://sourcebooks.fordham.edu/pwh/gayvik.asp "Stand 24.12.2018"]
 
 ## Kriegszüge
 Die Wikinger waren dafür bekannt, dass sie Abenteurer waren. Sie erkundeten weite Teile Europas,
@@ -605,6 +608,7 @@ jedoch war es möglich die Klasse zu wechseln. Sehr reiche Jarls konnten zu Kön
 Unterschicht zu fest in Schulden geriet, musste er zwangshalber seine Schulden als Sklave abarbeiten und Sklaven hatten 
 sogar die Möglichkeit in ihrer Freizeit Waren zu produzieren, diese zu verkaufen und sich mit diesem Geld selber frei zu kaufen. 
 Ansonsten fehlten den Sklaven jedoch jegliche Rechte und häufig mussten sie sterben, sobald sie nicht mehr arbeiten konnten. 
+^[https://www.historyonthenet.com/viking-society-nobles-medieval-freemen-slaves "Stand 20.11.2018"]
 
 ## Das Recht
 
@@ -788,14 +792,6 @@ Ebenso gilt dies für den Aspekt der Gastfreundschaft, welche laut den Sprüchen
 > Sehr hastig ist, wer am Feuer 
 > seinen Nutzen sucht" ^[Die Götterlieder der Älteren Edda, Die Sprüche des Hohen Vr.2]
 
-
-### Rollenverteilung
-http://www.hurstwic.org/history/articles/society/text/women.htm
-
-Viele Sagen zu den Rechten von Frauen referenziert, von Verletzung bis Belästigung. Eigenständigkeit wird referenziert. 
-
-
-
 ### Polygamie / Monogamie
 
 Da laut unseren Recherchen Polygamie eher in den höheren Geselschaftsschichten vorgekommen, wäre die offensichtliche Verbindung zu Mythologie
@@ -829,25 +825,24 @@ Loki ist bekannt als ein Gott der sein Geschlecht ändern kann. Er wird auch der
 mit einem Hengst ein Fohlen.  
 Odin wurde beschuldigt er sei unmännlich und habe unmännliche Aktivitäten betrieben, da er Frauenmagie betrieben hat. 
 Es ist nicht ganz klar, was Frauenmagie so unmännlich macht. Die Vermutungen reichen von nicht ehrenwerten Vorteilen 
-im Kampf bis zu sexuellen Praktiken mit anderen Männern. ^[http://www.vikinganswerlady.com/gayvik.shtml] ^[https://en.wikipedia.org/wiki/LGBT_themes_in_mythology#European_mythologies]
+im Kampf bis zu sexuellen Praktiken mit anderen Männern. ^[http://www.vikinganswerlady.com/gayvik.shtml "Stand 19.1.2019"] ^[https://en.wikipedia.org/wiki/LGBT_themes_in_mythology#European_mythologies "Stand 19.1.2019"]
 
 
 ### Schieldmaiden
 
 Die Existenz von Schieldmaiden, also Frauen in den Krieg gezogen sind ist umstritten, 
 jedoch existieren dazu einige Sagen. Die Vǫlsunga Sage spricht von Brynhildr, einer Frau die den Kampf 
-versteht und sich sehr mit dem Thema der Ehre beschäftigt.In der Sage Sage nimmt Brynhildr direkt an ihrem Ex-Mann Rache, 
+versteht und sich sehr mit dem Thema der Ehre beschäftigt. In der Sage Sage nimmt Brynhildr direkt an ihrem Ex-Mann Rache, 
 was zum Tod der beiden und seines Sohnes führt. Diese Art der Rache zeigt, dass sie fähig war mit einem Mann zu kämpfen. 
-Sie nimmt somit ebenfalls die Angelegnheit in ihre eigene Hand und überlässt sie niemand anderem.  
+Sie nimmt somit ebenfalls die Angelegnheit in ihre eigene Hand und überlässt sie niemand anderem. ^[https://en.wikipedia.org/wiki/V%C3%B6lsunga_saga "Stand 19.1.2019"]
 
 Es existieren einige Sagen zum Thema von kämpfenden Frauen und einige haben auch schon vor den
 Wikingern existiert. Jedoch sprechen nur wenige davon, wie Frauen aktiv in den Krieg ziehen, sondern viel 
 mehr wie sie fähig sein mussten ihr Land und ihre Familie zu verteidigen. Es ist anzunehmen, dass die Sagen nicht der 
 Ursprung für weibliche Kämpfer waren, sondern eher eine Erlaubnis, die ihnen das Kämpfen ermöglichte.
-!!!TODO fussnoten platzieren @michael!!!
-https://en.wikipedia.org/wiki/Shield-maiden
-https://en.wikipedia.org/wiki/Hervarar_saga_ok_Hei%C3%B0reks
-https://en.wikipedia.org/wiki/Gesta_Danorum
+
+^[https://en.wikipedia.org/wiki/Shield-maiden "Stand 19.1.2019"]
+^[https://en.wikipedia.org/wiki/Gesta_Danorum "Stand 19.1.2019"]
 
 ### Handel
 Es gibt keine ausreichenden Indizien, die eine Verbindung der Handelsaktivität mit der 
@@ -855,7 +850,7 @@ Mythologie der Nordmänner erschliessen lässt.
 
 ### Kriegszüge und Expeditionen
 
-Die Liste der Kriegszüge, welche in den Eddas und vor allem in den Sagas vorkommen ist lang. Auch der Aspekt des Kämpfer 
+Die Liste der Kriegszüge, welche in den Eddas und vor allem in den Sagas vorkommen, ist lang. Auch der Aspekt des Kämpfer 
 war gern bei einem Mann gesehen. Diese kriegerische Haltung könnt vom Glauben an Valhalla herrühren. Ein Kämpfer welcher
 sich im Kampf bewährt hatt und fällt, wird die grösste Ehre zu teil. Im ist es nun gestattet an Odins Tafel zu speisen und
 für ihn am Raganrök zu kämpfen. 
@@ -897,8 +892,7 @@ es sich leisten konnten, errichtet.
 Es war wichtig die Toten korrekt zu begraben. Ihnen wurde beim Tod vieles mitgegeben. 
 Der Zweck der mitgegebenen Gegenstände ist, dass die Toten im Nachleben gut aufgenommen wurden. 
 Es war im allgemeinen Bewusstsein, dass die Kastengesellschaft im Nachleben weitergeführt wird, 
-somit ist es wichtig, dass die Toten ihren Platz in der richtigen Kaste finden konnten. ^[https://en.wikipedia.org/wiki/Norse_funeral#Grave_goods] ^[https://en.wikipedia.org/wiki/Norse_funeral#Rituals]
-
+somit ist es wichtig, dass die Toten ihren Platz in der richtigen Kaste finden konnten. ^[https://en.wikipedia.org/wiki/Norse_funeral#Grave_goods "Stand 19.1.2019"] 
 
 # Gesetz und Sitte 
 
