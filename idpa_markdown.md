@@ -840,9 +840,7 @@ Es existieren einige Sagen zum Thema von kämpfenden Frauen und einige haben auc
 Wikingern existiert. Jedoch sprechen nur wenige davon, wie Frauen aktiv in den Krieg ziehen, sondern viel 
 mehr wie sie fähig sein mussten ihr Land und ihre Familie zu verteidigen. Es ist anzunehmen, dass die Sagen nicht der 
 Ursprung für weibliche Kämpfer waren, sondern eher eine Erlaubnis, die ihnen das Kämpfen ermöglichte.
-
-^[https://en.wikipedia.org/wiki/Shield-maiden "Stand 19.1.2019"]
-^[https://en.wikipedia.org/wiki/Gesta_Danorum "Stand 19.1.2019"]
+^[https://en.wikipedia.org/wiki/Shield-maiden "Stand 19.1.2019"] ^[https://en.wikipedia.org/wiki/Gesta_Danorum "Stand 19.1.2019"]
 
 ### Handel
 Es gibt keine ausreichenden Indizien, die eine Verbindung der Handelsaktivität mit der 
