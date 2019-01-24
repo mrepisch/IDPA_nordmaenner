@@ -82,7 +82,7 @@ Die Sagen sind in acht Kategorien unterteilt. Die König Sagas(Konungasögur), d
 die Kurzgeschichten der Isländer(Íslendingaþættir), die zeitgenösischen Sagas(Samtíðarsögur), die lengendären Sagas(Fornaldarsögur),
 die Rittersagen(Riddarasögur), die heiligen Sagen(Heilagra manna sögur) und zuletzt die Sagen der Bischöfe(Biskupa sögur).
 Auf all diese Sagen können natürlich nicht im Detail eingegangen werden. Man geht davon aus dass, mit Ausnahme der 
-legendären Sagen, die erzählten Geschichten recht realistisch sind ^[https://en.wikipedia.org/wiki/Saga].
+legendären Sagen, die erzählten Geschichten recht realistisch sind ^[https://en.wikipedia.org/wiki/Saga "Stand 03.01.2018].
 
 Die Sakdinavische und die Isländische Kultur haben eine
 reiche Tradition des Geschichten erzählens. Dies dürfte damit zusammenhängen, dass das Wissen der Nordmänner 
@@ -263,7 +263,7 @@ durch eine List entstanden ^[Edda des Snorri Sturluson Gylfis Täuschung Vers 42
 
 "Der Gott Tyr der in der allemanischen Sprache auch Tiwaz gennant wird
 ist der kühnste aller Asen. Ebenfalls ist der der Namensgeber des
-Diestags" ^[https://de.wikipedia.org/wiki/Tyr].
+Diestags" ^[https://de.wikipedia.org/wiki/Tyr "Stand 15.12.2018"].
 
 Er soll über den Ausgang einer Schlacht entscheiden. Daher wurde Tyr oft vor dem Kampf
 angerufen. Bei der Gefangennahme des Wolfs Fenrir (siehe im Kapitel Loki
@@ -403,7 +403,7 @@ Leben. Erst nachdem die dunkle Zeit vorüber ist und der Frühling kommt kehrt w
 oder aus archeologischen Funden. Bekannt ist das es Brauch war Opfergaben einer bestimmten Gottheit darzubieten. Geopfert wurden
 vor allem Nahrung oder Tiere. Jedoch ist immer wieder von Menschenopfer, in den Sagen und historischen Texten, die Rede.
 In der Erzählung wird alle neun Jahre von jeder Tiergattung ein männliches Exemplar geopfert und aufgehängt. Zu den männlichen Tieren zählten
-die Menschen dazu. Das Opferritual wird Blot gennant ^[https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer]
+die Menschen dazu. Das Opferritual wird Blot gennant ^[https://de.wikipedia.org/wiki/Nordgermanische_Religion#Opfer "Stand 15.01.2018"]
 
 > Weisst du, wie man ritzen soll, weisst du wie man raten soll?
 > Weisst du, wie man färben soll, weisst du wie man prüfen soll?
@@ -432,7 +432,7 @@ Mitte eines Steinkreises statt. Die Anzahl der Gegenstände und ihr Wert entspra
 Das bedeutet, dass Sklaven meisten mit nichts begraben oder verbrannt wurden, während Jarls Unmengen an Schmuck und 
 Werkzeugen mit in den Tod nahmen. Männer wurden mit ihren Waffen und Werkzeugen begraben, was auch ihre soziale Rolle 
 gut darstellt. Frauen hingegen wurden mit Haushaltsgegenständen, Nähzeug und Schmuck begraben.  
-Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken ^[https://www.history.com/news/how-did-the-vikings-honor-their-dead]. 
+Die reichsten und stärksten Stämme konnten ihre Macht durch riesige Grabfelder ausdrücken ^[https://www.history.com/news/how-did-the-vikings-honor-their-dead "Stand 11.11.2018"]. 
 
 Bild eines Grabkreises
 https://www.history.com/news/how-did-the-vikings-honor-their-dead
