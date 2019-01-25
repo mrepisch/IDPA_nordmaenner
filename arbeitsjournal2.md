@@ -7,12 +7,13 @@ Vorbereitungen zur Präsentation wurden noch nicht aufgenommen.
 - Stand des Produkts dokumentieren: erste Resultate, einzelne fertige Texte, Prototyp
 etc.
 
-Unsere Fragestellung ist im Moment immer noch gültig und muss lediglich für den Gebrauch innerhalb von Texten simplifiziert werden.
+Unsere Fragestellung ist immer noch gültig und kann so abgegeben werden. Sie muss lediglich für den Gebrauch innerhalb von Texten simplifiziert werden.
 
 - Gültigkeit von Fragestellung(en) bzw. Hypothese(n) überprüfen und allfällige
 Anpassungen vornehmen
 ## Präsentationsschwerpunkte
 - mögliche Schwerpunkte für die Präsentation festhalten
+
 Die Präsentation sollte sich primär auf die Kontextualisierung fokusieren. An zweiter Stelle folgt die Mythologie.  
 
 # mögliche Themen für die Reflexion
@@ -21,9 +22,15 @@ Die Präsentation sollte sich primär auf die Kontextualisierung fokusieren. An 
 # Reflexion
 
 ## Was ist gelungen?
+Wir konnten eine grosse Menge an Informationen zusammentragen
+Wir konnten das erhoffte Ziel erreichen
+Wir konnten die Informationen verständlich
 
 ## Was ist nicht gelungen?
 
+
+## Verbesserungsmöglichkeiten
+Wir könnten das Projekt besser planen
 
 - Warum ist was gelungen bzw. nicht gelungen? (u.a. das Erreichen der persönlichen
 Ziele)
