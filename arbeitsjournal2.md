@@ -7,13 +7,8 @@ Vorbereitungen zur Präsentation wurden noch nicht aufgenommen.
 Unsere Fragestellung ist immer noch gültig und kann so abgegeben werden. Sie muss lediglich für den Gebrauch innerhalb von Texten simplifiziert werden.
 
 ## Präsentationsschwerpunkte
-- mögliche Schwerpunkte für die Präsentation festhalten
-
 Die Präsentation sollte sich primär auf die Kontextualisierung fokusieren. An zweiter Stelle folgt die Mythologie.  
 
-# mögliche Themen für die Reflexion
-- Auswirkungen des 1. Zwischengesprächs auf das weitere Vorgehen thematisieren
-- Arbeitsorganisation kommentieren
 # Reflexion
 
 ## Was ist gelungen?
