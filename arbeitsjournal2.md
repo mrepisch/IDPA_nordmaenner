@@ -1,16 +1,11 @@
 # Inhalte
 ## Stand des Produkts
-Zum jetztigen Zeitpunkt, sind die Einleitung sowie der Hauptteil fertiggestellt und werden zur Übernahme in ein Worddokument vorbereitet.
-Von den Segmenten der schriftlichen Arbeit (nach Bewertungskriterium) fehlen noch drei Kapitel: Das Fazit und die Bibliographie befinden sich bereits in Arbeit. Die Abstraction wurde noch nicht begonnen.
+Zum jetztigen Zeitpunkt(22.01.2019), sind die Einleitung sowie der Hauptteil und die Abstraction fertiggestellt und werden zur Übernahme in ein Worddokument vorbereitet.
+Von den Segmenten der schriftlichen Arbeit (nach Bewertungskriterium) fehlen noch zwei Kapitel: Das Fazit und die Bibliographie befinden sich bereits in Arbeit.
 Vorbereitungen zur Präsentation wurden noch nicht aufgenommen.
-
-- Stand des Produkts dokumentieren: erste Resultate, einzelne fertige Texte, Prototyp
-etc.
 
 Unsere Fragestellung ist immer noch gültig und kann so abgegeben werden. Sie muss lediglich für den Gebrauch innerhalb von Texten simplifiziert werden.
 
-- Gültigkeit von Fragestellung(en) bzw. Hypothese(n) überprüfen und allfällige
-Anpassungen vornehmen
 ## Präsentationsschwerpunkte
 - mögliche Schwerpunkte für die Präsentation festhalten
 
@@ -22,17 +17,11 @@ Die Präsentation sollte sich primär auf die Kontextualisierung fokusieren. An 
 # Reflexion
 
 ## Was ist gelungen?
-Wir konnten eine grosse Menge an Informationen zusammentragen
-Wir konnten das erhoffte Ziel erreichen
-Wir konnten die Informationen verständlich
+Wir konnten das erhoffte Ziel erreichen.
+Uns ist gelungen eine grosse Menge an Informationen zusammentragen und daraus die, für unsere Arbeit, wichtigsten Aspekte herauszufiltern. Zusätzlich konnten jene Informationen in eie einfach verständliche Form packen. 
 
 ## Was ist nicht gelungen?
-
+Aufgrund der eher ungenauen Quellenlage, konnten wir unsere Fragestellung nicht genau beantworten und mussten Teile der Antwort mit Vermutungen ersetzen.
 
 ## Verbesserungsmöglichkeiten
-Wir könnten das Projekt besser planen
-
-- Warum ist was gelungen bzw. nicht gelungen? (u.a. das Erreichen der persönlichen
-Ziele)
-- Welche Verbesserungsmöglichkeiten sehen wir bzw. welche Lehren für zukünftige
-Arbeiten ziehen wir daraus?
+Wir hatten Mühe, die von uns gesetzten Deadlines zu erreichen. Das hätte teilweise vermieden werden können, wenn der Projektplan am Anfang detaillierter ausgearbeitet worden wäre.
